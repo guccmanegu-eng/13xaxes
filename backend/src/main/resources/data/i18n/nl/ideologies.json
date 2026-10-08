@@ -1,0 +1,1807 @@
+[
+  {
+    "id": "marxismo-leninismo",
+    "name": "Marxisme-leninisme",
+    "category": "Radicaal Links",
+    "description": "Revolutionaire tak van het marxisme die de machtsovername door een voorhoedepartij en de dictatuur van het proletariaat bepleit, met een planeconomie en collectivisatie, en diende als de basis van de communistische regimes van de 20e eeuw.",
+    "phrase": "Ik wil een samenleving die geregeerd wordt door een voorhoedepartij, met de dictatuur van het proletariaat en een geplande, gecollectiviseerde economie."
+  },
+  {
+    "id": "socialismo-stalinista",
+    "name": "Stalinistisch Socialisme",
+    "category": "Radicaal Links",
+    "description": "Sovjetmodel geconsolideerd door Stalin, gekenmerkt door gedwongen industrialisatie, agrarische collectivisatie, rigide centrale planning, een persoonsverheerlijking en massale repressie tegen echte of vermeende tegenstanders van het regime.",
+    "phrase": "Ik wil een samenleving onder een sterke leider en een eenpartijstelsel, met agrarische collectivisatie, vijfjarenplannen en gedwongen industrialisatie."
+  },
+  {
+    "id": "comunismo-maoista",
+    "name": "Maoïstisch Communisme",
+    "category": "Radicaal Links",
+    "description": "Mao's Chinese aanpassing van het marxisme, gericht op de boerenstand als revolutionaire kracht, langdurige volksoorlog, permanente massamobilisatie en culturele revolutie tegen de partijbureaucratie.",
+    "phrase": "Ik wil een samenleving die gemobiliseerd is in een langdurige volksoorlog geleid door de boerenstand, met permanente culturele revolutie tegen de bureaucratie."
+  },
+  {
+    "id": "comunismo-trotskista",
+    "name": "Trotskistisch Communisme",
+    "category": "Radicaal Links",
+    "description": "Stroming van Trotski, mede-oprichter van de Sovjetstaat en het Rode Leger, die permanente revolutie, een voorhoedepartij en de dictatuur van het proletariaat verdedigt, en de stalinistische bureaucratie bekritiseert zonder afstand te doen van eenpartijheerschappij.",
+    "phrase": "Ik wil een permanente, wereldwijde revolutie geleid door een voorhoedepartij, met de dictatuur van het proletariaat, een planeconomie en geen stalinistische bureaucratie."
+  },
+  {
+    "id": "socialismo-luxemburguista",
+    "name": "Luxemburgistisch Socialisme",
+    "category": "Links",
+    "description": "Democratisch marxisme geïnspireerd door Rosa Luxemburg, dat revolutie en vrijheid verenigt, de spontaniteit van de massa's en de algemene staking waardeert, en zowel reformisme als het autoritaire centralisme van voorhoedepartijen bekritiseert.",
+    "phrase": "Ik wil een samenleving die bewogen wordt door de spontaniteit van de massa's en de algemene staking, revolutionair en vrij, zonder autoritaire voorhoedes of reformisme."
+  },
+  {
+    "id": "comunismo-nacional",
+    "name": "Nationaal Communisme",
+    "category": "Radicaal Links",
+    "description": "Stroming die een geplande socialistische economie combineert met een sterke nationale identiteit, waarbij de soevereiniteit en belangen van het eigen land prioriteit krijgen boven internationalisme, vaak onder personalistisch en gecentraliseerd leiderschap.",
+    "phrase": "Ik wil een socialistische samenleving gewijd aan de soevereiniteit en belangen van haar eigen natie, onder sterk leiderschap, geen internationalisme."
+  },
+  {
+    "id": "socialismo-juche",
+    "name": "Juche Socialisme",
+    "category": "Radicaal Links",
+    "description": "Noord-Koreaanse doctrine geformuleerd door Kim Il-sung die staatssocialisme, nationale zelfredzaamheid, eenpartijheerschappij, een persoonsverheerlijking, militarisering en afwijzing van externe afhankelijkheid combineert, en economie en samenleving ondergeschikt maakt aan de soevereiniteit van het regime.",
+    "phrase": "Ik wil een zelfredzame, gemilitariseerde samenleving, geleid door Juche onder een eenpartijstelsel en een persoonsverheerlijking, afhankelijk van niemand in het buitenland."
+  },
+  {
+    "id": "socialismo-pol-potista",
+    "name": "Pol Pot Socialisme",
+    "category": "Radicaal Links",
+    "description": "Radicaal agrarisch communisme van de Rode Khmer dat steden leegmaakte, geld en markten afschafte, en met geweld een egalitaire boerenmaatschappij nastreefde, wat leidde tot een van de grootste genocides van de 20e eeuw in Cambodja.",
+    "phrase": "Ik wil een egalitaire boerenmaatschappij, zonder steden, geld of markten, met geweld heropgebouwd onder de revolutionaire Angkar."
+  },
+  {
+    "id": "socialismo-denguista",
+    "name": "Dengistisch Socialisme",
+    "category": "Links",
+    "description": "Pragmatische hervorming geïnitieerd door Deng Xiaoping die markten, privé-eigendom en economische openstelling introduceerde onder de absolute controle van de Communistische Partij, wat het model van socialisme met Chinese kenmerken vormde.",
+    "phrase": "Ik wil pragmatisch socialisme, waarbij markten en privé-eigendom worden opengesteld om het land te verrijken, onder de absolute controle van de Communistische Partij."
+  },
+  {
+    "id": "socialismo-de-estado",
+    "name": "Staatssocialisme",
+    "category": "Radicaal Links",
+    "description": "Systeem waarin de staat de productiemiddelen beheert en de economie stuurt via centrale planning, ter bevordering van industrialisatie en welvaart onder sterke politieke autoriteit en beperkte populaire democratische participatie.",
+    "phrase": "Ik wil een samenleving waar de staat de productiemiddelen beheert en de economie plant, met sterke politieke autoriteit en weinig verkiezingsdebat."
+  },
+  {
+    "id": "progressismo-autoritario",
+    "name": "Autoritair Progressivisme",
+    "category": "Radicaal Links",
+    "description": "Project dat progressieve sociale transformaties van bovenaf oplegt, staatsmacht gebruikt om veranderingen in gebruiken en gelijkheid te versnellen, zelfs ten koste van individuele vrijheden en georganiseerde politieke oppositie.",
+    "phrase": "Ik wil een samenleving die van bovenaf getransformeerd wordt in gebruiken en gelijkheid, de staat gebruikend zelfs tegen georganiseerde oppositie."
+  },
+  {
+    "id": "ecoautoritarismo",
+    "name": "Eco-autoritarisme",
+    "category": "Radicaal Links",
+    "description": "Stroming die een sterke, interventionistische staat voorstaat om de milieucrisis aan te pakken, waarbij economische en politieke vrijheden ondergeschikt worden gemaakt aan de ecologische urgentie en strikte controle op consumptie en productie.",
+    "phrase": "Ik wil een samenleving waar de staat strikte grenzen stelt aan consumptie en productie om de ecologische crisis te stoppen, boven individuele vrijheden."
+  },
+  {
+    "id": "tecnocracia-de-esquerda",
+    "name": "Links Technocratie",
+    "category": "Links",
+    "description": "Model dat socialistische planning combineert met wetenschappelijk management van de economie, waarbij expertcommissies, in plaats van verkiezingen of partijconcurrentie, de rationele organisatie van productie en de egalitaire verdeling van maatschappelijke middelen toevertrouwd krijgen.",
+    "phrase": "Ik wil een samenleving die gerund wordt door expertcommissies, niet door verkiezingen, die de productie plannen en middelen met gelijkheid verdelen."
+  },
+  {
+    "id": "nacional-bolchevismo",
+    "name": "Nationaal-Bolsjewisme (NazBol)",
+    "category": "Derde Positie",
+    "description": "Syncretische ideologie, ook wel NazBol genoemd, die revolutionair socialisme en radicaal nationalisme versmelt, waarbij een collectivistische economie, staatsautoritarisme en afwijzing van liberalisme, het Westen en burgerlijk individualisme gecombineerd worden.",
+    "phrase": "Ik wil een samenleving die sovjet en natie versmelt, collectivistisch en autoritair, tegen liberalisme, het Westen en burgerlijk individualisme."
+  },
+  {
+    "id": "socialismo-strasserista",
+    "name": "Strasseristisch Socialisme",
+    "category": "Derde Positie",
+    "description": "Antikapitalistische vleugel van het Nationaalsocialisme, verbonden met Gregor Strasser, die de nadruk legde op een massanaal socialistisch nationalisme, nationalisatie en sociale revolutie binnen de beweging, later onderdrukt door Hitler.",
+    "phrase": "Ik wil een nationalistische massale sociale revolutie binnen de beweging, de economie nationaliserend tegen kapitaal en de oude orde."
+  },
+  {
+    "id": "fascismo",
+    "name": "Fascisme",
+    "category": "Derde Positie",
+    "description": "Een ultranationalistische doctrine van nationale wedergeboorte die liberalisme en marxisme afwijst, de totalitaire staat, regeneratieve geweld en de leiderscultus verheerlijkt, en de natie behandelt als een seculiere religie, met varianten buiten het Italiaanse regime dat het zijn naam gaf.",
+    "phrase": "Ik wil een natie verheerlijkt onder een sterke staat en een enkele leider, met militarisme, massamobilisatie en corporaties ten dienste van het vaderland."
+  },
+  {
+    "id": "nacional-socialismo",
+    "name": "Nationaalsocialisme",
+    "category": "Derde Positie",
+    "description": "Duitse variant van fascisme gebaseerd op racisme, antisemitisme en expansionisme, die totalitarisme, de cultus van Hitler en het idee van een superieur ras verenigde, culminerend in de Tweede Wereldoorlog en de Holocaust.",
+    "phrase": "Ik wil een samenleving gebaseerd op het Arische ras, politiek hiërarchisch en autoritair, met een sterke, protectionistische staatskapitalisme."
+  },
+  {
+    "id": "falangismo",
+    "name": "Falangisme",
+    "category": "Derde Positie",
+    "description": "Spaans autoritair nationalisme van katholieke en syndicalistische inspiratie, dat pleit voor een corporatistische staat, nationale eenheid en sociale hiërarchie, en de ideologische pijler werd van het Franco-regime in Spanje.",
+    "phrase": "Ik wil een katholieke corporatistische staat, verenigd onder een autoritaire leider, met verticale vakbonden die de arbeid organiseren en beschermde handel."
+  },
+  {
+    "id": "nacional-sindicalismo",
+    "name": "Nationaal-syndicalisme",
+    "category": "Derde Positie",
+    "description": "Nationalistische en syndicalistische stroming die liberalisme en marxisme afwijst, pleit voor nationale eenheid, corporatistische organisatie van arbeid, autoritaire sociale rechtvaardigheid en volksmobilisatie rond de staat.",
+    "phrase": "Ik wil een natie gemobiliseerd rond de de staat, met corporatistische vakbonden die de arbeid organiseren en liberalisme en marxisme afwijzen."
+  },
+  {
+    "id": "integralismo-brasileiro",
+    "name": "Braziliaans integralisme",
+    "category": "Derde Positie",
+    "description": "Autoritair nationalistische beweging die opkwam in het Brazilië van de jaren dertig, met een christelijke en corporatistische basis, het motto God, Vaderland en Familie, massa-esthetiek en frontale oppositie tegen liberalisme en communisme.",
+    "phrase": "Ik wil een vaderland onder God, Vaderland en Familie, geleid door een autoritaire leider en geüniformeerde milities tegen liberalen en communisten."
+  },
+  {
+    "id": "capitalismo-autoritario",
+    "name": "Autoritair kapitalisme",
+    "category": "Rechts",
+    "description": "Model dat een markteconomie en privébezit combineert met een gesloten politiek regime, waarin de staat orde, groei en stabiliteit garandeert terwijl het burgerlijke vrijheden en politieke concurrentie beperkt.",
+    "phrase": "Ik wil een markteconomie met privébezit, onder een gesloten staat die orde en groei garandeert door politieke concurrentie te beperken."
+  },
+  {
+    "id": "capitalismo-nacional",
+    "name": "Nationaal kapitalisme",
+    "category": "Extreemrechts",
+    "description": "Systeem dat vrije ondernemerschap verenigt met sterk protectionisme en staatssturing, waarbij industrie, banen en nationale soevereiniteit prioriteit krijgen boven mondiale vrijhandel en ongecontroleerd buitenlands kapitaal.",
+    "phrase": "Ik wil een nationale industrie beschermd door tarieven en staatsplanning, met vrije onderneming ten dienste van de soevereiniteit en banen van het land."
+  },
+  {
+    "id": "alt-right",
+    "name": "Radicaalrechts",
+    "category": "Extreemrechts",
+    "description": "Radicaalrechtse beweging ontstaan op het internet, die identitair nationalisme, verzet tegen immigratie en multiculturalisme, en provocerende retoriek mengt, met standpunten die vaak gekoppeld zijn aan blanke suprematie.",
+    "phrase": "Ik wil een homogene etnische natie, gesloten voor immigratie en multiculturalisme, met blanke identiteit verdedigd tegen commercieel globalisme."
+  },
+  {
+    "id": "alt-lite",
+    "name": "Alt-Lite",
+    "category": "Rechts",
+    "description": "Meer gematigde tak van de alternatieve rechterzijde, nationalistisch en anti-globalistisch, die expliciet raciaal supremacisme afwijst, maar culturele identiteit, kritiek op immigratie en de strijd tegen politieke correctheid verdedigt.",
+    "phrase": "Ik wil de culturele identiteit van mijn volk behouden tegen ongecontroleerde immigratie en politieke correctheid, zonder mijn toevlucht te nemen tot raciaal supremacisme."
+  },
+  {
+    "id": "aceleracionismo-de-direita",
+    "name": "Rechts-accelerationisme",
+    "category": "Extreemrechts",
+    "description": "Stroming die pleit voor het versnellen van de tegenstellingen van het systeem door technologie en de ineenstorting van liberale instellingen, en inzet op de breuk met de bestaande orde om een nieuwe sociale en politieke hiërarchie te smeden.",
+    "phrase": "Ik wil de ineenstorting van liberale instellingen versnellen met technologie en staatloze markten, zodat een nieuwe hiërarchie uit de ruïnes oprijst."
+  },
+  {
+    "id": "neoconservadorismo",
+    "name": "Neoconservatisme",
+    "category": "Rechts",
+    "description": "Rechtse stroming die vrije markten, traditionele waarden en een interventionistisch buitenlands beleid verenigt, pleit voor de bevordering van democratie en nationale belangen door militaire macht en wereldwijd leiderschap.",
+    "phrase": "Ik wil democratie exporteren en de belangen van de natie met militaire macht verdedigen, vrije markten verenigen met traditionele waarden in eigen land."
+  },
+  {
+    "id": "monarquismo-absoluto",
+    "name": "Absolutistisch monarchisme",
+    "category": "Extreemrechts",
+    "description": "Verdediging van monarchie met onbeperkte macht geconcentreerd in de soeverein, gelegitimeerd door traditie of goddelijk recht, zonder een grondwet of parlement om de autoriteit van de koning over staat en samenleving te beperken.",
+    "phrase": "Ik wil een unitair rijk geregeerd door een soeverein van goddelijk recht, zonder parlement of grondwet die de autoriteit van de kroon beperkt."
+  },
+  {
+    "id": "conservadorismo-autoritario",
+    "name": "Autoritair conservatisme",
+    "category": "Extreemrechts",
+    "description": "Stroming die orde, traditie en hiërarchie in stand houdt via een sterke staat, vrijheden en politieke participatie beperkt in naam van sociale stabiliteit, moraliteit, religie en gevestigde autoriteit.",
+    "phrase": "Ik wil een hiërarchische orde ondersteund door een sterke staat, die traditie, religie en gewoonten beschermt tegen morele subversie."
+  },
+  {
+    "id": "conservadorismo-nacional",
+    "name": "Nationaal conservatisme",
+    "category": "Rechts",
+    "description": "Stroming die traditionele waarden, familie en religie verenigt met sterk cultureel nationalisme, verdediging van soevereiniteit, grenzen en de identiteit van het volk binnen de democratie, met duidelijk wantrouwen tegenover globalisme.",
+    "phrase": "Ik wil een democratie die grenzen, familie en religie beschermt, en de identiteit van mijn volk bevestigt tegen cultureel globalisme."
+  },
+  {
+    "id": "conservadorismo-paternalista",
+    "name": "Paternalistisch conservatisme",
+    "category": "Rechts",
+    "description": "Conservatieve traditie die sociale hervormingen en bescherming voor de armsten accepteert om de nationale cohesie te bewaren, waarbij elites verantwoordelijk worden geacht voor het welzijn van het volk en voor harmonie tussen de klassen.",
+    "phrase": "Ik wil een natie verenigd door verantwoordelijke elites, die de armsten hervormen en beschermen om harmonie tussen de klassen te bewaren."
+  },
+  {
+    "id": "fundamentalismo-religioso",
+    "name": "Religieus fundamentalisme",
+    "category": "Extreemrechts",
+    "description": "Project dat de staat en de samenleving tracht te organiseren volgens de strikte interpretatie van een religieuze doctrine, waarbij wetten, gewoonten en politiek ondergeschikt worden gemaakt aan heilige voorschriften en modern secularisme wordt verworpen.",
+    "phrase": "Ik wil een staat die ondergeschikt is aan de heilige wet, waar gewoonten en politiek de religieuze doctrine gehoorzamen en secularisme wordt verworpen."
+  },
+  {
+    "id": "nacionalismo-etnico",
+    "name": "Etnisch nationalisme",
+    "category": "Extreemrechts",
+    "description": "Opvatting die de natie definieert door gemeenschappelijke afkomst, taal en voorouders, en die pleit voor een staat van de dominante etniciteit en het behoud van haar identiteit, met een neiging om minderheden en immigranten uit het nationale lichaam uit te sluiten.",
+    "phrase": "Ik wil een staat van mijn eigen etniciteit, verenigd door gemeenschappelijk bloed, taal en voorouders, die haar identiteit beschermt tegen minderheden en immigranten."
+  },
+  {
+    "id": "nacionalismo-cultural",
+    "name": "Cultureel nationalisme",
+    "category": "Rechts",
+    "description": "Nationalisme gebaseerd op een gedeelde taal, tradities en erfgoed in plaats van ras, dat de culturele identiteit van het volk en de integratie van degenen die deze waarden overnemen, waardeert, en de cohesie van de natie verdedigt.",
+    "phrase": "Ik wil een natie verenigd door een gedeelde taal, tradities en erfgoed, open voor degenen die onze waarden omarmen, met een beschermde, gecoördineerde economie."
+  },
+  {
+    "id": "neorreacionarismo",
+    "name": "Neoreactionisme",
+    "category": "Extreemrechts",
+    "description": "Stroming die de moderne democratie en het egalitarisme verwerpt en voorstelt deze te vervangen door hiërarchische, efficiënte regeringen die als bedrijven worden gerund door een soeverein, waarbij traditionalisme en technologie worden gecombineerd.",
+    "phrase": "Ik wil een samenleving die wordt geregeerd door een hiërarchische soeverein als een CEO, zonder democratie, die traditie en technologie verenigt in een slanke, efficiënte staat."
+  },
+  {
+    "id": "cameralismo",
+    "name": "Kameralisme",
+    "category": "Rechts",
+    "description": "Bestuursleer van het verlicht absolutisme die de staat organiseerde via een gedisciplineerde bureaucratie en gecentraliseerde financiën, en industrie, bevolking en inkomsten bevorderde als bronnen van de macht van de monarch.",
+    "phrase": "Ik wil een rijk dat wordt gediend door een gedisciplineerde bureaucratie en gecentraliseerde financiën, dat de industrie, bevolking en inkomsten voor de kroon doet groeien."
+  },
+  {
+    "id": "corporativismo",
+    "name": "Corporatisme",
+    "category": "Derde Positie",
+    "description": "Model dat de samenleving organiseert in corporaties van werknemers en werkgevers die in de staat zijn geïntegreerd, op zoek naar harmonie tussen klassen en gerichte economische samenwerking in plaats van conflict of vrije concurrentie.",
+    "phrase": "Ik wil een samenleving die is georganiseerd in corporaties van werkgevers en werknemers, geïntegreerd in de staat, in gerichte harmonie tussen de klassen."
+  },
+  {
+    "id": "reacionarismo",
+    "name": "Reactionarisme",
+    "category": "Extreemrechts",
+    "description": "Standpunt dat moderniteit verwerpt en de pre-revolutionaire orde probeert te herstellen, waarbij monarchie, religie, traditie en hiërarchie worden verdedigd tegen de rationalisme, het liberalisme en de democratie van de Verlichting.",
+    "phrase": "Ik wil de troon, het altaar en de hiërarchie van vóór de revoluties herstellen, en het rationalisme van de Verlichting en de liberale democratie wegvagen."
+  },
+  {
+    "id": "quarta-teoria-politica",
+    "name": "Vierde Politieke Theorie",
+    "category": "Derde Positie",
+    "description": "Theorie van Aleksandr Dugin die liberalisme, communisme en fascisme verwerpt en een multipolaire wereld voorstelt, gebaseerd op beschavingen, traditie en collectieve identiteit, tegen globalisme en westerse hegemonie.",
+    "phrase": "Ik wil een multipolaire wereld van beschavingen geworteld in traditie en collectieve identiteit, opgeworpen tegen globalisme en westerse hegemonie."
+  },
+  {
+    "id": "democracia-nacional",
+    "name": "Nationale Democratie",
+    "category": "Rechts",
+    "description": "Stroming die volkssoevereiniteit en democratische instellingen combineert met sterk cultureel nationalisme, waarbij de belangen en identiteit van de natie prioriteit krijgen boven supranationale verbintenissen en multiculturalisme.",
+    "phrase": "Ik wil een soevereine natie die vrij haar eigen wetten stemt, maar de identiteit en belangen van het volk boven elke supranationale verbintenis plaatst."
+  },
+  {
+    "id": "bioconservadorismo",
+    "name": "Bioconservatisme",
+    "category": "Centrum",
+    "description": "Standpunt dat zich verzet tegen genetische manipulatie en de technologische verbetering van het menselijk lichaam, waarbij ethische grenzen aan de wetenschap worden verdedigd in naam van waardigheid, de menselijke natuur en voorzichtigheid ten aanzien van de toekomst.",
+    "phrase": "Ik wil een samenleving die ethische grenzen stelt aan genetische manipulatie en lichaamsverbetering, en de menselijke waardigheid beschermt tegenover de wetenschap."
+  },
+  {
+    "id": "tecnocracia-de-direita",
+    "name": "Rechtse Technocratie",
+    "category": "Rechts",
+    "description": "Model dat het bestuur van de staat en de economie toevertrouwt aan experts en technologische efficiëntie, waarbij markten, innovatie en technische beslissingen worden gecombineerd in plaats van politieke beraadslaging en traditionele partijconcurrentie.",
+    "phrase": "Ik wil een regering die is overgedragen aan experts en technologische efficiëntie, waarbij partijconcurrentie wordt vervangen door technische beslissingen en markten."
+  },
+  {
+    "id": "democracia-crista",
+    "name": "Christendemocratie",
+    "category": "Centrum",
+    "description": "Centrumstroming die christelijke waarden toepast op de democratische politiek, waarbij de sociale markteconomie, familie, solidariteit en het algemeen welzijn worden verdedigd als basis van vrije en pluralistische instellingen.",
+    "phrase": "Ik wil een pluralistische democratie geleid door christelijke waarden, met een sociale markteconomie die het gezin en het algemeen welzijn ondersteunt."
+  },
+  {
+    "id": "conservadorismo-cristao",
+    "name": "Christelijk Conservatisme",
+    "category": "Rechts",
+    "description": "Stroming die politiek baseert op christelijke moraliteit en traditie, waarbij familie, leven en religieuze waarden binnen de democratie worden verdedigd, met nadruk op het behoud van de gewoonten en het culturele erfgoed van het volk.",
+    "phrase": "Ik wil een samenleving trouw aan christelijke moraal en geloof, die familie, leven en geërfde gewoonten beschermt tegen de erosie van de tijd."
+  },
+  {
+    "id": "republicanismo",
+    "name": "Republikeinisme",
+    "category": "Centrum",
+    "description": "Politieke traditie die volkssoevereiniteit, burgerlijke deugd en de rechtsstaat waardeert, en het zelfbestuur van burgers, de scheiding der machten en bescherming tegen tirannie en corruptie van de macht verdedigt.",
+    "phrase": "Ik wil een republiek van deugdzame burgers, met scheiding der machten en de rechtsstaat, waakzaam tegen tirannie en de corruptie van de macht."
+  },
+  {
+    "id": "monarquismo-constitucional",
+    "name": "Constitutionele Monarchie",
+    "category": "Centrum",
+    "description": "Verdediging van de monarchie als symbool van eenheid en continuïteit, waarbij de koning onderworpen is aan de grondwet en het parlement, en traditie en institutionele stabiliteit verenigt met representatieve democratie en de rechtsstaat.",
+    "phrase": "Ik wil een koning onderworpen aan de grondwet en het parlement, een symbool van eenheid en continuïteit binnen een stabiele representatieve democratie."
+  },
+  {
+    "id": "neoliberalismo",
+    "name": "Neoliberalisme",
+    "category": "Rechts",
+    "description": "Stroming die vrije markten, deregulering, privatisering en fiscale discipline bepleit, waarbij de economische rol van de staat wordt verminderd en vertrouwd wordt op concurrentie en monetaire stabiliteit als motoren van welvaart.",
+    "phrase": "Ik wil een vrije, gedereguleerde markt, met een slanke staat, privatiseringen en fiscale discipline als motoren van welvaart en concurrentie."
+  },
+  {
+    "id": "ordoliberalismo",
+    "name": "Ordoliberalisme",
+    "category": "Midden",
+    "description": "Duitse liberale school die de vrije markt verdedigt binnen strikte regels die door de staat worden gegarandeerd, monopolies bestrijdt en concurrentie en stabiliteit verzekert, dienend als basis van de sociale markteconomie.",
+    "phrase": "Ik wil een vrije markt, gedisciplineerd door strikte staatsregels, die monopolies voorkomt en de sociale markteconomie in stand houdt."
+  },
+  {
+    "id": "distributismo",
+    "name": "Distributisme",
+    "category": "Midden",
+    "description": "Doctrine van christelijke inspiratie die de brede distributie van eigendom en kleinschalige productie bepleit, zich verzettend tegen zowel monopoliekapitalisme als staatssocialisme ten gunste van autonome gemeenschappen.",
+    "phrase": "Ik wil gemeenschappen van kleine autonome eigenaren, met breed verspreid eigendom, die zowel het monopoliekapitalisme als de socialistische staat afwijzen."
+  },
+  {
+    "id": "tecnocracia",
+    "name": "Technocratie",
+    "category": "Midden",
+    "description": "Regeringsmodel waarin beslissingen worden genomen door experts en op basis van technische, wetenschappelijke criteria, waarbij ingenieurs, economen en wetenschappers worden belast met het rationele en efficiënte beheer van de staat en de economie.",
+    "phrase": "Ik wil een samenleving die wordt geleid door experts, waarbij technische beslissingen politieke onderhandelingen vervangen en een geplande economie wordt gestuurd door wetenschappelijke criteria."
+  },
+  {
+    "id": "comunitarismo",
+    "name": "Communitarisme",
+    "category": "Midden",
+    "description": "Stroming die gemeenschapsbanden, tradities en het algemeen belang boven individualisme stelt, waarbij wordt gesteld dat rechtvaardigheid en identiteit voortkomen uit het leven in een gemeenschap en de verantwoordelijkheden die mensen delen.",
+    "phrase": "Ik wil een samenleving geweven uit gemeenschapsbanden en gedeelde tradities, met participatieve democratie en een economie gericht op het algemeen belang."
+  },
+  {
+    "id": "meritocracia",
+    "name": "Meritocratie",
+    "category": "Midden",
+    "description": "Principe volgens welke posities en beloningen moeten worden verdeeld op basis van talent, inspanning en prestatie, in plaats van afkomst of privilege, ter verdediging van gelijke kansen en selectie op basis van bekwaamheid.",
+    "phrase": "Ik wil een samenleving waar talent en inspanning bepalend zijn voor posities, met gelijke kansen en beloningen die proportioneel zijn aan ieders verdienste."
+  },
+  {
+    "id": "liberalismo",
+    "name": "Liberalisme",
+    "category": "Midden",
+    "description": "Politieke traditie die individuele vrijheid centraal stelt, waarbij rechten, tolerantie, de rechtsstaat, een markteconomie en beperkingen van de macht worden verdedigd, met een regering die afhankelijk is van de instemming van burgers.",
+    "phrase": "Ik wil een tolerante samenleving, gefundeerd op individuele rechten, met een regering die wordt beperkt door de rechtsstaat en een vrije markteconomie."
+  },
+  {
+    "id": "liberalismo-classico",
+    "name": "Klassiek liberalisme",
+    "category": "Libertair",
+    "description": "Oorspronkelijke tak van het liberalisme die natuurlijke rechten, eigendom, vrije markten en een minimale staat verdedigt, waarbij individuele vrijheid en de strikte beperking van de macht worden gezien als de fundamenten van een rechtvaardige samenleving.",
+    "phrase": "Ik wil een samenleving van natuurlijke rechten en heilig eigendom, met een minimale staat en vrije markt als de fundamenten van een rechtvaardig leven."
+  },
+  {
+    "id": "libertarianismo",
+    "name": "Libertarisme",
+    "category": "Libertair",
+    "description": "Filosofie die maximale individuele vrijheid en een tot essentiële functies gereduceerde staat bepleit, waarbij privé-eigendom, vrije markten en persoonlijke autonomie worden gewaardeerd, terwijl staatsdwang over het leven wordt verworpen.",
+    "phrase": "Ik wil een samenleving van maximale persoonlijke autonomie, waarbij de staat is gereduceerd tot essentiële functies en privé-eigendom boven elke dwang staat."
+  },
+  {
+    "id": "liberalismo-verde",
+    "name": "Groen liberalisme",
+    "category": "Midden",
+    "description": "Stroming die individuele vrijheid, markten en democratie verenigt met de ecologische agenda, waarbij duurzaamheid, rechten en innovatie worden verdedigd om economische welvaart te verzoenen met effectieve milieubescherming.",
+    "phrase": "Ik wil een samenleving die markt en democratie verenigt met de ecologische zaak, innoverend om welvaart te verzoenen met milieuduurzaamheid."
+  },
+  {
+    "id": "liberalismo-social",
+    "name": "Sociaal liberalisme",
+    "category": "Links",
+    "description": "Tak die individuele vrijheden combineert met krachtig staatshandelen om welzijn, onderwijs en gezondheidszorg te garanderen, waarbij gelijke kansen en sociale zekerheid binnen de markteconomie worden verdedigd.",
+    "phrase": "Ik wil een samenleving van individuele vrijheden, ondersteund door een sterke sociale zekerheid, waarbij de staat gezondheid en onderwijs voor iedereen garandeert."
+  },
+  {
+    "id": "liberalismo-conservador",
+    "name": "Conservatief liberalisme",
+    "category": "Rechts",
+    "description": "Synthese die vrije markten en economische vrijheden verenigt met de waardering van traditie, orde en instituties, waarbij voorzichtige verandering en sociale stabiliteit binnen het kader van de liberale democratie worden verdedigd.",
+    "phrase": "Ik wil een samenleving die de vrije markt verenigt met traditie en instituties, voorzichtig veranderend binnen het kader van de liberale democratie."
+  },
+  {
+    "id": "reformismo-georgista",
+    "name": "Georgistisch reformisme",
+    "category": "Midden",
+    "description": "Stroming gecreëerd door Henry George die voorstelt de samenleving te financieren met één enkele belasting op grondwaarde, stellende dat grondrente van iedereen is en dat arbeid en kapitaal niet moeten worden belast.",
+    "phrase": "Ik wil een samenleving die wordt gefinancierd door een enkele belasting op grond, aangezien de rente daarvan iedereen toebehoort en arbeid niet belast moet worden."
+  },
+  {
+    "id": "geolibertarianismo",
+    "name": "Geolibertarisme",
+    "category": "Libertair",
+    "description": "Synthese van libertarisme en Georgisme die vrije markten en individuele vrijheden combineert met de belasting van grondwaarde, gezien als een gemeenschappelijke hulpbron, om de minimale staat te financieren zonder arbeid te bestraffen.",
+    "phrase": "Ik wil een samenleving van volledige vrijheden en vrije markten, waarbij alleen grond als gemeenschappelijke hulpbron wordt belast om een minimale staat te onderhouden."
+  },
+  {
+    "id": "liberalismo-de-estado",
+    "name": "Staatsliberalisme",
+    "category": "Links",
+    "description": "Liberale stroming die een actieve rol van de staat in de economie en bij het garanderen van rechten accepteert, waarbij individuele vrijheden en markten worden gecombineerd met regulering en overheidsbeleid gericht op het collectieve goed en gelijkheid.",
+    "phrase": "Ik wil een marktsamenleving met een actieve staat, die de economie reguleert en rechten uitbreidt om het collectieve welzijn te garanderen."
+  },
+  {
+    "id": "ambientalismo",
+    "name": "Milieubeweging",
+    "category": "Links",
+    "description": "Beweging die zich inzet voor de bescherming van het milieu en het duurzaam gebruik van hulpbronnen, pleit voor beleid tegen vervuiling en klimaatverandering en voor harmonie tussen menselijke ontwikkeling en ecologisch evenwicht.",
+    "phrase": "Ik wil een samenleving die ecologisch evenwicht boven consumptie plaatst, met een sterk staatsbeleid tegen vervuiling en klimaatverandering."
+  },
+  {
+    "id": "conservadorismo",
+    "name": "Conservatisme",
+    "category": "Rechts",
+    "description": "Politieke traditie die waarde hecht aan orde, gebruiken, familie en gevestigde instituties, en de voorkeur geeft aan geleidelijke en voorzichtige verandering boven breuk, gebaseerd op historische ervaring en scepsis ten opzichte van utopieën.",
+    "phrase": "Ik wil een samenleving die gebruiken, familie en instituties behoudt, langzaam verandert en met scepsis kijkt naar utopieën en breuken."
+  },
+  {
+    "id": "progressismo",
+    "name": "Progressivisme",
+    "category": "Links",
+    "description": "Stroming die pleit voor sociale hervormingen en de uitbreiding van rechten om gelijkheid en rechtvaardigheid te bevorderen, vertrouwend op vooruitgang, wetenschap en collectieve actie om instituties te transformeren en ongelijkheden te overwinnen.",
+    "phrase": "Ik wil een multiculturele samenleving in constante hervorming, die rechten uitbreidt en de staat gebruikt om ongelijkheid via wetenschap te overwinnen."
+  },
+  {
+    "id": "nacionalismo",
+    "name": "Nationalisme",
+    "category": "Rechts",
+    "description": "Ideologie die de natie als centrale waarde ziet, haar soevereiniteit, eenheid en identiteit verdedigt, en de belangen van het volk en de natiestaat prioriteit geeft boven externe invloeden en globalisme.",
+    "phrase": "Ik wil een samenleving geassimileerd in de nationale identiteit, met sterke orde en een economie beschermd tegen het buitenland in naam van de volkssoevereiniteit."
+  },
+  {
+    "id": "nacionalismo-civico",
+    "name": "Burgerlijk Nationalisme",
+    "category": "Midden",
+    "description": "Nationalisme gebaseerd op burgerschap en gedeelde waarden in plaats van etniciteit, waarbij de natie wordt gedefinieerd door de naleving van gemeenschappelijke wetten en instituties, open voor iedereen die haar democratische en burgerlijke principes aanvaardt.",
+    "phrase": "Ik wil een natie gedefinieerd door burgerschap en gemeenschappelijke wetten, niet etniciteit, open voor iedereen die onze democratische principes aanvaardt."
+  },
+  {
+    "id": "indigenismo",
+    "name": "Indigenisme",
+    "category": "Links",
+    "description": "Stroming die inheemse volkeren en hun rechten waardeert, pleit voor autonomie, grondgebied, cultuur en politieke participatie, samen met ontwikkelingsmodellen en een plurinationale staat die hun tradities respecteert.",
+    "phrase": "Ik wil een plurinationale samenleving die het grondgebied, de autonomie en tradities van inheemse volkeren respecteert, met hun volledige politieke participatie."
+  },
+  {
+    "id": "conservadorismo-socialista",
+    "name": "Socialistisch Conservatisme",
+    "category": "Derde Positie",
+    "description": "Stroming die een socialistische economie verenigt met traditionele waarden, die sociale bescherming en een sterke staatsrol verdedigt naast familie, orde en gebruiken, ver verwijderd van het culturele progressivisme van liberale links.",
+    "phrase": "Ik wil een sterke staat die sociale bescherming en publieke industrie garandeert, maar familie, orde en gebruiken beschermt tegen cultureel progressivisme."
+  },
+  {
+    "id": "anarquismo",
+    "name": "Anarchisme",
+    "category": "Anarchistisch",
+    "description": "Filosofie die de staat en alle dwingende autoriteit verwerpt, en de vrije organisatie van de samenleving verdedigt door middel van vrijwillige associaties, samenwerking en zelfbestuur, met vrijheid en gelijkheid als centrale waarden.",
+    "phrase": "Ik wil een staatloze samenleving, georganiseerd door vrijwillige associaties en wederzijdse hulp, waar vrijheid en gelijkheid alle dwingende autoriteit vervangen."
+  },
+  {
+    "id": "anarcocomunismo",
+    "name": "Anarchocommunisme",
+    "category": "Anarchistisch",
+    "description": "Stroming die anarchisme en communisme verenigt, een samenleving voorstelt zonder staat of privé-eigendom, met collectieve productie en distributie naar behoefte, gebaseerd op vrije associatie en wederzijdse hulp.",
+    "phrase": "Ik wil de staat en het privé-eigendom afschaffen, met collectieve productie en distributie naar behoefte, ondersteund door vrije associatie en wederzijdse hulp."
+  },
+  {
+    "id": "anarcossindicalismo",
+    "name": "Anarchosyndicalisme",
+    "category": "Anarchistisch",
+    "description": "Stroming die revolutionaire vakbonden ziet als de basis voor het omverwerpen van het kapitalisme door directe actie en de algemene staking, waarbij de productie door de arbeiders zelf wordt georganiseerd in een vrije, staatloze samenleving.",
+    "phrase": "Ik wil dat revolutionaire vakbonden het kapitalisme omverwerpen door directe actie en de algemene staking, waarbij arbeiders de productie controleren, zonder staat."
+  },
+  {
+    "id": "sindicalismo",
+    "name": "Syndicalisme",
+    "category": "Links",
+    "description": "Beweging die vakbonden en arbeidersorganisatie centraal stelt in de politiek, pleit voor collectieve onderhandelingen, directe actie en arbeiderscontrole over de productie als de weg naar emancipatie van de arbeidersklasse.",
+    "phrase": "Ik wil vakbonden en collectieve onderhandelingen centraal in de politiek, met arbeiderscontrole over de productie als de weg naar de emancipatie van de arbeidersklasse."
+  },
+  {
+    "id": "socialismo-libertario",
+    "name": "Libertair Socialisme",
+    "category": "Anarchistisch",
+    "description": "Stroming die socialisme nastreeft zonder autoritaire staat, collectief eigendom en zelfbestuur verenigt met brede individuele vrijheid, van onderaf georganiseerd door vrije gemeenschappen en arbeiders.",
+    "phrase": "Ik wil socialisme zonder een autoritaire staat, met collectief eigendom en zelfbestuur, van onderaf georganiseerd door vrije gemeenschappen en arbeiders."
+  },
+  {
+    "id": "socialismo-de-mercado",
+    "name": "Marktsocialisme",
+    "category": "Links",
+    "description": "Systeem waarin collectief of publiekelijk eigendom zijnde ondernemingen concurreren op markten, waarbij de efficiëntie van concurrentie wordt verenigd met de socialistische verdeling van winsten, zonder de rigide centrale planning van staatseconomieën.",
+    "phrase": "Ik wil collectief eigendom zijnde bedrijven die concurreren op markten, waarbij de efficiëntie van concurrentie wordt verenigd met de socialistische verdeling van winsten, zonder rigide centrale planning."
+  },
+  {
+    "id": "mutualismo",
+    "name": "Mutualisme",
+    "category": "Anarchistisch",
+    "description": "Anarchistische stroming, opgericht door Proudhon, die pleit voor eerlijke uitwisseling, vrij krediet en gebruiksgerelateerd eigendom, waarbij producenten en coöperaties onderling handelen zonder uitbuiting, bazen of een centrale staat.",
+    "phrase": "Ik wil coöperaties en producenten die eerlijk handelen, met vrij krediet en bezit door gebruik, vrij van bazen, uitbuiting en een centrale staat."
+  },
+  {
+    "id": "minarco-mutualismo",
+    "name": "Minarcho-mutualisme",
+    "category": "Libertair",
+    "description": "Synthese die mutualisme verenigt met een minimale staat, waarbij eerlijke uitwisseling, coöperaties en vrij krediet worden gecombineerd met een publieke structuur die is gereduceerd tot de essentiële functies van het beschermen van rechten, contracten en vrijheden.",
+    "phrase": "Ik wil de coöperaties en het vrije krediet van het mutualisme toegevoegd aan een minimale staat, beperkt tot de bescherming van essentiële rechten, contracten en vrijheden."
+  },
+  {
+    "id": "socialismo-individualista",
+    "name": "Individualistisch Socialisme",
+    "category": "Anarchistisch",
+    "description": "Stroming die socialistische idealen verzoent met een sterke nadruk op persoonlijke autonomie en vrijheid, en die samenwerking en collectief eigendom verdedigt zonder de onafhankelijkheid en uniciteit van elk individu op te offeren.",
+    "phrase": "Ik wil samenwerking en collectief eigendom die nooit de autonomie, vrijheid en uniciteit van elk individu opofferen."
+  },
+  {
+    "id": "comunalismo",
+    "name": "Communalistisch",
+    "category": "Anarchistisch",
+    "description": "Model gecreëerd door Murray Bookchin, gebaseerd op autonome gemeenten en gefedereerde volksvergaderingen, met een gemeenschapsecconomie en directe democratie, dat de staat wil vervangen door een vrije confederatie.",
+    "phrase": "Ik wil autonome gemeenten met gefedereerde volksvergaderingen, een gemeenschapsecconomie en directe democratie, die de staat vervangen door een vrije confederatie."
+  },
+  {
+    "id": "socialismo-cristao",
+    "name": "Christelijk Socialisme",
+    "category": "Radicaal Links",
+    "description": "Stroming van Thomas Müntzer, de boeren van 1525 en guerrillapriesters zoals Camilo Torres, die het Koninkrijk Gods op aarde zoeken door middel van revolutie, met gemeenschappelijk eigendom en de heerschappij van de armen, opgelegd met geweld.",
+    "phrase": "Ik wil Gods Koninkrijk op aarde door een revolutie van de armen, alle goederen gemeenschappelijk en de machtigen neergehaald door de uitverkorenen."
+  },
+  {
+    "id": "trabalhismo-cristao",
+    "name": "Christelijk Labourisme",
+    "category": "Links",
+    "description": "Stroming die de verdediging van werknemers en sociale rechtvaardigheid combineert met christelijke waarden, en arbeidsrechten, solidariteit en sociale bescherming binnen een democratie bevordert, geïnspireerd door de sociale leer van de Kerk.",
+    "phrase": "Ik wil arbeidsrechten en sociale bescherming binnen een democratie, geïnspireerd door de sociale leer van de Kerk en christelijke solidariteit."
+  },
+  {
+    "id": "social-democracia-crista",
+    "name": "Christendemocratie",
+    "category": "Links",
+    "description": "Stroming die het Evangelie vertaalt naar hervormingen binnen een democratie, en een welvaartsstaat, arbeidsrechten, vakbonden en herverdeling verdedigt zonder te breken met de markt of liberale instituties.",
+    "phrase": "Ik wil sociale rechtvaardigheid, geleid door het Evangelie, gewonnen aan de stembus, met sterke vakbonden, een welvaartsstaat en waardigheid voor werkende mensen."
+  },
+  {
+    "id": "social-democracia",
+    "name": "Sociaaldemocratie",
+    "category": "Links",
+    "description": "Stroming die probeert kapitalisme en sociale rechtvaardigheid te verzoenen via democratie, en gereguleerde markten, een sterke welvaartsstaat, arbeidsrechten en herverdeling verdedigt om sociale ongelijkheden te verminderen.",
+    "phrase": "Ik wil een samenleving met gereguleerde markten en een sterke welvaartsstaat, met arbeidsrechten en herverdeling via democratische middelen."
+  },
+  {
+    "id": "socialismo",
+    "name": "Socialisme",
+    "category": "Links",
+    "description": "Brede doctrine die collectief eigendom van de productiemiddelen en economische planning bepleit om kapitalistische uitbuiting te overwinnen, waarbij zowel de revolutionaire als de reformistische weg wordt geaccepteerd.",
+    "phrase": "Ik wil een maatschappij zonder uitbuiting, met collectieve productiemiddelen en economische planning ter vervanging van de kapitalistische markt."
+  },
+  {
+    "id": "socialismo-liberal",
+    "name": "Liberaal Socialisme",
+    "category": "Links",
+    "description": "Stroming die socialistische doelen van gelijkheid en sociale rechtvaardigheid verenigt met de verdediging van individuele vrijheden en democratie, door sterke sociale bescherming te combineren met pluralisme, burgerrechten en een gemengde economie.",
+    "phrase": "Ik wil een samenleving die socialistische gelijkheid verenigt met volledige individuele vrijheden, met democratisch pluralisme en een gemengde economie."
+  },
+  {
+    "id": "libertarianismo-social",
+    "name": "Sociaal Libertarisme",
+    "category": "Anarchistisch",
+    "description": "Links-libertarische stroming die brede individuele vrijheid verenigt met collectief of gedeeld eigendom van hulpbronnen, en autonomie, samenwerking en de afwijzing van zowel de autoritaire staat als kapitaal verdedigt.",
+    "phrase": "Ik wil autonome gemeenschappen met gedeeld eigendom, zonder staat of kapitaal, die individuele vrijheid en collectieve samenwerking verenigen."
+  },
+  {
+    "id": "ecossocialismo",
+    "name": "Ecosocialisme",
+    "category": "Links",
+    "description": "Stroming die socialisme en ecologie combineert, en de milieucrisis toeschrijft aan kapitalisme. Het verdedigt collectieve, duurzame en democratische productie die de grenzen van de natuur en sociale behoeften respecteert.",
+    "phrase": "Ik wil een samenleving die het kapitalisme overwint met collectieve, duurzame productie, democratisch gepland binnen de grenzen van de natuur."
+  },
+  {
+    "id": "ecologia-profunda",
+    "name": "Diepe Ecologie",
+    "category": "Links",
+    "description": "Stroming die alle leven een intrinsieke waarde toekent en niet alleen aan mensen, en een diepgaande verandering van waarden, de vermindering van menselijke impact en respect voor het evenwicht van de ecosystemen van de planeet verdedigt.",
+    "phrase": "Ik wil een samenleving die intrinsieke waarde in al het leven erkent, en de menselijke impact vermindert uit respect voor het evenwicht van ecosystemen."
+  },
+  {
+    "id": "anarquismo-agrario",
+    "name": "Agrarisch Anarchisme",
+    "category": "Anarchistisch",
+    "description": "Anarchistische stroming gericht op het platteland, die autonome plattelandsgemeenschappen, collectief landbezit en boerensamenwerking verdedigt, en de staat en landconcentratie afwijst ten gunste van zelfbeheer.",
+    "phrase": "Ik wil autonome plattelandsgemeenschappen met collectief land, zonder staat of grootgrondbezitters, georganiseerd door boerensamenwerking en zelfbeheer."
+  },
+  {
+    "id": "anarquismo-verde",
+    "name": "Groen Anarchisme",
+    "category": "Anarchistisch",
+    "description": "Stroming die anarchisme en radicale ecologie verenigt, en gedecentraliseerde, duurzame gemeenschappen verdedigt zonder staat of uitbuiting van de natuur, in harmonie met ecologische cycli en niet-menselijk leven.",
+    "phrase": "Ik wil gedecentraliseerde gemeenschappen zonder staat, levend in harmonie met ecologische cycli, zonder de natuur uit te buiten."
+  },
+  {
+    "id": "anarco-progressismo",
+    "name": "Anarcho-Progressivisme",
+    "category": "Anarchistisch",
+    "description": "Synthese van anarchistische stromingen gericht op de bevrijding van lichaam en identiteit, die de kritiek op patriarchaat en gender- en seksualiteitsnormen verenigt met een openheid voor technologie als emancipatiemiddel, dit alles onder afwijzing van de staat, het kapitalisme en elke opgelegde hiërarchie.",
+    "phrase": "Ik wil een samenleving zonder staat, kapitaal of hiërarchie, die lichaam en identiteit bevrijdt van patriarchaat door middel van emancipatorische technologie."
+  },
+  {
+    "id": "anarcopacifismo",
+    "name": "Anarchopacifisme",
+    "category": "Anarchistisch",
+    "description": "Anarchistische stroming die de staat en alle geweld afwijst, en sociale transformatie verdedigt door middel van geweldloze middelen, burgerlijke ongehoorzaamheid en vrijwillige samenwerking als de weg naar een vrije en rechtvaardige samenleving.",
+    "phrase": "Ik wil een samenleving zonder staat of geweld, gebouwd door burgerlijke ongehoorzaamheid en vrijwillige samenwerking tussen vrije mensen."
+  },
+  {
+    "id": "anarquismo-cristao",
+    "name": "Christelijk Anarchisme",
+    "category": "Anarchistisch",
+    "description": "Stroming die het christelijk geloof verenigt met anarchisme, stellende dat het Evangelie liefde, gelijkheid en geweldloosheid predikt die onverenigbaar zijn met de staat, en die vrije gemeenschappen verdedigt gebaseerd op geweten en naastenliefde.",
+    "phrase": "Ik wil vrije gemeenschappen geleid door het Evangelie, zonder staat, die liefde en gelijkheid beleven door geweten en naastenliefde."
+  },
+  {
+    "id": "anarco-naturalismo",
+    "name": "Anarcho-Naturisme",
+    "category": "Anarchistisch",
+    "description": "Anarchistische tak gekoppeld aan naturisme die een eenvoudig leven in contact met de natuur verdedigt, zonder staat of onderdrukkende conventies, waarbij individuele autonomie, gezondheid en harmonie met de natuurlijke wereld worden gewaardeerd.",
+    "phrase": "Ik wil leven zonder staat of onderdrukkende conventies, in eenvoudig contact met de natuur, waarbij ik individuele autonomie en gezondheid waardeer."
+  },
+  {
+    "id": "geoanarquismo",
+    "name": "Geoanarchisme",
+    "category": "Anarchistisch",
+    "description": "Synthese van anarchisme en georgisme die de staat verwerpt, maar land en natuurlijke hulpbronnen als gemeenschappelijk bezit behandelt, verdedigende dat hun huur door de hele gemeenschap op een vrije en egalitaire manier wordt gedeeld.",
+    "phrase": "Ik wil de staat afschaffen en land als een gemeenschappelijk goed behandelen, waarbij de huur ervan vrijelijk over de hele gemeenschap wordt verdeeld."
+  },
+  {
+    "id": "anarcocapitalismo",
+    "name": "Anarcho-Kapitalisme",
+    "category": "Libertair",
+    "description": "Stroming die voorstelt de staat af te schaffen en de hele samenleving te organiseren via contracten en vrije markten, met veiligheid, justitie en diensten geleverd door concurrerende particuliere bedrijven onder absolute eigendomsrechten.",
+    "phrase": "Ik wil de staat afschaffen en alles organiseren via contracten en vrije markten, met veiligheid en justitie verkocht door particuliere bedrijven."
+  },
+  {
+    "id": "minarquismo",
+    "name": "Minarchisme",
+    "category": "Libertair",
+    "description": "Libertaire tak die een minimale staat verdedigt, beperkt tot politie, rechtbanken en defensie, en al het andere overlaat aan de markt en het particulier initiatief, om individuele rechten te beschermen zonder de vrijheid te onderdrukken.",
+    "phrase": "Ik wil een minimale staat, beperkt tot politie, rechtbanken en defensie, en al het andere overlaten aan de vrije markt en het particulier initiatief."
+  },
+  {
+    "id": "paleolibertarianismo",
+    "name": "Paleolibertarisme",
+    "category": "Libertair",
+    "description": "Tak die radicale vrije markten combineert met traditionele, conservatieve culturele waarden, en economische vrijheid, eigendom en autonome lokale gemeenschappen verdedigt tegen de staat en progressivisme.",
+    "phrase": "Ik wil radicale vrije markten verenigd met traditionele waarden, met eigendom en autonome lokale gemeenschappen tegen de staat."
+  },
+  {
+    "id": "libertarianismo-hoppeano",
+    "name": "Hoppeaanse Libertarisme",
+    "category": "Libertair",
+    "description": "Stroming gekoppeld aan Hans-Hermann Hoppe die anarcho-kapitalisme, absolute private eigendom en kritiek op democratie verenigt, en sociale ordes verdedigt gebaseerd op contract, vrijwillige uitsluiting en private autoriteit.",
+    "phrase": "Ik wil een orde van absoluut privé-eigendom, geregeerd door contracten en gemeenschappen die degenen verdrijven die hun regels afwijzen, zonder egalitaire democratie of een staat."
+  },
+  {
+    "id": "capitalismo",
+    "name": "Kapitalisme",
+    "category": "Rechts",
+    "description": "Economisch systeem gebaseerd op privé-eigendom, vrije markten en het streven naar winst, waarin productie en prijzen worden gereguleerd door concurrentie en vraag en aanbod, met individueel initiatief als drijfveer.",
+    "phrase": "Ik wil een samenleving gedreven door individueel initiatief, waar concurrentie en de vrije markt, niet de staat, prijzen, productie en winst bepalen."
+  },
+  {
+    "id": "objetivismo",
+    "name": "Objectivisme",
+    "category": "Libertair",
+    "description": "Filosofie gecreëerd door Ayn Rand die rede, individualisme en rationeel egoïsme verheerlijkt, en laissez-faire kapitalisme en het nastreven van eigen geluk verdedigt als het hoogste morele doel van ieders leven.",
+    "phrase": "Ik wil een samenleving van rationeel egoïsme en rede, waar iedereen zijn eigen geluk nastreeft en laissez-faire kapitalisme de enige geldige moraliteit is."
+  },
+  {
+    "id": "ecocapitalismo",
+    "name": "Eko-Kapitalisme",
+    "category": "Rechts",
+    "description": "Stroming die de milieucrisis via de markt wil oplossen, gebruikmakend van prijzen, groene technologie en incentives om natuurbescherming winstgevend en compatibel te maken met groei en vrij ondernemerschap.",
+    "phrase": "Ik wil een groene markteconomie, waar prijzen, technologie en winst natuurbescherming compatibel maken met groei en vrij ondernemerschap."
+  },
+  {
+    "id": "ecoconservadorismo",
+    "name": "Eko-Conservatisme",
+    "category": "Midden",
+    "description": "Tak die conservatisme en milieubescherming verenigt, waarbij de bescherming van de natuur wordt verdedigd als onderdeel van de traditie en het erfgoed dat moet worden doorgegeven aan toekomstige generaties, met voorzichtigheid ten aanzien van verandering.",
+    "phrase": "Ik wil de natuur behouden als onderdeel van de traditie en het erfgoed dat aan ons is doorgegeven, met voorzichtigheid ten aanzien van verandering en een gemengde, evenwichtige economie."
+  },
+  {
+    "id": "econacionalismo",
+    "name": "Eko-Nationalisme",
+    "category": "Midden",
+    "description": "Stroming die milieubescherming koppelt aan nationale soevereiniteit, waarbij de bescherming van de eigen natuurlijke hulpbronnen en het land van het land en duurzame ontwikkeling binnen de nationale grenzen prioriteit krijgen.",
+    "phrase": "Ik wil de natuurlijke hulpbronnen en het land van mijn natie beschermen, met staatsplanning en economische grenzen die soevereiniteit en duurzaamheid garanderen."
+  },
+  {
+    "id": "criptoanarquismo",
+    "name": "Crypto-Anarchisme",
+    "category": "Libertair",
+    "description": "Stroming die cryptografie en digitale technologieën gebruikt om privacy, vrijheid en transacties buiten staatscontrole te garanderen, en die probeert toezicht en autoriteit te verzwakken door middel van technologische middelen.",
+    "phrase": "Ik wil een leven beschermd door cryptografie, vrij van toezicht en grenzen die transacties blokkeren, waarbij de autoriteit van de staat door technologie wordt ontbonden."
+  },
+  {
+    "id": "libertarianismo-bleeding-heart",
+    "name": "Bleeding-Heart Libertarisme",
+    "category": "Libertair",
+    "description": "Stroming die vrije markten en individuele vrijheden verenigt met zorg voor sociale rechtvaardigheid, stellende dat economische vrijheid ook concreet het leven van de armsten en meest kwetsbaren moet verbeteren.",
+    "phrase": "Ik wil economische en individuele vrijheid die ook de armsten uit de ellende helpt, waarbij de vrije markt wordt verenigd met compassie voor sociale rechtvaardigheid."
+  },
+  {
+    "id": "libertarianismo-nacional",
+    "name": "Nationaal Libertarisme",
+    "category": "Libertair",
+    "description": "Tak die de verdediging van individuele vrijheden en vrije markten combineert met waardering voor nationale soevereiniteit en identiteit, en een beperkte overheid verdedigt naast grenscontrole en de natie.",
+    "phrase": "Ik wil een beperkte overheid en vrije markten die ook grenzen, soevereiniteit en de identiteit van mijn natie beschermen."
+  },
+  {
+    "id": "monarquismo-libertario",
+    "name": "Libertarisch Monarchisme",
+    "category": "Libertarisch",
+    "description": "Stroming die monarchie ziet als een garantie voor vrijheid en stabiliteit, en een koning met beperkte macht verdedigt die eigendom en individuele rechten beschermt en een slanke, minimaal interventionistische staat handhaaft.",
+    "phrase": "Ik wil een koning met beperkte macht die eigendom en individuele rechten garandeert, en de staat slank en buiten het leven van mensen houdt."
+  },
+  {
+    "id": "monarquismo-federalista",
+    "name": "Federalistisch Monarchisme",
+    "category": "Rechts",
+    "description": "Stroming die een monarch voorstaat die daadwerkelijk regeert, als constitutioneel hoofd van de uitvoerende macht of als absolute soeverein, over een federatie van staten of regio's met brede zelfbeschikking, zoals in het Duitse Keizerrijk van 1871, de Verenigde Arabische Emiraten en Maleisië.",
+    "phrase": "Ik wil een monarch die een federatie van staten met hun eigen wetten, dynastieën en zelfbestuur regeert, verenigd door de kroon en het geloof."
+  },
+  {
+    "id": "conservadorismo-libertario",
+    "name": "Libertarisch Conservatisme",
+    "category": "Libertarisch",
+    "description": "Synthese die vrije markten en een minimale staat verenigt met de verdediging van traditie, familie en orde, waarbij individuele vrijheid en persoonlijke verantwoordelijkheid worden gewaardeerd naast het behoud van gewoonten en instituties.",
+    "phrase": "Ik wil economische vrijheid en een minimale staat naast de traditie, familie en gewoonten die de sociale orde ondersteunen."
+  },
+  {
+    "id": "feminismo-libertario",
+    "name": "Progressief Libertarisme",
+    "category": "Libertarisch",
+    "description": "Tak die gendergelijkheid nastreeft via individuele vrijheid en de markt in plaats van de staat, en autonomie, gelijke rechten en het einde van wettelijke beperkingen op de keuzes van vrouwen verdedigt.",
+    "phrase": "Ik wil dat vrouwen gelijkheid verwerven door individuele vrijheid en de markt, zonder staatsvoogdij over hun lichaam en keuzes."
+  },
+  {
+    "id": "anarcoconservadorismo",
+    "name": "Anarcho-Conservatisme",
+    "category": "Libertarisch",
+    "description": "Stroming die de staat verwerpt, maar traditie, religie en gemeenschapswaarden behoudt, en een spontane sociale orde verdedigt op basis van gewoonten, familie en natuurlijk gezag in plaats van centrale politieke macht.",
+    "phrase": "Ik wil de centrale politieke macht afschaffen en leven onder gewoonte, familie en natuurlijk gezag, in een spontane orde die traditie en geloof bewaart."
+  },
+  {
+    "id": "anarcodistributismo",
+    "name": "Anarcho-Distributisme",
+    "category": "Anarchistisch",
+    "description": "Synthese van anarchisme en distributisme die de brede verspreiding van eigendom en kleinschalige productie verdedigt, met autonome gemeenschappen en coöperaties georganiseerd zonder staat of grote monopolies.",
+    "phrase": "Ik wil eigendom breed verspreid onder coöperaties en autonome gemeenschappen, die op kleine schaal produceren zonder staat of monopolies."
+  },
+  {
+    "id": "centrismo",
+    "name": "Centrisme",
+    "category": "Centrum",
+    "description": "Politieke positie die evenwicht zoekt tussen links en rechts, waarbij matiging, pragmatisme en consensus worden gewaardeerd, en elementen van verschillende stromingen worden gecombineerd om extremen te vermijden en geleidelijke hervormingen te bevorderen.",
+    "phrase": "Ik wil matiging en pragmatisme tussen links en rechts, waarbij het beste van elke stroming wordt gecombineerd in geleidelijke hervormingen die extremen vermijden."
+  },
+  {
+    "id": "trabalhismo",
+    "name": "Arbeidersbeweging",
+    "category": "Links",
+    "description": "Stroming die de belangen van werknemers binnen de democratie verdedigt, en arbeidsrechten, sociale zekerheid, sterke vakbonden en inkomensverdeling bevordert via hervormingen en de verzorgingsstaat.",
+    "phrase": "Ik wil een samenleving waar sterke vakbonden en de verzorgingsstaat arbeidsrechten en inkomensverdeling via democratie garanderen."
+  },
+  {
+    "id": "positivismo",
+    "name": "Positivisme",
+    "category": "Centrum",
+    "description": "Stroming geïnspireerd door Auguste Comte die vertrouwt op wetenschap en rede om de samenleving te organiseren, en orde, vooruitgang en technisch bestuur verdedigt, geleid door kennis in plaats van metafysica en traditie.",
+    "phrase": "Ik wil een samenleving die geregeerd wordt door orde en vooruitgang, geleid door technici die traditie en metafysica vervangen door wetenschap."
+  },
+  {
+    "id": "conservadorismo-secular",
+    "name": "Seculier Conservatisme",
+    "category": "Rechts",
+    "description": "Conservatieve tak die orde, traditie en instituties verdedigt zonder ze te baseren op religie, en culturele waarden en sociale stabiliteit ondersteunt met seculiere, historische en pragmatische argumenten.",
+    "phrase": "Ik wil een samenleving die traditie en instituties behoudt via seculiere, historische argumenten, zonder daarvoor een beroep te doen op religie."
+  },
+  {
+    "id": "progressismo-cristao",
+    "name": "Christelijk Progressivisme",
+    "category": "Links",
+    "description": "Stroming die het christelijk geloof verenigt met de verdediging van sociale rechtvaardigheid, rechten en hervormingen, en in het Evangelie een oproep ziet tot solidariteit, gelijkheid en zorg voor de armen en gemarginaliseerden van de samenleving en de wereld.",
+    "phrase": "Ik wil een samenleving die geleid wordt door het Evangelie als een oproep tot sociale rechtvaardigheid, solidariteit en zorg voor de armen."
+  },
+  {
+    "id": "autoritarismo-modernizador",
+    "name": "Moderniserend Autoritarisme",
+    "category": "Rechts",
+    "description": "Model geïnspireerd door het regime van Park Chung-hee, dat door de staat geleide industrialisatie, krediet voor particuliere bedrijven en planning combineert met anticommunistische politieke repressie.",
+    "phrase": "Ik wil een ontwikkelingsstaat die krediet en particuliere industrie aanstuurt, en politieke orde oplegt in naam van nationale vooruitgang."
+  },
+  {
+    "id": "desenvolvimentismo-de-estado",
+    "name": "Staatsontwikkelingsmodel",
+    "category": "Links",
+    "description": "Model waarin de staat industrialisatie en economische groei stuurt via planning, publieke investeringen en industriële bescherming, met als doel de achterstand en externe afhankelijkheid van de natie te overwinnen.",
+    "phrase": "Ik wil een staat die industrialisatie stimuleert door plannen en publieke investeringen, en de industrie beschermt tegen externe afhankelijkheid."
+  },
+  {
+    "id": "atlantismo",
+    "name": "Atlantisme",
+    "category": "Rechts",
+    "description": "Geopolitieke doctrine van de alliantie tussen de VS, Canada en Europa rond de NAVO en de EU, die de uitbreiding van de alliantie naar het oosten en het gebruik van westerse militaire macht steunt om liberale democratie en vrije markten te verspreiden tegen Rusland en China.",
+    "phrase": "Ik wil dat het Westen verenigd is in de NAVO en de EU, de alliantie uitbreidt en militaire macht gebruikt om liberale democratie en vrije markten te verspreiden."
+  },
+  {
+    "id": "tecno-monarquismo",
+    "name": "Techno-Monarchisme",
+    "category": "Rechts",
+    "description": "Een unitaire variant van neoreactie: een absolute CEO-monarch regeert een gecentraliseerde staat door middel van data- en beveiligingstechnologie (surveillance, AI), onder marktkapitalisme, privé-eigendom en vrij ondernemerschap, ten behoeve van stabiliteit en efficiëntie.",
+    "phrase": "Ik wil een absolute monarch met een CEO-mentaliteit die een unitaire staat regeert door middel van data- en beveiligingstechnologie, terwijl de markt vrij blijft."
+  },
+  {
+    "id": "progressismo-de-direita",
+    "name": "Rechts-Progressivisme",
+    "category": "Rechts",
+    "description": "Rechtse progressieve stroming die kapitalisme en de cultus van technologische vooruitgang verenigt met een sociaal progressieve, pragmatische en seculiere cultuur, waarbij de leiding van de maatschappij wordt toevertrouwd aan een technische elite in plaats van massademocratie.",
+    "phrase": "Ik wil een seculiere, progressieve maatschappij gedreven door de cultus van technologische vooruitgang, geleid door een technische elite boven massademocratie."
+  },
+  {
+    "id": "tecno-socialismo",
+    "name": "Techno-Socialisme",
+    "category": "Radicaal Links",
+    "description": "Stroming die de dictatuur van het proletariaat verbindt met technologisch accelererisme, pleitend voor een revolutionaire partij, datagestuurde planning, automatisering en collectief eigendom om de overgang naar communisme te leiden.",
+    "phrase": "Ik wil een maatschappij onder de dictatuur van het proletariaat, met algoritmische planning, automatisering en collectief eigendom die vooruitgang boekt richting communisme."
+  },
+  {
+    "id": "tecno-fascismo",
+    "name": "Techno-Fascisme",
+    "category": "Derde Positie",
+    "description": "Dystopie die het totalitaire autoritarisme van het fascisme combineert met digitale surveillance, kunstmatige intelligentie en technologische controle over de massa's, waarbij techniek wordt gebruikt om de hele maatschappij te onderdrukken, manipuleren en domineren.",
+    "phrase": "Ik wil een totalitaire staat die digitale surveillance en kunstmatige intelligentie gebruikt om de hele maatschappij te onderdrukken, manipuleren en domineren."
+  },
+  {
+    "id": "liberalismo-autoritario",
+    "name": "Autoritair Liberalisme",
+    "category": "Rechts",
+    "description": "Stroming die een markteconomie, privé-eigendom, open handel en technocratie combineert met lage democratische participatie, stellend dat een sterke, efficiënte staat orde, stabiliteit en groei moet bewaren.",
+    "phrase": "Ik wil een markt- en technocratische economie, met lage democratische participatie, onder een sterke staat die orde en groei garandeert."
+  },
+  {
+    "id": "nacionalismo-progressista",
+    "name": "Progressief Nationalisme",
+    "category": "Links",
+    "description": "Stroming die nationale soevereiniteit, economische bescherming en volksintegratie verenigt met progressieve sociale hervormingen, zoekend naar een staat die de natie kan verdedigen terwijl rechten, gelijkheid en inclusie worden uitgebreid.",
+    "phrase": "Ik wil een soevereine, economisch beschermde natie die rechten en gelijkheid uitbreidt door progressieve sociale hervormingen."
+  },
+  {
+    "id": "ecofascismo",
+    "name": "Eco-Fascisme",
+    "category": "Extreemrechts",
+    "description": "Stroming die radicale ecologie, autoritarisme en organisch nationalisme versmelt, pleitend voor bevolkingscontrole, dwingende milieubescherming en de ondergeschiktheid van individuele vrijheden aan het voortbestaan van de nationale gemeenschap.",
+    "phrase": "Ik wil een organische nationale gemeenschap die bevolkingscontrole en dwingende milieubescherming boven individuele vrijheden stelt."
+  },
+  {
+    "id": "comunismo-agrario",
+    "name": "Agrarisch Communisme",
+    "category": "Radicaal Links",
+    "description": "Revolutionair model dat het boerenleven en collectieve plattelandsproductie idealiseert, steden, markten en privé-eigendom verwerpt ten gunste van een door staatsmobilisatie en gemeenschappelijke discipline opgelegde gelijkheid.",
+    "phrase": "Ik wil een gecollectiviseerd boerenleven, zonder steden of markten, met gelijkheid opgelegd door staatsmobilisatie en gemeenschappelijke discipline."
+  },
+  {
+    "id": "socialismo-bolivariano",
+    "name": "Bolivariaans Socialisme",
+    "category": "Links",
+    "description": "Latijns-Amerikaans project dat populair nationalisme, anti-imperialisme, sociale herverdeling en sterk presidentieel leiderschap combineert, waarbij de staat en strategische middelen worden gebruikt om soevereiniteit en populaire inclusie te bevorderen.",
+    "phrase": "Ik wil een soeverein vaderland onder sterk presidentieel leiderschap, dat genationaliseerde strategische middelen gebruikt voor herverdeling en populaire inclusie."
+  },
+  {
+    "id": "nacional-desenvolvimentismo",
+    "name": "Nationaal Ontwikkelingsisme",
+    "category": "Centrum",
+    "description": "Stroming die industrialisatie, nationale soevereiniteit en strategische staatsplanning bepleit, gericht op het moderniseren van de economie door publieke investeringen, productieve bescherming en coördinatie tussen overheid, wetenschap en nationale bedrijven.",
+    "phrase": "Ik wil een natie geïndustrialiseerd door sterke staatsplanning, die nationale bedrijven beschermt en overheid, wetenschap en industrie coördineert."
+  },
+  {
+    "id": "populismo-libertario",
+    "name": "Libertarisch Populisme",
+    "category": "Libertarisch",
+    "description": "Stroming die anti-politiek, radicale vrije markten en directe populaire communicatie verenigt, en bureaucratieën, belastingen en partij-elites aanvalt in naam van individuele vrijheid, ondernemerschap en de soevereiniteit van de gewone burger.",
+    "phrase": "Ik wil een samenleving vrij van bureaucratie en belastingen, waar de gewone burger een bedrijf opbouwt zonder dat partij-elites hun leven bepalen."
+  },
+  {
+    "id": "teocratismo-cristao",
+    "name": "Christelijk Theocratisme",
+    "category": "Extreemrechts",
+    "description": "Christelijke theocratische doctrine die politieke macht ondergeschikt maakt aan religieuze autoriteit, stellend dat goddelijke wet en de Kerk de staat en zeden moeten regeren, van middeleeuws en pauselijk ultramontanisme tot moderne reconstructionistische projecten.",
+    "phrase": "Ik wil een samenleving geregeerd door goddelijke wet, met de Kerk boven de staat en zeden ondergeschikt aan religieuze autoriteit."
+  },
+  {
+    "id": "socialismo-titoista",
+    "name": "Titoïstisch Socialisme",
+    "category": "Radicaal Links",
+    "description": "Variant van socialisme ontwikkeld in Tito's Joegoslavië, die eenpartijstelsel en persoonsverheerlijking combineert met zelfbeheer van arbeiders in bedrijven, federale decentralisatie, markttoegang en non-alignement tussen de Koude Oorlog-blokken.",
+    "phrase": "Ik wil een federatie van sovjets die door arbeiders zelf worden beheerd, met één partij, non-alignement en gecontroleerde openheid naar de markt."
+  },
+  {
+    "id": "socialismo-anticolonial",
+    "name": "Anti-Koloniaal Socialisme",
+    "category": "Links",
+    "description": "Socialistische stroming geboren uit nationale bevrijdingsstrijden in Afrika, Azië en Latijns-Amerika, pleitend voor economische soevereiniteit, nationalisatie van hulpbronnen, non-alignement en solidariteit tussen volkeren van het Mondiale Zuiden tegen imperialisme.",
+    "phrase": "Ik wil een volk bevrijd van imperialisme, met genationaliseerde hulpbronnen en solidariteit tussen de naties van het Mondiale Zuiden."
+  },
+  {
+    "id": "tecno-comunismo",
+    "name": "Techno-Communisme",
+    "category": "Anarchistisch",
+    "description": "Stroming die het eindstadium van het communisme combineert met technologische acceleratie, waarbij automatisering en AI worden gebruikt om schaarste, noodzakelijke arbeid en privé-eigendom te overwinnen.",
+    "phrase": "Ik wil een klassenloze maatschappij van overvloed, waar automatisering en AI schaarste, noodzakelijke arbeid en privé-eigendom overwinnen."
+  },
+  {
+    "id": "tecno-anarquismo",
+    "name": "Techno-Anarchisme",
+    "category": "Anarchistisch",
+    "description": "Technologisch anarchisme dat voorstelt de staat af te schaffen door middel van automatisering, overvloedige energie, gedecentraliseerde netwerken en zelfbeheerde vrijwillige gemeenschappen met digitale tools en vrije lokale productie.",
+    "phrase": "Ik wil zelfbeheerde, stateloze gemeenschappen, bevrijd door automatisering en overvloedige energie, lokaal producerend in vrije netwerken."
+  },
+  {
+    "id": "aceleracionismo-cristao",
+    "name": "Christelijk Accelerationisme",
+    "category": "Rechts",
+    "description": "Stroming die het traditionele Christendom versmelt met technologische acceleratie, waarbij wordt gesteld dat kunstmatige intelligentie, industrie en nationale macht ongebreideld vooruit moeten worden gestuwd als een beschavingsmissie tegen seculier verval.",
+    "phrase": "Ik wil technologie en nationale macht versnellen onder traditionele christelijke waarden, zonder progressieve remmen of seculier verval."
+  },
+  {
+    "id": "populismo-de-direita",
+    "name": "Rechtspopulisme",
+    "category": "Rechts",
+    "description": "Stroming die het volk mobiliseert tegen politieke en culturele elites, waarbij nationalisme, immigratiebeperking, traditionele waarden, openbare religie, sterke veiligheid en anti-establishment economisch pragmatisme worden gecombineerd rond personalistische leiders.",
+    "phrase": "Ik wil een volk verenigd tegen corrupte elites, met gesloten grenzen, traditionele waarden en een leider die de orde in de natie herstelt."
+  },
+  {
+    "id": "populismo-de-esquerda",
+    "name": "Linkspopulisme",
+    "category": "Links",
+    "description": "Stroming die het volk mobiliseert tegen economische elites, waarbij herverdeling, openbare controle, nationale soevereiniteit, plebiscitaire democratie en een breed sociaal beleid worden verdedigd in populaire anti-establishment taal.",
+    "phrase": "Ik wil dat het volk wordt gemobiliseerd tegen economische elites, met volksplebiscieten en de staat die welvaart herverdeelt naar degenen die het minder hebben."
+  },
+  {
+    "id": "centrismo-social",
+    "name": "Sociaal Centrisme",
+    "category": "Midden",
+    "description": "Centristische tak die de markteconomie accepteert, maar prioriteit geeft aan sociale bescherming, openbare diensten, geleidelijke hervormingen en institutionele consensus om ongelijkheid te verminderen zonder politieke breuk of permanente polarisatie.",
+    "phrase": "Ik wil een markt die in balans is door sterke sociale bescherming, met geleidelijke hervormingen en institutionele consensus die ongelijkheid vermindert."
+  },
+  {
+    "id": "centrismo-liberal",
+    "name": "Liberaal Centrisme",
+    "category": "Midden",
+    "description": "Pro-markt centristische tak die fiscale verantwoordelijkheid, liberale democratie, gematigde internationale openheid en institutionele hervorming combineert, waarbij zowel breed staatsingrijpen als libertair radicalisme als politiek programma worden afgewezen.",
+    "phrase": "Ik wil een fiscaal verantwoorde liberale democratie, open voor de wereld, ver verwijderd van zwaar staatsingrijpen en libertair radicalisme."
+  },
+  {
+    "id": "centrismo-ambientalista",
+    "name": "Groen Centrisme",
+    "category": "Midden",
+    "description": "Centristische tak die prioriteit geeft aan duurzaamheid, geleidelijke energietransitie, milieuregulering en technologische voorzichtigheid, en zoekt naar verzoening tussen klimaatbescherming, markten en democratische instituties zonder antikapitalistische breuk.",
+    "phrase": "Ik wil een geleidelijke energietransitie binnen de markt en democratie, zonder antikapitalistische breuk of klimaatontkenning."
+  },
+  {
+    "id": "centrismo-conservador",
+    "name": "Conservatief Centrisme",
+    "category": "Midden",
+    "description": "Centristische tak die economische gematigdheid en institutioneel respect combineert met sociaal conservatisme, waarbij familie, religie, orde en geleidelijke verandering worden gewaardeerd zonder zich aan te sluiten bij autoritair rechts of populistisch radicalisme.",
+    "phrase": "Ik wil een samenleving die familie, religie en orde behoudt, langzaam verandert zonder zich aan te sluiten bij populisme of autoritarisme."
+  },
+  {
+    "id": "nacional-liberalismo",
+    "name": "Nationaal-Liberalisme",
+    "category": "Rechts",
+    "description": "Rechtse stroming die vrije markten, vrije handel en beperkte overheid combineert met een sterke nationale identiteit, culturele assimilatie, traditionele en religieuze waarden, en een robuust leger.",
+    "phrase": "Ik wil een natie met een sterke identiteit en vrije markten, met assimilationistische grenzen, religieuze traditie en robuuste militaire verdediging."
+  },
+  {
+    "id": "arqueofuturismo",
+    "name": "Archeofuturisme",
+    "category": "Extreemrechts",
+    "description": "Een doctrine bedacht door Guillaume Faye die archaïsche, hiërarchische en traditionalistische waarden — etnische identiteit, spiritualiteit en een krijgerethos — versmelt met een onvoorwaardelijke omhelzing van geavanceerde technologie, waarbij wordt gesteld dat een naderende beschavingsinstorting de mensheid zal dwingen om tribale sociale orde te combineren met hypermoderne wetenschap.",
+    "phrase": "Ik wil een tribale, hiërarchische orde herboren uit instorting, archaïsche tradities versmeltend met hypermoderne wetenschap en onbeperkte technologie."
+  },
+  {
+    "id": "pragmatismo",
+    "name": "Pragmatisme",
+    "category": "Midden",
+    "description": "Politieke houding die voorstellen beoordeelt op de praktische resultaten die ze opleveren in plaats van trouw aan een ideologisch dogma, waarbij marktmaatregelen, regulering en sociaal beleid worden gecombineerd volgens bewijs en de context van elk probleem.",
+    "phrase": "Ik wil oplossingen die worden beoordeeld op resultaten, niet op dogma's, waarbij markt, regulering en sociaal beleid worden gemengd zoals elk probleem vereist."
+  },
+  {
+    "id": "pragmatismo-de-direita",
+    "name": "Rechts Pragmatisme",
+    "category": "Rechts",
+    "description": "Pragmatische tak die prioriteit geeft aan fiscale aanpassing, economische stabiliteit en regeerbaarheid via brede coalities, waarbij markthervormingen en politieke concessies worden geaccepteerd in naam van korte- en middellangetermijnresultaten.",
+    "phrase": "Ik wil regeerbaarheid door een brede coalitie, met fiscale aanpassing en markthervormingen geaccepteerd in ruil voor stabiliteit en snelle resultaten."
+  },
+  {
+    "id": "pragmatismo-de-esquerda",
+    "name": "Links Pragmatisme",
+    "category": "Links",
+    "description": "Tak die concrete sociale resultaten nastreeft door te onderhandelen met de markt en bestaande instituties, waarbij prioriteit wordt gegeven aan verantwoordelijke fiscale soberheid, gericht sociaal beleid en regeerbaarheid boven revolutionaire ideologische zuiverheid.",
+    "phrase": "Ik wil onderhandelen met de markt en bestaande instituties om gericht sociaal beleid te leveren, zonder vast te houden aan revolutionaire zuiverheid."
+  },
+  {
+    "id": "imperialismo",
+    "name": "Imperialisme",
+    "category": "Extreemrechts",
+    "description": "Doctrine die pleit voor de territoriale, militaire en economische expansie van een natie over andere volkeren en gebieden, waarbij koloniën en invloedssferen worden ondergeschikt gemaakt aan de belangen van de metropool door middel van geweld en politieke dominantie.",
+    "phrase": "Ik wil een metropool die haar territorium uitbreidt en koloniën met geweld onderwerpt, waarbij veroverde volkeren worden ondergeschikt gemaakt aan de belangen van de dominante natie."
+  },
+  {
+    "id": "liberalismo-progressista",
+    "name": "Progressief Liberalisme",
+    "category": "Links",
+    "description": "Stroming die marktkapitalisme en geglobaliseerde handel verenigt met een robuuste welvaartsstaat, en pleit voor progressieve moraal, secularisme en democratische instituties, in het Noordse sociale model.",
+    "phrase": "Ik wil het Noordse model: een markt open voor wereldhandel die een robuuste welvaartsstaat ondersteunt, seculier en progressief in gewoonten."
+  },
+  {
+    "id": "militarismo",
+    "name": "Militarisme",
+    "category": "Extreemrechts",
+    "description": "Regime gecentreerd op de strijdkrachten als de kern van politieke macht, geregeerd door een militaire junta of commandostructuur, gekenmerkt door centralisatie, discipline, een cultus van orde en expansionisme, waarbij civiele politiek wordt ondergeschikt gemaakt aan militair bevel.",
+    "phrase": "Ik wil een militaire junta die de staat aanvoert, discipline en een cultus van orde in de barakken, waarbij de civiele politiek wordt ondergeschikt gemaakt aan militair bevel."
+  },
+  {
+    "id": "federalismo",
+    "name": "Federalisme",
+    "category": "Midden",
+    "description": "Doctrine die de staat organiseert via een constitutionele machtsverdeling tussen een centrale overheid en autonome regionale eenheden, zoals kantons of staten, met hun eigen bevoegdheden, onafhankelijke rechtbanken en wederzijdse controles tegen overmatige machtsconcentratie.",
+    "phrase": "Ik wil dat de macht grondwettelijk wordt verdeeld tussen een centrale overheid en autonome staten, met onafhankelijke rechtbanken die elke overmatige concentratie controleren."
+  },
+  {
+    "id": "aceleracionismo-de-esquerda",
+    "name": "Links Acceleratieïsme",
+    "category": "Links",
+    "description": "Een post-kapitalistische techno-socialistische synthese die AI, automatisering en cybernetica versnelt om verplicht werk te verminderen, overvloed te socialiseren en een economie voorbij het kapitaal te plannen; het combineert universalisme en decommodificatie met radicaal progressieve sociale transformatie.",
+    "phrase": "Ik wil AI en automatisering versnellen, overvloed socialiseren, voorbij het kapitalisme gaan en het leven bevrijden van verplicht werk en traditionele hiërarchieën."
+  },
+  {
+    "id": "conservadorismo-americano",
+    "name": "Amerikaans Conservatisme",
+    "category": "Rechts",
+    "description": "Platform van de Republikeinse Partij, dat grensbeveiliging en deportaties, tarieven en industrieel protectionisme, belastingverlagingen en deregulering, wapenrechten, christelijke waarden en het teruggeven van abortus aan de staten combineert.",
+    "phrase": "Ik wil een veilige grens met deportaties, tarieven die de industrie beschermen, belastingverlagingen, wapenrechten en christelijke waarden als nationale vlag."
+  },
+  {
+    "id": "democracia-securitaria",
+    "name": "Securitaire Democratie",
+    "category": "Midden",
+    "description": "Militante democratiedoctrine, die een democratische staat toestaat de vijanden van de democratie zelf te beperken door anti-systeempartijen te verbieden, extremisten te monitoren en de dienstplicht en versterkte veiligheid te handhaven ter verdediging van de constitutionele orde.",
+    "phrase": "Ik wil een militante democratie die extremisten in de gaten houdt, anti-systeempartijen verbiedt en de militaire dienstplicht behoudt om de constitutionele orde te beschermen."
+  },
+  {
+    "id": "pacifismo-militar",
+    "name": "Gewapend Pacifisme",
+    "category": "Midden",
+    "description": "Gewapende neutraliteit die allianties, interventies en buitenlandse projectie weigert, maar toch robuuste strijdkrachten, verplichte dienstplicht en een voorbereide territoriale verdediging in stand houdt, waarbij militaire kracht wordt beschouwd als de garantie om niet in oorlogen van andere naties te worden gesleept.",
+    "phrase": "Ik wil gewapende neutraliteit, zonder allianties of buitenlandse interventies, maar met robuuste strijdkrachten en verplichte dienstplicht ter verdediging van het grondgebied."
+  },
+  {
+    "id": "teocracia-progressista",
+    "name": "Progressieve Theocratie",
+    "category": "Radicaal Links",
+    "description": "Theocratie geleid door klerikale autoriteit zonder volkssoevereiniteit, die van bovenaf een progressieve moraal oplegt als goddelijk gebod: gendergelijkheid, seksuele bevrijding, heilige ecologie en een breuk met overgeleverde gewoonten, behandeld als bijgeloof dat hervormd moet worden.",
+    "phrase": "Ik wil een geestelijkheid die gendergelijkheid en seksuele bevrijding van bovenaf oplegt, als goddelijk gebod, en breekt met overgeleverde gewoonten als bijgeloof."
+  },
+  {
+    "id": "ateismo-tradicionalista",
+    "name": "Traditionalistisch Atheïsme",
+    "category": "Rechts",
+    "description": "Grondig seculier conservatisme dat geloof en geestelijkheid verwerpt, terwijl het hiërarchie, familie, autoriteit, natie en overgeleverde gewoonten verdedigt als beschavingsgoederen, en traditionele moraliteit behandelt als een sociale noodzaak in plaats van een goddelijk gebod.",
+    "phrase": "Ik wil een natie zonder geloof of geestelijkheid, doch trouw aan hiërarchie, familie en overgeleverde gewoonten als beschavingsgoederen, niet als religieus gebod."
+  },
+  {
+    "id": "mercantilismo",
+    "name": "Mercantilisme",
+    "category": "Rechts",
+    "description": "Doctrine die vrije onderneming en concurrentie op de binnenlandse markt combineert met een externe tariefmuur, subsidies voor jonge industrie, een nationale bank, openbare infrastructuur en een handelsoverschot als bron van nationale macht.",
+    "phrase": "Ik wil vrije concurrentie in eigen land, beschermd door een externe tariefmuur, met een nationale bank en subsidies voor jonge industrie, die een overschot genereren."
+  },
+  {
+    "id": "imperialismo-pluralista",
+    "name": "Pluralistisch Imperialisme",
+    "category": "Rechts",
+    "description": "Autocratische, gemilitariseerde imperiale orde die grondgebied uitbreidt door verovering, doch veroverde volkeren bestuurt via gemeenschappelijke autonomie, gecontroleerde religieuze tolerantie en tribuut, zonder culturele assimilatie van haar onderdanen te eisen.",
+    "phrase": "Ik wil een rijk dat verovert door militaire autocratie, maar onderdanen bestuurt met gemeenschappelijke autonomie en gecontroleerde religieuze tolerantie."
+  },
+  {
+    "id": "imperialismo-federalista",
+    "name": "Federalistisch Imperialisme",
+    "category": "Rechts",
+    "description": "Project van een dynastiek rijk georganiseerd als een federatie van nationaliteiten, met regionale autonomie, lokale parlementen en erkende talen, met behoud van een erfelijke kroon, verenigd leger en militaire bevestiging van imperiale grootsheid.",
+    "phrase": "Ik wil een erfelijke kroon die autonome nationaliteiten met lokale parlementen verenigt, een verenigd leger en veroveringen die imperiale grootsheid bevestigen."
+  },
+  {
+    "id": "aristotelismo",
+    "name": "Aristotelisme",
+    "category": "Rechts",
+    "description": "Aristoteles' politieke filosofie, die een gemengde grondwet van monarchistische, aristocratische en populaire elementen verdedigt om zowel tirannie als radicale democratie te vermijden, en volledig burgerschap reserveert voor degenen met deugd, bezit en de opleiding om te beraadslagen.",
+    "phrase": "Ik wil een gemengde grondwet van monarchie, aristocratie en het volk, waarbij volledig burgerschap is voorbehouden aan degenen met deugd en bezit."
+  },
+  {
+    "id": "monarquismo-financeiro",
+    "name": "Financieel Monarchisme",
+    "category": "Rechts",
+    "description": "Dynastiek microstaatmodel dat politieke soevereiniteit inruilt voor welvaart: een erfelijke prins met reële macht, minimale belasting, geheimhouding en financiële diensten als inkomstenbasis, openheid voor buitenlands kapitaal en inwoners, en geen staand leger.",
+    "phrase": "Ik wil een erfelijk vorstendom zonder leger, met minimale belastingen en bankgeheim, levend van financiën en buitenlands kapitaal."
+  },
+  {
+    "id": "liberalismo-aristocratico",
+    "name": "Aristocratisch Liberalisme",
+    "category": "Rechts",
+    "description": "Liberalisme vóór de massademocratie: het garandeert burgerlijke vrijheid, eigendom, een vrije pers en een slanke staat, maar beperkt het stemrecht tot opgeleide vermogende personen, uit angst dat onbeperkte volkssoevereiniteit precies de vrijheden zou vernietigen die het beschermt.",
+    "phrase": "Ik wil burgerlijke vrijheden, een vrije pers en een slanke staat, maar met stemrecht beperkt tot opgeleide vermogende personen die ze zullen bewaken."
+  },
+  {
+    "id": "autoritarismo-libertario",
+    "name": "Libertair Autoritarisme",
+    "category": "Rechts",
+    "description": "Een doctrine die politiek gezag scheidt van sociale controle: het bevoordeelt geconcentreerde, niet-gekozen uitvoerende macht, geïsoleerd van de volksstemming, die in ruil daarvoor burgerlijke vrijheid, privacy en minimale staatsinmenging in het privéleven en de moraal garandeert.",
+    "phrase": "Ik wil een sterke uitvoerende macht, geïsoleerd van de volksstemming, die in ruil daarvoor burgerlijke vrijheid garandeert en zich niet bemoeit met private gebruiken."
+  },
+  {
+    "id": "liberalismo-jacobino",
+    "name": "Jacobijns Liberalisme",
+    "category": "Links",
+    "description": "Een stroming die de unitaire, gecentraliseerde staat ziet als de garantie voor individuele vrijheid: uniforme wetgeving, secularisme en enkelvoudig burgerschap ontmantelen de lokale, klerikale en corporatistische privileges die het individu zouden onderdrukken zonder een sterke nationale macht.",
+    "phrase": "Ik wil een unitaire republiek met uniforme, seculiere wetten, die lokale en klerikale privileges ontmantelt in naam van de burger."
+  },
+  {
+    "id": "militarismo-libertario",
+    "name": "Libertair Militarisme",
+    "category": "Libertair",
+    "description": "Een doctrine die een minimale staat combineert op het gebied van belastingen, regulering en moraal met sterke strijdkrachten en een gewapende burgerij: nationale defensie is de enige uitgebreide staatsfunctie, behandeld als de voorwaarde voor burgerlijke vrijheid in plaats van de uitzondering daarop.",
+    "phrase": "Ik wil een minimale staat op het gebied van belastingen en douane, maar met sterke strijdkrachten en een gewapende burgerij als basis van burgerlijke vrijheid."
+  },
+  {
+    "id": "zapatismo",
+    "name": "Zapatisme",
+    "category": "Anarchistisch",
+    "description": "Neo-Zapatistische beweging die in 1994 in Zuid-Mexico ontstond, en inheemse autonomie, directe democratie via assemblees en caracoles, een coöperatieve zelfvoorzieningseconomie en de weigering om de staatsmacht te grijpen combineert, samengevat als 'leiden door te gehoorzamen'.",
+    "phrase": "Ik wil autonome inheemse gemeenschappen die beslissen in assemblees en caracoles, zelfvoorzienende coöperaties, en die leiden door het volk te gehoorzamen."
+  },
+  {
+    "id": "sindicalismo-revolucionario",
+    "name": "Revolutionair Syndicalisme",
+    "category": "Radicaal Links",
+    "description": "Stroming die de parlementaire en reformistische weg verwerpt en inzet op de algemene staking en de mobiliserende mythe: directe vakbondsactie en proletarisch geweld moeten de staat en de decadente bourgeoisie vernietigen.",
+    "phrase": "Ik wil de algemene staking en directe vakbondsactie om de staat en de bourgeoisie te vernietigen, zonder parlement of reformisme."
+  },
+  {
+    "id": "confucionismo",
+    "name": "Confucianisme",
+    "category": "Rechts",
+    "description": "Doctrine die de politieke orde grondvest op de deugd van de heerser, rituele hiërarchie en kinderlijke piëteit, en bureaucratische verdienste en morele opvoeding boven dwingend recht of volksdeelname stelt.",
+    "phrase": "Ik wil een orde gebaseerd op de deugd van de heerser, kinderlijke piëteit en bureaucratische verdienste, niet op dwingende wetten of stemmen."
+  },
+  {
+    "id": "socialismo-lassalliano",
+    "name": "Lassalliaans Socialisme",
+    "category": "Links",
+    "description": "Socialistische stroming die arbeiders tracht te emanciperen via de nationale staat zelf, met algemeen kiesrecht, producentencoöperaties gefinancierd met overheidsgeld en een expliciete weigering van de revolutionaire weg.",
+    "phrase": "Ik wil de arbeider emanciperen door algemeen kiesrecht en coöperaties gefinancierd door de nationale staat zelf, zonder de revolutionaire weg."
+  },
+  {
+    "id": "liberal-desenvolvimentismo",
+    "name": "Liberaal Ontwikkelingsmodel",
+    "category": "Rechts",
+    "description": "Het Oost-Aziatische Tijger-model (Singapore, Zuid-Korea, Taiwan, Hong Kong): pleit voor vrije markten, buitenlandse handel en particulier ondernemerschap als groeimotoren, gekoppeld aan een actieve technocratische staat die infrastructuur, onderwijs en strategische industrialisatie plant, zonder echter over te gaan tot gesloten protectionisme of harde autoritaire controle.",
+    "phrase": "Ik wil vrije markten en buitenlandse handel als groeimotoren, geleid door een technocratische staat die infrastructuur en onderwijs plant."
+  },
+  {
+    "id": "aristocratismo",
+    "name": "Aristocratisme",
+    "category": "Extreemrechts",
+    "description": "Doctrine van de heerschappij van de besten, waarbij de macht wordt toevertrouwd aan een minderheid die gekwalificeerd is door deugd, opleiding of geboorte, en politieke gelijkheid en meerderheidsregel worden afgewezen als het overgeven van de stad aan incompetentie.",
+    "phrase": "Ik wil een regering die is toevertrouwd aan een minderheid die gekwalificeerd is door deugd en geboorte, en verwerp politieke gelijkheid als het overgeven van de stad aan incompetentie."
+  },
+  {
+    "id": "aristocratismo-nietzschiano",
+    "name": "Nietzscheaans Aristocratisme",
+    "category": "Rechts",
+    "description": "Nietzscheaanse stroming die de egalitaire moraal verwerpt als kuddehaat, en een hiërarchie van waarden, de aristocratische schepping van zin en de tragische affirmatie van het leven na de dood van God verdedigt.",
+    "phrase": "Ik wil het leven bevestigen voorbij de kuddemoraal, en een aristocratische hiërarchie van waarden creëren na de dood van God."
+  },
+  {
+    "id": "catolicismo",
+    "name": "Katholicisme",
+    "category": "Rechts",
+    "description": "Sociale leer van de Katholieke Kerk, die traditionalistische moraal en levensbescherming combineert met zorg voor sociale rechtvaardigheid, subsidiariteit en arbeiderswaardigheid, onder de hiërarchische autoriteit van het pausdom en het canoniek recht.",
+    "phrase": "Ik wil een samenleving met traditionele moraal en levensbescherming, met sociale rechtvaardigheid en subsidiariteit onder het gezag van het pausdom."
+  },
+  {
+    "id": "monarquismo-moderador",
+    "name": "Moderatorisch Monarchisme",
+    "category": "Rechts",
+    "description": "Negentiende-eeuws constitutioneel monarchiemodel waarin de monarch een vierde Modererende Macht uitoefent boven de Uitvoerende, Wetgevende en Rechterlijke macht, conflicten beslecht en stabiliteit garandeert over een agrarische economie.",
+    "phrase": "Ik wil een keizer die de Modererende Macht uitoefent boven de drie machten, conflicten beslecht over een stabiele agrarische economie."
+  },
+  {
+    "id": "mutualismo-proudhoniano",
+    "name": "Proudhoniaans Mutualisme",
+    "category": "Anarchistisch",
+    "description": "Proudhons oorspronkelijke doctrine, die eigendom als diefstal aan de kaak stelt en pleit voor vrije wederzijdse kredietverlening, federalisme van autonome gemeenschappen en bezit door gebruik, met sterke morele bedenkingen bij vooruitgang en gebruiken.",
+    "phrase": "Ik wil eigendom afschaffen als diefstal, met vrije wederzijdse kredietverlening en een federatie van autonome communes waar bezit voortkomt uit gebruik."
+  },
+  {
+    "id": "republicanismo-kantiano",
+    "name": "Kantiaans Republicanisme",
+    "category": "Centrum",
+    "description": "Kants politieke filosofie, die de legitimiteit van de staat baseert op de autonomie van de rede en de rechtsstaat, en een gematigd representatief republicanisme en een federatie van vrije staten verdedigt als de weg naar eeuwige vrede.",
+    "phrase": "Ik wil een republiek gebaseerd op de autonomie van de rede en de rechtsstaat, met vrije staten verenigd in een federatie voor eeuwige vrede."
+  },
+  {
+    "id": "socratismo",
+    "name": "Socratisme",
+    "category": "Centrum",
+    "description": "Socrates' dialectische methode, die overtuigingen onderzoekt door rationele bevraging en het streven naar deugd, wantrouwend tegenover massapolitiek en de retoriek van demagogen, maar respectvol voor de rechtsstaat van de stad.",
+    "phrase": "Ik wil een stad die haar overtuigingen onderzoekt door rationele dialoog en deugd zoekt, op haar hoede voor demagogen maar gehoorzaam aan de wetten van de polis."
+  },
+  {
+    "id": "socialismo-marxista",
+    "name": "Marxistisch Socialisme",
+    "category": "Radicaal Links",
+    "description": "Marxs oorspronkelijke doctrine, die de geschiedenis analyseert als klassenstrijd en de overwinning van het kapitalisme voorspelt door proletarische revolutie, met afschaffing van privé-eigendom van de productiemiddelen en sterke kritiek op religie.",
+    "phrase": "Ik wil de proletarische revolutie, de afschaffing van privé-eigendom van de productiemiddelen en het overwinnen van religie als opium van het volk."
+  },
+  {
+    "id": "platonismo",
+    "name": "Platonisme",
+    "category": "Extreemrechts",
+    "description": "Plato's politieke filosofie, die de regering van de stad toevertrouwt aan een filosofische elite gevormd door deugd en kennis, met sterke controle over onderwijs, eigendom en zeden in naam van rechtvaardigheid en sociale harmonie.",
+    "phrase": "Ik wil een stad die wordt geregeerd door filosoof-koningen, met bewakers die zijn opgeleid in deugd en strikte controle over eigendom en zeden."
+  },
+  {
+    "id": "democracia-ateniense",
+    "name": "Atheense democratie",
+    "category": "Rechts",
+    "description": "Ideologie van de klassieke polis, die directe volkssoevereiniteit via een volksvergadering en loting onder gelijke burgers voorstond, terwijl het burgerschap was voorbehouden aan een erfelijke minderheid, vrouwen, buitenlanders en slaven uitsluitend.",
+    "phrase": "Ik wil een polis met een soevereine volksvergadering en ambten per loting onder vrije burgers, waarbij het burgerschap per bloed voorbehouden is aan de mannen van de stad."
+  },
+  {
+    "id": "social-democracia-nordica",
+    "name": "Noordse Sociaaldemocratie",
+    "category": "Links",
+    "description": "Scandinavisch model dat driepartijenoverleg tussen vakbonden, werkgevers en de staat combineert met een universalistische welvaartsstaat gefinancierd door hoge belastingen, en een open, exportgedreven markteconomie, met sterke sociale consensus en lage ongelijkheid.",
+    "phrase": "Ik wil een driepartijenpact tussen vakbonden, werkgevers en de staat, met universele welvaart gefinancierd door hoge belastingen en een open, exporterende markt."
+  },
+  {
+    "id": "comunismo",
+    "name": "Communisme",
+    "category": "Radicaal Links",
+    "description": "Eindfase getheoretiseerd door Marx en Engels: een klassenloze, staatloze samenleving zonder privébezit van de productiemiddelen, met collectieve productie en distributie naar behoefte, ter vervanging van het kapitalisme en de overgangsperiode van socialisme.",
+    "phrase": "Ik wil een klassenloze, staatloze samenleving zonder privébezit, waar iedereen produceert en ontvangt naar behoefte."
+  },
+  {
+    "id": "tecnocracia-liberal",
+    "name": "Liberale Technocratie",
+    "category": "Rechts",
+    "description": "Synthese van de Aziatische Tijgers: vertrouwt de regering toe aan een op verdiensten gerekruteerde technische elite die is geïsoleerd van de stemming en geleid wordt door resultaten in plaats van doctrine, waarbij vrije handel, open markten en lage belastingen worden gecombineerd met strikte openbare orde en staatsplanning waar dit effectief blijkt.",
+    "phrase": "Ik wil een regering van een op verdiensten gerekruteerde technische elite, geïsoleerd van de volksstem, die vrije handel en openbare orde leidt op basis van resultaten, niet doctrine."
+  },
+  {
+    "id": "trabalhismo-de-direita",
+    "name": "Peronistisch Nationalisme",
+    "category": "Derde Positie",
+    "description": "Justicialistische doctrine van Juan en Eva Perón die politieke soevereiniteit, economische onafhankelijkheid en sociale rechtvaardigheid verenigt, met CGT-vakbonden, nationalisaties, beschermde industrialisatie, sociaal katholicisme en een charismatische leider boven de partijen.",
+    "phrase": "Ik wil georganiseerde arbeiders in sterke vakbonden, met fatsoenlijke lonen en een beschermde nationale industrie, onder een stevige leiding, geloof en familie."
+  },
+  {
+    "id": "fascismo-vermelho",
+    "name": "Rood Fascisme",
+    "category": "Derde Positie",
+    "description": "Regime dat de autoritaire esthetiek en hiërarchie van het fascisme, met een sterke leider, orde en nationale discipline, versmelt met een socialistische economie van collectivisatie, genationaliseerde bedrijven en centrale planning van de productiemiddelen.",
+    "phrase": "Ik wil een hiërarchische, gedisciplineerde natie onder een sterke leider, met fabrieken en land gecollectiviseerd onder totale staatsplanning."
+  },
+  {
+    "id": "estoicismo",
+    "name": "Stoïcisme",
+    "category": "Centrum",
+    "description": "Grieks-Romeinse filosofie die leert te leven volgens rede en natuur, met sereniteit te accepteren wat buiten iemands controle ligt, plicht, zelfbeheersing en deugd boven genot te cultiveren, en een natuurlijke wet te erkennen die gemeenschappelijk is voor de gehele rationele mensheid.",
+    "phrase": "Ik wil leven volgens rede en plicht, het lot met sereniteit aanvaardend, onder een natuurlijke wet die gemeenschappelijk is voor de gehele rationele mensheid."
+  },
+  {
+    "id": "agrarianismo",
+    "name": "Agrarisme",
+    "category": "Rechts",
+    "description": "Republikeinse traditie die de kleine, landbezittende boer idealiseert als de basis van burgerdeugd en vrijheid, pleitend voor een brede landverdeling, een beperkte en gedecentraliseerde regering, en wantrouwen jegens banken, staatsschuld, industrie en grote steden.",
+    "phrase": "Ik wil een republiek van kleine boeren die hun land bezitten, gedecentraliseerd en vrij van banken en staatsschuld, ver weg van fabrieken en steden."
+  },
+  {
+    "id": "socialismo-utopico",
+    "name": "Utopisch Socialisme",
+    "category": "Links",
+    "description": "Vroege 19e-eeuwse stroming die een industriële samenleving voorzag, georganiseerd door rationele planning, geleid door wetenschappers, ingenieurs en producenten, ter vervanging van politici en aristocraten zonder een beroep te doen op klassenstrijd of revolutie.",
+    "phrase": "Ik wil een industriële samenleving gerund door wetenschappers en producenten, rationeel gepland, die politici en aristocraten vervangt zonder revolutie."
+  },
+  {
+    "id": "tecno-comercialismo",
+    "name": "Technocommercialisme",
+    "category": "Libertair",
+    "description": "Een neoreactionaire stroming die democratie verwerpt ten gunste van microstaten die als bedrijven worden gerund. Het bepleit concurrentie tussen rechtsgebieden, vrije markten, het recht van uittreding en technologische innovatie als regeringsprincipes.",
+    "phrase": "Ik wil concurrerende bedrijfssteden gerund door aandeelhouders, met vrijheid om uit te treden en markten en technologie die efficiëntie belonen."
+  },
+  {
+    "id": "neotomismo",
+    "name": "Neothomisme",
+    "category": "Rechts",
+    "description": "Heropleving van het denken van Thomas van Aquino vanaf 1879 (Leo XIII), met Maritain en Gilson. Het baseert politiek op natuurwet, het algemeen welzijn en subsidiariteit, bepleit een gemengde regering, eigendom met een sociale functie en rechtvaardige oorlog, onder katholiek geloof.",
+    "phrase": "Ik wil een politieke orde geleid door natuurwet en het algemeen welzijn, met een gemengde regering en subsidiariteit, waar geloof en rede de wetten inspireren."
+  },
+  {
+    "id": "eurasianismo",
+    "name": "Eurasianisme",
+    "category": "Derde Positie",
+    "description": "Russische geopolitieke stroming die Eurazië ziet als een aparte beschaving en een door Moskou geleid continentaal blok voorstelt, met regionale autonomie en gedeeld strategisch commando, tegen atlanticisme en Amerikaanse hegemonie.",
+    "phrase": "Ik wil Euraziatische volkeren autonoom in hun tradities, verenigd onder strategische leiding van Moskou, met economische soevereiniteit en geplande essentiële industrieën."
+  },
+  {
+    "id": "socialismo-democratico",
+    "name": "Democratisch Socialisme",
+    "category": "Links",
+    "description": "Stroming die door middel van verkiezingen verder wil gaan dan het kapitalisme, met maatschappelijk eigendom van grote bedrijven, coöperaties en werkplekdemocratie, en zowel de voorhoede partij als louter sociaaldemocratisch marktbeheer verwerpt.",
+    "phrase": "Ik wil voorbij het kapitalisme gaan via de stembus, met grote bedrijven onder maatschappelijk eigendom, coöperaties en werkplekdemocratie, nooit eenpartijstelsel."
+  },
+  {
+    "id": "terceira-via",
+    "name": "Derde Weg",
+    "category": "Centrum",
+    "description": "Vernieuwing van het centrum-links in de jaren 90 onder Blair, Clinton en Giddens die geglobaliseerde markten en fiscale discipline accepteert, welzijn vervangt door werkactivering, streng is op criminaliteit en liberale interventies ondersteunt.",
+    "phrase": "Ik wil een geglobaliseerde markt met een staat die investeert in onderwijs, welzijn inruilt voor werk, en hard optreedt tegen criminaliteit en de oorzaken ervan."
+  },
+  {
+    "id": "paleoconservadorismo",
+    "name": "Paleoconservatisme",
+    "category": "Rechts",
+    "description": "Amerikaans traditionalistisch rechts, van Buchanan en Kirk, dat het christelijk erfgoed, localisme en staatsrechten verdedigt, immigratiebeperking, protectionisme en non-interventionisme, tegen neoconservatieven en de bestuurlijke staat.",
+    "phrase": "Ik wil een christelijke republiek van lokale gemeenschappen en soevereine staten, gesloten grenzen, beschermde nationale industrie en geen oorlogen voor een imperium."
+  },
+  {
+    "id": "bonapartismo",
+    "name": "Bonapartisme",
+    "category": "Extreemrechts",
+    "description": "Caesaristische stroming die een charismatische leider door middel van een plebisciet boven partijen legitimeert, waarbij persoonlijke autoriteit, bureaucratische centralisatie, militaire mobilisatie en door de staat geleide moderniserende hervormingen worden gecombineerd.",
+    "phrase": "Ik wil een natie gemobiliseerd door een plebiscitaire leider boven partijen, die de staat moderniseert en strategische sectoren met autoriteit aanstuurt."
+  },
+  {
+    "id": "quilombismo",
+    "name": "Quilombisme",
+    "category": "Links",
+    "description": "Politiek project ontwikkeld door Abdias Nascimento vanuit de geschiedenis van de quilombos in Brazilië. Het pleit voor raciale gelijkheid, Afro-Braziliaanse zelfbeschikking, participatieve democratie, een coöperatieve economie en land in collectief gebruik.",
+    "phrase": "Ik wil een quilombistische staat met raciale gelijkheid en volksparticipatie, collectief land en productie georganiseerd via coöperaties."
+  },
+  {
+    "id": "democracia-intervencionista",
+    "name": "Interventionistische Democratie",
+    "category": "Rechts",
+    "description": "Buitenlandse beleidsdoctrine geassocieerd met de Amerikaanse strategie van 2002. Het bepleit militair ingrijpen en preventieve actie tegen bedreigingen, naast de internationale bevordering van democratie, open markten en door de VS geleide allianties.",
+    "phrase": "Ik wil democratieën en open markten beschermd door sterke allianties, met preventieve militaire actie tegen veiligheidsbedreigingen."
+  },
+  {
+    "id": "ambientalismo-malthusiano",
+    "name": "Malthusiaans Milieuactivisme",
+    "category": "Rechts",
+    "description": "Milieustroming geïnspireerd door Garrett Hardin die bevolkingsdruk koppelt aan de uitputting van gemeenschappelijke hulpbronnen. Het pleit voor collectief afgedwongen grenzen aan het gebruik van hulpbronnen en beleid om bevolkingsgroei te beteugelen.",
+    "phrase": "Ik wil beperkte hulpbronnen behouden door middel van strikte regels voor gemeenschappelijke goederen en grenzen aan bevolkingsgroei."
+  },
+  {
+    "id": "conservadorismo-reaganista",
+    "name": "Reaganistisch Conservatisme",
+    "category": "Rechts",
+    "description": "Amerikaanse conservatieve stroming geassocieerd met Ronald Reagan. Het combineert lagere belastingen en een kleinere federale economische rol met vrij ondernemerschap, traditionele religieuze waarden, anticommunisme en militaire kracht.",
+    "phrase": "Ik wil vrije gezinnen en gemeenschappen onder een kleinere federale overheid, lage belastingen, sterke bedrijven en een stevige verdediging tegen buitenlandse tegenstanders."
+  },
+  {
+    "id": "centrismo-radical",
+    "name": "Radicaal Centrisme",
+    "category": "Midden",
+    "description": "Centrisme tot het uiterste doorgevoerd: het weigert elke principiële voorkeur en streeft naar exacte equidistantie tussen elke pool, van economie tot moraliteit, waarbij elke politieke as wordt behandeld als een te bewaren evenwichtspunt.",
+    "phrase": "Ik wil een maatschappij die geen partij kiest, macht die nooit naar een bepaalde pool overhelt, en een economie die staat en markt precies gelijk weegt."
+  },
+  {
+    "id": "budismo-politico",
+    "name": "Politiek Boeddhisme",
+    "category": "Midden",
+    "description": "Past de Dharma toe op politiek: Ashoka's rechtvaardige koning, Schumachers boeddhistische economie, Buddhadasa's Dhammische socialisme en Bhutans Bruto Nationaal Geluk. Het geeft prioriteit aan geweldloosheid, matige consumptie, gemeenschap en harmonie met de natuur.",
+    "phrase": "Ik wil een samenleving geleid door de Dharma en geweldloosheid, met rechtvaardige heersers, matige consumptie en een gemeenschap economie in harmonie met de natuur."
+  },
+  {
+    "id": "anarquismo-egoista",
+    "name": "Egoïstisch Anarchisme",
+    "category": "Anarchistisch",
+    "description": "Stroming opgericht door Max Stirner in Der Einzige und sein Eigentum (1844), die de staat, moraliteit, religie en rechten als spoken verwerpt en vrijwillige verbonden van egoïsten voorstelt die alleen samenwerken zolang het hen dient.",
+    "phrase": "Ik wil de Enige vrij van God, moraal en staat, geallieerd met egoïsten alleen zolang het loont, alleen bezittend wat zijn macht vasthoudt."
+  },
+  {
+    "id": "social-desenvolvimentismo",
+    "name": "Sociaal-Ontwikkelingsbeleid",
+    "category": "Links",
+    "description": "Model geassocieerd met de regeringen van de Arbeiderspartij in Brazilië dat groei met sociale inclusie nastreeft, waarbij stijgende minimumlonen, volkskrediet, cash transfers en openbare banken worden gecombineerd zonder de markt te doorbreken.",
+    "phrase": "Ik wil groei die inkomen deelt, met stijgende minimumlonen, krediet en openbare banken, brede allianties en de markt intact gehouden."
+  },
+  {
+    "id": "liberalismo-new-deal",
+    "name": "New Deal Liberalisme",
+    "category": "Midden",
+    "description": "Stroming van de Democratische Partij ontstaan met Franklin Roosevelt die financiële regulering, sociale zekerheid, openbare werken en sterke vakbonden combineert met burgerlijk patriottisme, behouden kapitalisme en internationaal leiderschap.",
+    "phrase": "Ik wil een patriottische natie van geloof, met een sterke federale overheid die banken in toom houdt, beschermde vakbonden, sociale zekerheid en wereldleiderschap."
+  },
+  {
+    "id": "liberalismo-keynesiano",
+    "name": "Keynesiaans Liberalisme",
+    "category": "Links",
+    "description": "Stroming geïnspireerd door John Maynard Keynes die markten en liberale democratie accepteert, maar de staat de taak geeft om de vraag te beheren, met anticyclische overheidsuitgaven, volledige werkgelegenheid als doel en een gemengde economie.",
+    "phrase": "Ik wil een liberale democratie met een gemengde economie, waarbij de staat uitgeeft tegen recessies en volledige werkgelegenheid nastreeft zonder eigenaar te zijn van de industrie."
+  },
+  {
+    "id": "social-democracia-brasileira",
+    "name": "Braziliaanse Sociaaldemocratie",
+    "category": "Midden",
+    "description": "Stroming van de Braziliaanse PSDB, opgericht in 1988 door Covas, Montoro en Cardoso, die een markteconomie, sociale staat, staatshervorming en fiscale verantwoordelijkheid combineert met parlementarisme en matiging op sociale kwesties.",
+    "phrase": "Ik wil een parlementaire democratie met stabiel geld, sluitende begrotingen, gereguleerde privatiseringen en een slanke staat die zorgt voor gezondheid en onderwijs."
+  },
+  {
+    "id": "nacionalismo-varguista",
+    "name": "Varguistisch Nationalisme",
+    "category": "Derde Positie",
+    "description": "De Estado Novo-doctrine van Getúlio Vargas die economisch nationalisme, een gecentraliseerde staat, staatsgebonden vakbonden, arbeidswetgeving en staatsbedrijven zoals Petrobras combineert, tegen de regionale oligarchieën en het liberalisme.",
+    "phrase": "Ik wil een natie verenigd onder een sterke staat, met arbeidswetten die werknemers beschermen, nationale industrie en olie, en geen regionale oligarchie."
+  },
+  {
+    "id": "socialismo-cubano",
+    "name": "Cubaans Socialisme",
+    "category": "Radicaal Links",
+    "description": "Revolutionair regime van Fidel Castro en Che Guevara, met één partij, een door de staat geleide economie, universele gezondheidszorg en onderwijs, export van gewapende revolutie en het ideaal van de nieuwe mens tegen imperialisme.",
+    "phrase": "Ik wil een soevereine, internationalistische revolutie, met één partij, een geplande economie, gezondheidszorg en onderwijs voor iedereen en een nieuwe mens."
+  },
+  {
+    "id": "socialismo-africano",
+    "name": "Afrikaans Socialisme",
+    "category": "Links",
+    "description": "Stroming van Sankara, Samora Machel, Nkrumah en Nyerere die pan-Afrikanisme, Zwart bewustzijn, antikoloniale strijd, agrarische collectivisatie en zelfredzaamheid combineert tegen neokolonialisme en racisme.",
+    "phrase": "Ik wil Afrikaanse volkeren en de diaspora verenigd en soeverein, met collectieve dorpen, zelfredzame productie en een revolutionaire partij tegen neokolonialisme."
+  },
+  {
+    "id": "anarquismo-kropotkiniano",
+    "name": "Kropotkiniaans Anarchisme",
+    "category": "Anarchistisch",
+    "description": "Stroming van Peter Kropotkin die wederzijdse hulp ziet als een natuurwet en gefedereerde communes, integratie van landbouw en industrie, wetenschap ten dienste van iedereen en een ethiek van solidariteit zonder staat voorstelt.",
+    "phrase": "Ik wil vrije communes, gefedereerd door wederzijdse hulp, die veld en fabriek verenigen, waarbij alles wordt gedeeld naar behoefte en zonder enige staat."
+  },
+  {
+    "id": "conservadorismo-confederado",
+    "name": "Confederatief Conservatisme",
+    "category": "Extreemrechts",
+    "description": "Ideologie van het slavenhoudende Zuiden die de Confederatie in stand hield, statenrechten en afscheiding, raciale hiërarchie en slavernij, een patriarchale christelijke agrarische samenleving, vrijhandel en militarisme verenigt.",
+    "phrase": "Ik wil soevereine staten vrij van centrale macht, een christelijke patriarchale agrarische samenleving, vrijhandel met de wereld en de raciale hiërarchie behouden."
+  },
+  {
+    "id": "socialismo-agrario",
+    "name": "Agrarisch Socialisme",
+    "category": "Radicaal Links",
+    "description": "Stroming die het socialisme opbouwt vanuit het platteland, met een eenpartijstelsel, collectivisatie in dorpen en coöperaties, voedselzelfvoorziening en bescherming van land en bossen, zoals in Nyerere's Ujamaa.",
+    "phrase": "Ik wil socialisme opgebouwd vanuit het platteland, met collectieve dorpen, thuis geteeld voedsel, beschermde bossen en een partij die de natie leidt."
+  },
+  {
+    "id": "futurismo",
+    "name": "Futurisme",
+    "category": "Derde Positie",
+    "description": "Beweging van Filippo Marinetti die snelheid, machines, industrie en oorlog verheerlijkte als de hygiëne van de wereld, nationalisme, antiklerikalisme en een breuk met het verleden predikte, en hielp bij de oprichting van het Italiaanse fascisme.",
+    "phrase": "Ik wil een jonge, snelle natie gedreven door machines en fabrieken, vrij van priesters, koningen en musea, gesmeed in oorlog als de hygiëne van de wereld."
+  },
+  {
+    "id": "cesarismo",
+    "name": "Caesarisme",
+    "category": "Rechts",
+    "description": "Romeinse keizerlijke traditie die, van Julius Caesar via Augustus, Nero, Marcus Aurelius en Justinianus, leger, wet en administratie concentreert in de heerser, terwijl instituties, volksvoorziening en soevereiniteit over een divers rijk behouden blijven.",
+    "phrase": "Ik wil een rijk onder één bevel, hooggehouden door het leger, de wet en de goden van de stad, met brood voor het volk en verdedigde grenzen."
+  },
+  {
+    "id": "capitalismo-industrial",
+    "name": "Industrieel Kapitalisme",
+    "category": "Rechts",
+    "description": "Kapitalisme van de grote industriëlen zoals Henry Ford, Rockefeller en Thomas Edison, dat de fabriek, massaproductie, uitvinding en de ondernemer verheerlijkt, met een arbeidsethos, traditioneel gezin en minimale staatsbemoeienis.",
+    "phrase": "Ik wil een natie van fabrieken, uitvinding en werk, met privé-eigendom, vrije ondernemers en weinig staatsbemoeienis."
+  },
+  {
+    "id": "neoliberalismo-autoritario",
+    "name": "Autoritair Neoliberalisme",
+    "category": "Rechts",
+    "description": "Regime dat radicale vrije markten oplegt via een militaire dictatuur, met privatiseringen, handelsopening en in Chicago opgeleide economen, vakbonden, partijen en tegenstanders onderdrukkend in naam van orde en anticommunisme.",
+    "phrase": "Ik wil open markten, privatisering en fiscale discipline opgelegd door een sterke regering die vakbonden en oppositie neerslaat."
+  },
+  {
+    "id": "catolicismo-universalista",
+    "name": "Universalistisch Katholicisme",
+    "category": "Rechts",
+    "description": "Christelijke visie die de universele Kerk boven naties, rassen en grenzen plaatst, in de lijn van Paulus van Tarsus en Augustinus, intense geloof, traditionele moraal en spiritueel gezag verbindend met broederschap onder alle volkeren.",
+    "phrase": "Ik wil een universele christelijke gemenebest, verenigd door de Kerk en de morele wet, boven grenzen, rassen en nationale belangen."
+  },
+  {
+    "id": "republicanismo-confederal",
+    "name": "Confederaal Republicanisme",
+    "category": "Centrum",
+    "description": "Traditie van republieken gevormd door soevereine provincies of kantons, zoals de Nederlandse Republiek en de oude Zwitserse Confederatie, met lokaal zelfbestuur, open handel, gewapende neutraliteit en diepgeworteld protestants geloof.",
+    "phrase": "Ik wil soevereine provincies verenigd door een republikeins pact, open handel, lokale milities en protestants geloof."
+  },
+  {
+    "id": "anarcoprimitivismo",
+    "name": "Anarchoprimitivisme",
+    "category": "Anarchistisch",
+    "description": "Stroming van John Zerzan en Ted Kaczynski die de industriële beschaving en de landbouw zelf ziet als de wortel van overheersing, oproepend tot het einde van moderne technologie en een terugkeer naar kleine statenloze jager-verzamelaar gemeenschappen.",
+    "phrase": "Ik wil de staat, industrie en landbouw afschaffen, en leven in kleine autonome gemeenschappen vrij van technologie en overheersing."
+  },
+  {
+    "id": "socialismo-federalista",
+    "name": "Federalistisch Socialisme",
+    "category": "Radicaal Links",
+    "description": "Model van een federatie van socialistische republieken onder een vanguardistische partij, zoals in Lenins USSR, dat een geplande economie en eenpartijbestuur combineert met nationale autonomie, lokale talen en culturen, en gefedereerde republieken met een formeel recht op afscheiding.",
+    "phrase": "Ik wil een unie van socialistische republieken met eigen talen en culturen, geleid door de voorhoedepartij en een gemeenschappelijk economisch plan.",
+    "countryId": "uniao-sovietica-urss",
+    "personalityId": "lenin"
+  },
+  {
+    "id": "socialismo-patriotico",
+    "name": "Patriottisch Socialisme",
+    "category": "Derde Positie",
+    "description": "Stroming die een door de staat geleide socialistische economie en een sterke partij combineert met patriottisme, het traditionele gezin, religie als nationaal erfgoed en afwijzing van cultureel progressivisme, waarbij identiteitspolitiek wordt gezien als een liberale afleiding van de klassenstrijd.",
+    "phrase": "Ik wil socialisme voor werkende mensen met een vaderland, familie en voorouderlijk geloof, gepland door de partij en vrij van liberale modegrillen.",
+    "countryId": "bielorrussia",
+    "personalityId": "stalin"
+  },
+  {
+    "id": "socialismo-vietnamita",
+    "name": "Vietnamees Socialisme",
+    "category": "Radicaal Links",
+    "description": "Model van de Communistische Partij van Vietnam dat het Ho Chi Minh-denken, antikoloniale nationale bevrijding en de Đổi Mới van 1986 verenigt: eenpartijbestuur, een sociaal-georiënteerde markteconomie, een dominante staatssector en openheid voor wereldhandel.",
+    "phrase": "Ik wil de natie bevrijd langs Ho Chi Minhs pad, geleid door de Partij, met een sociaal-georiënteerde markt en deuren open voor handel.",
+    "countryId": "vietna",
+    "personalityId": "ho-chi-minh"
+  },
+  {
+    "id": "socialismo-baathista",
+    "name": "Ba'athistisch Socialisme",
+    "category": "Derde Positie",
+    "description": "Een Arabische stroming van staatsocialisme die pan-Arabisch nationalisme, een voorhoedepartij, planning, landhervorming en controle over strategische sectoren combineert, pleitend voor Arabische eenheid, secularisme en onafhankelijkheid van imperialisme.",
+    "phrase": "Ik wil de Arabische natie verenigd door een revolutionaire partij, met staatssocialisme, landhervorming, secularisme en onafhankelijkheid van imperialisme."
+  },
+  {
+    "id": "islamismo",
+    "name": "Islamisme",
+    "category": "Rechts",
+    "description": "Politieke beweging die pleit voor een staat bestuurd door de sharia en islamitische identiteit, ontstaan met Hassan al-Banna's en Sayyid Qutbs Moslimbroederschap, massale activisme, religieuze sociale welvaart en afwijzing van Westers secularisme combinerend.",
+    "phrase": "Ik wil een islamitische samenleving geleid door de sharia, met gelovigen georganiseerd vanuit de moskeeën en een zakat-economie vrij van woeker."
+  },
+  {
+    "id": "democracia-islamica",
+    "name": "Islamitische democratie",
+    "category": "Rechts",
+    "description": "Huidige stroming die de islam verzoent met electorale democratie via conservatieve religieuze partijen die deelnemen aan verkiezingen en een markteconomie en moslimwaarden in het openbare leven ondersteunen, zoals de vroege AKP in Turkije en Ennahda in Tunesië.",
+    "phrase": "Ik wil een moslimpartij die verkiezingen wint, familie en geloof in het openbare leven beschermt en de markteconomie laat groeien."
+  },
+  {
+    "id": "socialismo-islamico",
+    "name": "Islamitisch socialisme",
+    "category": "Derde Positie",
+    "description": "Huidige stroming die het socialisme baseert op islamitische principes zoals zakat, het verbod op woekerrente en Korannische sociale rechtvaardigheid, waarbij anti-imperialisme wordt gecombineerd met een staatsgeleide economie, van Gaddafi's Derde Universele Theorie tot de gedachten van Ali Shariati.",
+    "phrase": "Ik wil Korannische rechtvaardigheid: het land behoort toe aan God, zakat deelt de rijkdom en de staat leidt de economie tegen woekerrente en imperialisme."
+  },
+  {
+    "id": "pan-islamismo",
+    "name": "Pan-islamisme",
+    "category": "Derde Positie",
+    "description": "Ideologie die de politieke eenheid van moslims boven nationale grenzen bepleit, rond de ummah en het ideaal van een kalifaat, geformuleerd door Jamal al-Din al-Afghani en aangenomen door de Ottomaanse sultan Abdul Hamid II tegen het Europese kolonialisme.",
+    "phrase": "Ik wil de ummah verenigd over grenzen heen onder een kalifaat, met islamitische wet overal en de moslimwereld vrij van Westerse overheersing."
+  },
+  {
+    "id": "nacionalismo-kemalista",
+    "name": "Kemalistisch nationalisme",
+    "category": "Derde Positie",
+    "description": "Doctrine van Mustafa Kemal Atatürk die het moderne Turkije stichtte op zes pijlers: republikanisme, nationalisme, populisme, staats主义, laïcisme en reformisme, waarbij verwestering en staatscontrole over religie van bovenaf werden opgelegd.",
+    "phrase": "Ik wil een seculiere, moderne Turkse republiek, met religie onder staatscontrole, één nationale identiteit en industrie gebouwd door de staat."
+  },
+  {
+    "id": "liberalismo-islamico",
+    "name": "Islamitisch liberalisme",
+    "category": "Midden",
+    "description": "Reformistische stroming die de islam herinterpreteert in het licht van rede, mensenrechten en pluralisme, waarbij democratie, gendergelijkheid, een niet-confessionele staat en gewetensvrijheid worden bepleit, in de modernistische traditie van Muhammad Abduh.",
+    "phrase": "Ik wil mijn islamitische geloof beleven met rede en vrijheid, in een democratische, niet-confessionele staat die gelijkheid tussen mannen en vrouwen garandeert."
+  },
+  {
+    "id": "nacionalismo-budista",
+    "name": "Boeddhistisch nationalisme",
+    "category": "Rechts",
+    "description": "Een stroming die etnische identiteit en Theravada-boeddhistisch geloof combineert, waarbij de natie wordt gezien als bewaker van de Dharma, bedreigd door minderheden, zoals in het Singalese nationalisme in Sri Lanka en de monnikenbewegingen Ma Ba Tha en 969 in Myanmar.",
+    "phrase": "Ik wil een boeddhistische natie die de Dharma en de meerderheid beschermt, met invloedrijke monniken, sterke leiders en minderheden onder toezicht."
+  },
+  {
+    "id": "sionismo",
+    "name": "Zionisme",
+    "category": "Rechts",
+    "description": "Een Joodse nationale beweging, opgericht door Herzl in 1897, die leidde tot Israël in 1948. Het omvat arbeiders-, revisionistische en religieuze stromingen en wordt vandaag uitgedrukt in een parlementaire democratie met een sterk leger, de Wet op de Terugkeer en controle over de Westelijke Jordaanoever.",
+    "phrase": "Ik wil een sterke democratische Joodse staat in het land Israël die elke Jood verwelkomt, zichzelf met eigen wapens verdedigt en het Hebreeuws bewaart."
+  },
+  {
+    "id": "sionismo-trabalhista",
+    "name": "Arbeiderszionisme",
+    "category": "Links",
+    "description": "De socialistische stroming van het zionisme die de staat Israël opbouwde via de kibboetsen, de Histadrut-vakbondsfederatie en de Mapai-partij van Ben-Gurion, waarbij Joods nationalisme, collectieve arbeid op het land en een seculiere verzorgingsstaat werden verenigd.",
+    "phrase": "Ik wil de Joodse natie met onze eigen handen opbouwen, in kibboetsen en sterke vakbonden, met openbaar land en een seculiere verzorgingsstaat."
+  },
+  {
+    "id": "feudalismo",
+    "name": "Feodalisme",
+    "category": "Extreem-rechts",
+    "description": "Een middeleeuwse orde gebaseerd op persoonlijke banden van vazalschap tussen heer en vazallen, met land toegekend als leengoederen, een erfelijke krijgersadel, lijfeigenen gebonden aan het land, de Kerk als morele autoriteit, en macht versnipperd onder lokale heren.",
+    "phrase": "Ik wil heren en vazallen gebonden door trouw, de Kerk centraal, en ieder in zijn stand: zij die bidden, vechten of ploegen."
+  },
+  {
+    "id": "tradicionalismo-carlista",
+    "name": "Carlistisch traditionalisme",
+    "category": "Extreem-rechts",
+    "description": "Een Spaanse stroming van contrarevolutionair traditionalisme, ontstaan in de 19e-eeuwse Carlistische Oorlogen onder het motto God, Vaderland, Fueros en Koning, waarbij een legitimerende katholieke monarchie, religieuze eenheid, regionale fueros en een organische samenleving tegen het liberalisme werden bepleit.",
+    "phrase": "Ik wil Katholiek Spanje onder de rechtmatige koning, met regionale fueros, standenvertegenwoordigingen en gilden, tegen liberalisme en centralisme."
+  },
+  {
+    "id": "fascismo-clerical",
+    "name": "Klerikaal fascisme",
+    "category": "Derde Positie",
+    "description": "Een variant van fascisme die ultranationalisme, een massapartij en milities combineert met het gezag van een nationale Kerk, met geestelijken aan de macht, zoals in Dollfuss' Austrofascisme, Pater Tiso's Slowakije, de Kroatische Ustaše en Roemenië's IJzeren Garde.",
+    "phrase": "Ik wil een natie gewijd door de Kerk, met geestelijken in de regering, één partij, geloofsmilities en christelijke corporaties die de economie leiden."
+  },
+  {
+    "id": "teocratismo-islamico",
+    "name": "Islamitisch theocratisme",
+    "category": "Extreem-rechts",
+    "description": "Een doctrine die de staat in handen geeft van de islamitische geestelijkheid en de sharia tot de hoogste wet maakt, boven volkssoevereiniteit, zoals in Khomeini's voogdij van de jurist (velayat-e faqih) in Iran en het Taliban-emiraat in Afghanistan.",
+    "phrase": "Ik wil Gods soevereiniteit boven de stem, met de religieuze jurist aan het roer, sharia als de enige wet en een economie vrij van woekerrente."
+  },
+  {
+    "id": "socialismo-blanquista",
+    "name": "Blanquistisch socialisme",
+    "category": "Radicaal Links",
+    "description": "De doctrine van Auguste Blanqui dat een samenzweerderige revolutionaire minderheid de macht moest grijpen en regeren via een voorlopige dictatuur die de bourgeoisie onteigent, met militant atheïsme en wantrouwen jegens verkiezingen en spontane massa-actie.",
+    "phrase": "Ik wil een opstandige minderheid die Parijs bestormt, een voorlopige dictatuur oplegt tegen de bourgeoisie en de Kerk, en de rijkdom overhandigt aan het volk."
+  },
+  {
+    "id": "socialismo-budista",
+    "name": "Boeddhistisch socialisme",
+    "category": "Links",
+    "description": "Een stroming die het socialisme baseert op boeddhistische ethiek, waarbij compassie en het einde van gehechtheid de basis vormen voor gelijkheid, gemeenschappelijk eigendom en de afwijzing van kasten, van Ambedkar en de Dalai Lama tot Ne Win's Birmaanse socialisme.",
+    "phrase": "Ik wil een samenleving van compassie zonder kasten, met gemeenschappelijk land en middelen en een staat die voor iedereen zorgt zonder gehechtheid aan winst."
+  },
+  {
+    "id": "teocracia-budista",
+    "name": "Boeddhistische theocratie",
+    "category": "Extreem-rechts",
+    "description": "Heerschappij door een boeddhistische monastieke hiërarchie, met gereïncarneerde leiders en kloosters die de politiek en het land domineren, traditionele orde en morele voorschriften als wet, zoals in het Tibet van de Dalai Lama vóór 1950.",
+    "phrase": "Ik wil een samenleving geregeerd door de sangha, met gereïncarneerde lama's aan het roer, de vijf voorschriften als wet en de traditionele orde boven verkiezingen."
+  },
+  {
+    "id": "monarquismo-iluminista",
+    "name": "Verlicht Monarchisme",
+    "category": "Rechts",
+    "description": "Verlicht absolutisme: een soevereine vorst die regeert met de rede, 'alles voor het volk, niets door het volk', met een bureaucratie van experts, onderwijs en hervormingen tegen de Kerk en de adel, van Frederik II tot Jozef II.",
+    "phrase": "Ik wil een verlichte vorst, eerste dienaar van de staat, die hervormt met rede, wijzen en tolerantie: alles voor het volk, niets door het volk."
+  },
+  {
+    "id": "teocracia-judaica",
+    "name": "Joodse Theocratie",
+    "category": "Extreemrechts",
+    "description": "Regering geleid door de Thora en halakha, met rabbinale rechtbanken, rechters of koningen onder religieus gezag, het jodendom als staatsgodsdienst en afwijzing van assimilatie, geïnspireerd door de bijbelse koninkrijken Israël en Juda.",
+    "phrase": "Ik wil een staat die geregeerd wordt door de Thora en halakha, met rabbinale rechtbanken, rechters of een koning onder Gods wet, en familie grondbezit."
+  },
+  {
+    "id": "municipalismo",
+    "name": "Municipalisme",
+    "category": "Libertarisch",
+    "description": "Een wereld verdeeld in onafhankelijke stadstaten en microstaten die concurreren als een markt, met vrije afscheiding, het recht van uittreding en politieke experimenten, van de middeleeuwse vrije steden tot Yarvins 'patchwork' en seasteading.",
+    "phrase": "Ik wil duizenden soevereine stadstaten die concurreren om inwoners, met vrije afscheiding, het recht van uittreding en elke stad die haar eigen wetten kiest."
+  },
+  {
+    "id": "comunismo-de-conselhos",
+    "name": "Radencommunisme",
+    "category": "Radicaal Links",
+    "description": "Een anti-Leninistische Marxistische stroming van Pannekoek, Gorter en Mattick, die stelt dat arbeiders zelf de productie en de macht moeten beheren via arbeidersraden, de voorhoede partij, de staat en het parlementarisme afwijzend.",
+    "phrase": "Ik wil dat arbeidersraden fabrieken en de macht besturen via herroepbare mandaten, zonder voorhoede partij, zonder staat en zonder loonarbeid."
+  },
+  {
+    "id": "confederalismo-democratico",
+    "name": "Democratisch Confederalisme",
+    "category": "Links",
+    "description": "Een bottom-up zelfbestuursmodel van Abdullah Öcalan, met lokale assemblees verenigd in een confederatie, ecologie, gendergelijkheid en een coöperatieve economie, zonder natiestaat, in de praktijk gebracht in Rojava.",
+    "phrase": "Ik wil lokale communes en assemblees die verenigd zijn in een confederatie, met gendergelijkheid, ecologie, een coöperatieve economie en zelfverdediging, zonder natiestaat."
+  },
+  {
+    "id": "tradicionalismo",
+    "name": "Traditionalisme",
+    "category": "Extreemrechts",
+    "description": "Een stroming van René Guénon en Julius Evola die moderniteit ziet als het verval van een universele spirituele traditie, en verdedigt een heilige hiërarchie, kasten, initiatie-orde en het primaat van geest boven economie en massapolitiek.",
+    "phrase": "Ik wil een heilige hiërarchische orde van kasten en ingewijden die geest boven geld en massapolitiek stelt, tegen de moderniteit."
+  },
+  {
+    "id": "aceleracionismo-efetivo",
+    "name": "Effectief Acceleracionisme",
+    "category": "Libertarisch",
+    "description": "Een online in 2022 ontstane beweging die pleit voor het versnellen van AI, energie en innovatie via de markt en zonder regulering, technologische vooruitgang behandelend als een morele imperatief en voorstanders van vertraging afwijzend.",
+    "phrase": "Ik wil AI, energie en innovatie versnellen via de vrije markt, zonder regulering of degrowth, en technologische vooruitgang behandelen als een morele plicht."
+  },
+  {
+    "id": "democracia-direta",
+    "name": "Directe Democratie",
+    "category": "Midden",
+    "description": "Een systeem waarin burgers wetten direct beslissen via referenda, volksinitiatieven, vergaderingen en het terugroepen van functionarissen, in plaats van te delegeren aan vertegenwoordigers, zoals in de Zwitserse kantons en het klassieke Athene.",
+    "phrase": "Ik wil dat burgers wetten beslissen via referenda, volksinitiatieven en het terugroepen van functionarissen, met gedecentraliseerde macht naar gemeenten en kantons."
+  },
+  {
+    "id": "iluminismo-sombrio",
+    "name": "Donkere Verlichting",
+    "category": "Extreemrechts",
+    "description": "Een intellectuele stroming van Nick Land en Curtis Yarvin die democratie, egalitarisme en de academisch-media 'Kathedraal' aanvalt, autocratisch bestuur en exit verdedigt, en tendensen van raciaal realisme en acceleracionisme herbergt.",
+    "phrase": "Ik wil democratie en egalitarisme vervangen door sterke soevereinen, natuurlijke hiërarchie en vrije microstaten die technologie versnellen, voorbij de Kathedraal."
+  },
+  {
+    "id": "neocameralismo",
+    "name": "Neocameralisme",
+    "category": "Rechts",
+    "description": "Een doctrine van Curtis Yarvin die voorstelt de staat te runnen als een naamloze vennootschap: aandeelhouders, een soevereine CEO, burgers als klanten die kunnen vertrekken, gegarandeerd privébezit en politiek vervangen door management.",
+    "phrase": "Ik wil een staat gerund als een bedrijf, met aandeelhouders en een soevereine CEO, geen politiek of verkiezingen, waar burgers klanten zijn die vrij zijn om te vertrekken."
+  },
+  {
+    "id": "tridemismo",
+    "name": "Tridemisme",
+    "category": "Midden",
+    "description": "De republikeinse doctrine van Sun Yat-sen, gearticuleerd in de Drie Principes van het Volk: nationalisme, democratie en de bestaansmiddelen van het volk. Het programma voorzag in tijdelijke politieke voogdij, volkssoevereiniteit en sociale en economische hervormingen.",
+    "phrase": "Ik wil de natie bevrijden, de politieke macht toevertrouwen aan het volk na revolutionaire voogdij, en hun bestaansmiddelen verzekeren door nationale ontwikkeling."
+  },
+  {
+    "id": "posmodernismo",
+    "name": "Postmodernisme",
+    "category": "Links",
+    "description": "Een meervoudige kritiek op universalisme, lineaire vooruitgang en grote verhalen. In een Foucauldiaanse lezing tonen genealogie en macht/kennis-analyse aan hoe instituties, normen en discoursen subjecten produceren en mogelijkheden openen voor lokaal verzet.",
+    "phrase": "Ik wil laten zien hoe macht en kennis waarheden en subjecten produceren, normen uitdagen die het leven disciplineren, en ruimte maken voor lokaal verzet."
+  },
+  {
+    "id": "socialismo-chines",
+    "name": "Chinees Socialisme",
+    "category": "Radicaal Links",
+    "description": "21e-eeuwse doctrine van de CPC geassocieerd met Xi Jinping. Het combineert gecentraliseerd Partijleiderschap en socialistische modernisering, bepleit nationale verjonging, overwegend openbaar eigendom, en een socialistische markt met privé-ondernemingen en technologische innovatie.",
+    "phrase": "Ik wil China moderniseren onder Partijleiderschap, planning en markten combineren, en gemeenschappelijke welvaart nastreven door technologische zelfredzaamheid."
+  },
+  {
+    "id": "nacionalismo-de-esquerda",
+    "name": "Links Nationalisme",
+    "category": "Links",
+    "description": "Combineert nationale zelfbeschikking en volkssoevereiniteit met sociale gelijkheid en linkse economische politiek. De historische uitingen variëren van antikoloniale en socialistische tot ontwikkelingsbewegingen, zonder een uniform economisch of institutioneel programma.",
+    "phrase": "Ik wil nationale zelfbeschikking verbinden met sociale gelijkheid, de staat gebruiken om de economie te ontwikkelen, en volksdeelname en sociale rechten waarborgen."
+  },
+  {
+    "id": "nacionalismo-de-direita",
+    "name": "Rechts Nationalisme",
+    "category": "Rechts",
+    "description": "Prioriteert nationale soevereiniteit, identiteit en cohesie, en associeert deze met rechtse standpunten zoals sociale hiërarchie, cultureel conservatisme of immigratiebeperking. Stromingen variëren in hun visie op de staat en economie, van vrije markten tot nationaal protectionisme.",
+    "phrase": "Ik wil de soevereiniteit verdedigen, nationale grenzen en gebruiken beschermen, de binnenlandse productie veiligstellen en de collectieve verdediging versterken."
+  },
+  {
+    "id": "republicanismo-maquiavelico",
+    "name": "Machiavellistisch Republicanisme",
+    "category": "Rechts",
+    "description": "Een republikeinse stroming geïnspireerd door Machiavelli's Discorsi. Het verdedigt burgerlijke vrijheid via wetten, volksdeelneming en gereguleerde conflicten tussen sociale groepen, en staat uitzonderlijke maatregelen toe om de republiek te bewaren.",
+    "phrase": "Ik wil republikeinse vrijheid beschermen door wetten en volksdeelname, de overheersing van elites beperken en collectieve onafhankelijkheid bewaren."
+  },
+  {
+    "id": "eurocomunismo",
+    "name": "Eurocommunisme",
+    "category": "Links",
+    "description": "Een West-Europese communistische stroming uit de jaren zeventig die een nationale weg naar het socialisme zocht via verkiezingen, partijpluralisme en burgerlijke vrijheden, onafhankelijk van Moskou, met een gemengde economie onder democratische planning.",
+    "phrase": "Ik wil socialisme opbouwen door middel van verkiezingen en pluralisme, met burgerlijke vrijheden, nationale autonomie en democratische economische planning."
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "id": "brasil",
+    "name": "Brazilië",
+    "category": "Sociaal-ontwikkelingsgezinde republiek",
+    "description": "Het grootste land van Latijns-Amerika, Brazilië, is een democratische presidentiële federale republiek met een gemengde economie, een breed sociaal beleid en een sterke regionale, culturele en politieke diversiteit die zijn verkiezingsstrijd vormgeeft."
+  },
+  {
+    "id": "estados-unidos",
+    "name": "Verenigde Staten",
+    "category": "Liberaal-federale republiek",
+    "description": "Een wereldmacht en presidentiële federale republiek, de Verenigde Staten combineert een sterke liberale traditie, een dynamische markteconomie, technologische innovatie en een tweepartijenstelsel dat het nationale politieke leven polariseert."
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "category": "Populaire-integrationistische republiek",
+    "description": "Een presidentiële federale republiek in Noord-Amerika, Mexico verenigt electorale democratie, een markteconomie geïntegreerd met de Verenigde Staten, en aanhoudende uitdagingen van ongelijkheid, corruptie en drugsgerelateerd geweld."
+  },
+  {
+    "id": "chile",
+    "name": "Chili",
+    "category": "Progressief-liberale republiek",
+    "description": "Een Zuid-Amerikaanse presidentiële republiek, Chili combineert stabiele democratie, een open markteconomie en een sterke sociale en progressieve agenda, een erfenis van de herdemocratisering na Pinochets militaire dictatuur."
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "category": "Plurinationale-populaire republiek",
+    "description": "Een Andes-presidentiële republiek, Bolivia wordt gekenmerkt door inheems leiderschap, de verdediging van natuurlijke hulpbronnen en een plurinationaal staatsproject dat economisch nationalisme en brede volksdeelname verenigt."
+  },
+  {
+    "id": "venezuela",
+    "name": "Venezuela",
+    "category": "Statistisch-socialistisch autoritarisme",
+    "description": "Een Zuid-Amerikaanse presidentiële republiek, Venezuela leeft onder een autoritair regime van socialistische en nationalistische oriëntatie, gekenmerkt door machtsconcentratie, een langdurige economische crisis en zware emigratie van zijn bevolking."
+  },
+  {
+    "id": "cuba",
+    "name": "Cuba",
+    "category": "Eénpartij egalitair socialisme",
+    "description": "Een eenpartijstaat met een socialistisch regime in het Caribisch gebied, Cuba handhaaft een planeconomie, sterke staatscontrole en universele openbare diensten, met macht die is gecentraliseerd sinds de revolutie onder leiding van Fidel Castro in 1959."
+  },
+  {
+    "id": "costa-rica",
+    "name": "Costa Rica",
+    "category": "Liberaal-pacifistische republiek",
+    "description": "Een presidentiële republiek in Midden-Amerika, Costa Rica onderscheidt zich door de afschaffing van zijn strijdkrachten, zijn geconsolideerde democratie, zijn milieubetrokkenheid en een traditie van politieke stabiliteit en vrede in de regio."
+  },
+  {
+    "id": "suica",
+    "name": "Zwitserland",
+    "category": "Liberale directe democratie",
+    "description": "Een Europese federale confederatie, Zwitserland staat bekend om zijn directe democratie, sterke kantonale autonomie, historische neutraliteit en een welvarende economie gebaseerd op financiën, precisie-industrie en institutionele stabiliteit."
+  },
+  {
+    "id": "suecia",
+    "name": "Zweden",
+    "category": "Sociaaldemocratische monarchie",
+    "description": "Een Noordse parlementaire monarchie, Zweden is een benchmark van de sociaaldemocratie, met een brede welvaartsstaat, hoge belastingen, sterke sociale gelijkheid en een open, innovatieve markteconomie gecombineerd met progressieve waarden."
+  },
+  {
+    "id": "alemanha",
+    "name": "Duitsland",
+    "category": "Sociaal-exporterende republiek",
+    "description": "Een parlementaire federale republiek, Duitsland is de grootste economie van Europa, met een sociale markteconomie, een sterke exportindustrie en een centrale rol in de Europese Unie, die democratische stabiliteit en geopolitiek gewicht verenigt."
+  },
+  {
+    "id": "franca",
+    "name": "Frankrijk",
+    "category": "Sociaal-republikeinse republiek",
+    "description": "Een Europese semi-presidentiële republiek, Frankrijk combineert een sterke republikeinse en seculiere traditie, een robuuste welvaartsstaat, een gemengde economie en een prominente diplomatieke, culturele en militaire rol in de Europese Unie en de wereld."
+  },
+  {
+    "id": "uniao-europeia",
+    "name": "Europese Unie",
+    "category": "Regulerende supranationale unie",
+    "description": "Een supranationale politieke en economische unie, de Europese Unie integreert democratische staten door middel van gedeelde instellingen, een gemeenschappelijke markt, gecoördineerde regelgeving, vrij verkeer en een sterke inzet voor rechten, secularisme en internationale samenwerking."
+  },
+  {
+    "id": "reino-unido",
+    "name": "Verenigd Koninkrijk",
+    "category": "Liberaal-financiële monarchie",
+    "description": "Een parlementaire monarchie, het Verenigd Koninkrijk heeft een lange liberale en democratische traditie, een markteconomie en een sterke financiële sector, en behoudt wereldwijde invloed na het verlaten van de Europese Unie in het proces bekend als Brexit."
+  },
+  {
+    "id": "hungria",
+    "name": "Hongarije",
+    "category": "Nationaal-illiberale republiek",
+    "description": "Een parlementaire republiek in Oost-Europa, Hongarije wordt geregeerd onder de zogenaamde illiberale democratie, die nationalisme, christelijk conservatisme, soevereiniteit ten opzichte van de Europese Unie en sterke controle over media en instellingen verenigt."
+  },
+  {
+    "id": "russia",
+    "name": "Rusland",
+    "category": "Statistisch-renteniers autoritarisme",
+    "description": "Een Euraziatische presidentiële republiek, Rusland concentreert de macht in een autoritair, nationalistisch regime, met een economie die afhankelijk is van natuurlijke hulpbronnen, een sterk militair apparaat en een buitenlands beleid van confrontatie met het Westen."
+  },
+  {
+    "id": "japao",
+    "name": "Japan",
+    "category": "Conservatief-technologische monarchie",
+    "description": "Een Aziatische parlementaire monarchie, Japan verenigt traditie en hoge technologie, met een geavanceerde markteconomie, een vergrijzende samenleving en een stabiele conservatieve politiek, waarbij het constitutioneel pacifisme en een sterk mondiaal economisch gewicht worden gehandhaafd."
+  },
+  {
+    "id": "coreia-do-sul",
+    "name": "Zuid-Korea",
+    "category": "Technologisch-veiligheidsrepubliek",
+    "description": "Een Aziatische presidentiële republiek, Zuid-Korea combineert een levendige democratie, een exportgerichte markteconomie en technologisch leiderschap, het resultaat van snelle ontwikkeling onder sterke staatsimpulsen."
+  },
+  {
+    "id": "coreia-do-sul-de-park-chung-hee",
+    "name": "Zuid-Korea van Park Chung-hee",
+    "category": "Ontwikkelingsgericht-exporterende dictatuur",
+    "description": "Onder Park Chung-hee combineerde Zuid-Korea militair-autoritair bestuur, rigide anticommunisme, sociale discipline en staatsplanning gericht op exportgeleide industrialisatie, waarbij de grote chaebols werden opgebouwd en het land werd voorbereid op zijn technologische opkomst."
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "category": "Eenpartij-industrieel socialisme",
+    "description": "Een socialistische eenpartijstaat, China verenigt de absolute politieke controle van de Communistische Partij met een staatsgeleide markteconomie, en is uitgegroeid tot een mondiale industriële, technologische en geopolitieke macht."
+  },
+  {
+    "id": "coreia-do-norte",
+    "name": "Noord-Korea",
+    "category": "Dynastiek-autarkisch totalitarisme",
+    "description": "Een totalitaire eenpartijstaat, Noord-Korea handhaaft een planeconomie, internationaal isolement en een persoonsverheerlijking van de Kim-dynastie, waarbij communisme, nationalisme en de zelfvoorzieningsdoctrine bekend als Juche worden verenigd."
+  },
+  {
+    "id": "singapura",
+    "name": "Singapore",
+    "category": "Eenpartij-liberale technocratie",
+    "description": "Een Aziatische stadstaat, Singapore is een parlementaire republiek gedomineerd door één partij, die open kapitalisme, efficiënt technocratisch management, strikte orde en beperkte politieke vrijheden combineert in naam van vooruitgang."
+  },
+  {
+    "id": "vietna",
+    "name": "Vietnam",
+    "category": "Eenpartij-reformistisch socialisme",
+    "description": "Een socialistische eenpartijstaat, Vietnam handhaaft de politieke controle van de Communistische Partij naast markthervormingen die de economie openden, wat een snelle industriële groei en integratie in de wereldhandel bevorderde."
+  },
+  {
+    "id": "indonesia",
+    "name": "Indonesië",
+    "category": "Ontwikkelingsgericht-plurale republiek",
+    "description": "Het grootste moslimland ter wereld, Indonesië is een democratische presidentiële archipelrepubliek, met een groeiende markteconomie, grote etnische en religieuze diversiteit, en een groeiend regionaal gewicht in Zuidoost-Azië."
+  },
+  {
+    "id": "turquia",
+    "name": "Turkije",
+    "category": "Nationaal-religieus autoritarisme",
+    "description": "Een presidentiële republiek tussen Europa en Azië, Turkije combineert electorale democratie met een sterke machtsconcentratie, nationalisme, religieus conservatisme en een assertief buitenlands beleid in het Midden-Oosten en de Middellandse Zee."
+  },
+  {
+    "id": "ira",
+    "name": "Iran",
+    "category": "Klerikaal-statistische theocratie",
+    "description": "Een theocratische islamitische republiek, Iran combineert gekozen instellingen met het oppergezag van de geestelijken, onder de heerschappij van de religieuze jurist, een staatsgeleide economie en een sterke regionale projectie in het Midden-Oosten."
+  },
+  {
+    "id": "arabia-saudita",
+    "name": "Saoedi-Arabië",
+    "category": "Renteniers-religieuze monarchie",
+    "description": "Een absolute Golfmonarchie, Saoedi-Arabië verenigt macht geconcentreerd in de koninklijke familie, strikte toepassing van de islam en een olie-afhankelijke economie, en streeft naar gecontroleerde modernisering onder leiding van de kroonprins."
+  },
+  {
+    "id": "israel",
+    "name": "Israël",
+    "category": "Nationaal-technologische republiek",
+    "description": "Een parlementaire republiek in het Midden-Oosten, Israël combineert een levendige democratie, een sterke Joodse nationale identiteit, een geavanceerde technologie-economie en een langdurig conflict met de Palestijnen dat de politiek en veiligheid domineert."
+  },
+  {
+    "id": "africa-do-sul",
+    "name": "Zuid-Afrika",
+    "category": "Industriële-ongelijke republiek",
+    "description": "Een parlementaire republiek, Zuid-Afrika is de grootste industriële economie van het continent en een multiraciale democratie ontstaan na het einde van de apartheid, gekenmerkt door culturele diversiteit en diepe sociale ongelijkheden."
+  },
+  {
+    "id": "atenas-democratica",
+    "name": "Democratisch Athene",
+    "category": "Exclusieve burgerdemocratie",
+    "description": "Een stadstaat van het Oude Griekenland, Athene was de bakermat van de directe democratie, waarbij burgers in de volksvergadering beslisten over het beleid van de polis, hoewel deelname vrouwen, buitenlanders en slaven uitsloot van het politieke leven."
+  },
+  {
+    "id": "esparta",
+    "name": "Sparta",
+    "category": "Disciplinaire militaire oligarchie",
+    "description": "Een militaristische stadstaat van het Oude Griekenland, Sparta organiseerde haar hele samenleving rond oorlog, met een gemengd regime van koningen en raad, strikte discipline, soberheid en dominantie over een uitgestrekte onderworpen bevolking."
+  },
+  {
+    "id": "imperio-macedonico",
+    "name": "Macedonische Rijk",
+    "category": "Veroverende militaire monarchie",
+    "description": "Rijk gevormd door de veroveringen van Philippus II en Alexander de Grote, dat Macedonische militaire monarchie, Perzische administratie, Griekse stadstichting en Hellenistische culturele fusie combineerde over diverse gebieden."
+  },
+  {
+    "id": "imperio-romano",
+    "name": "Romeinse Rijk",
+    "category": "Gecentraliseerd militair rijk",
+    "description": "Een uitgestrekt rijk uit de oudheid, Rome verenigde militaire macht, wetgeving en gecentraliseerde administratie onder de keizer, breidde zich uit over drie continenten en liet taal, wetten en instellingen na die de westerse beschaving vormden."
+  },
+  {
+    "id": "sacro-imperio-romano-germanico",
+    "name": "Heilige Roomse Rijk (Eerste Rijk)",
+    "category": "Gedecentraliseerde keurmonarchie",
+    "description": "Een federatie van Centraal-Europese gebieden, het Heilige Roomse Rijk verzamelde vorstendommen en steden onder een gekozen keizer en sterke kerkelijke invloed, gekenmerkt door gefragmenteerde macht en de autonomie van haar leden."
+  },
+  {
+    "id": "republica-de-veneza",
+    "name": "Republiek Venetië",
+    "category": "Oligarchisch-mercantiele republiek",
+    "description": "Een machtige middeleeuwse koopmansrepubliek, Venetië werd geregeerd door een commerciële oligarchie die de Middellandse Zeehandel domineerde, waarbij stabiele instituties, een sterke marine en immense economische macht eeuwenlang werden verenigd."
+  },
+  {
+    "id": "imperio-otomano",
+    "name": "Ottomaanse Rijk",
+    "category": "Absolutistisch-religieuze monarchie",
+    "description": "Een uitgestrekt islamitisch rijk, de Ottomanen regeerden eeuwenlang over landen die zich uitstrekten over Europa, Azië en Afrika onder de macht van de sultan en kalief, waarbij religieuze en politieke autoriteit werden verenigd met een grote diversiteit aan volkeren en geloven."
+  },
+  {
+    "id": "reino-unido-vitoriano-imperio-britanico",
+    "name": "Britse Rijk",
+    "category": "Koloniaal-industriële monarchie",
+    "description": "Op zijn Victoriaanse hoogtepunt was het Britse Rijk het grootste in de geschiedenis, waarbij parlementaire monarchie, de industriële revolutie en wereldwijde koloniale heerschappij werden verenigd, met sterke commerciële, maritieme en culturele expansie over de hele wereld."
+  },
+  {
+    "id": "imperio-do-brasil",
+    "name": "Keizerrijk Brazilië",
+    "category": "Agrarisch-slavernijmonarchie",
+    "description": "Het enige langdurige keizerrijk in Amerika, het keizerlijke Brazilië was een parlementaire monarchie onder Pedro I en Pedro II, gekenmerkt door politieke stabiliteit, een op slavernij gebaseerde agrarische economie en sterke staatsentralisatie."
+  },
+  {
+    "id": "alemanha-nazista-terceiro-reich",
+    "name": "Nazi-Duitsland (Derde Rijk)",
+    "category": "Raciaal-expansionistisch totalitarisme",
+    "description": "Een totalitair regime onder leiding van Hitler, het Derde Rijk legde een racistische, expansionistische dictatuur, een persoonsverheerlijking en een politiestaat op, en was verantwoordelijk voor de Tweede Wereldoorlog en de genocide van de Holocaust."
+  },
+  {
+    "id": "italia-fascista-mussolini",
+    "name": "Fascistisch Italië (Mussolini)",
+    "category": "Corporatistisch-nationalistische dictatuur",
+    "description": "De geboorteplaats van het fascisme, Mussolini's Italië was een totalitaire dictatuur die nationalisme, een persoonsverheerlijking, een corporatistische staat en militarisme combineerde, waarbij oppositie werd onderdrukt en imperialistische expansie met geweld werd nagestreefd."
+  },
+  {
+    "id": "chile-de-pinochet",
+    "name": "Chili van Pinochet",
+    "category": "Neoliberale militaire dictatuur",
+    "description": "Een militaire dictatuur voortkomend uit de coup van 1973, het Chili van Pinochet combineerde zware politieke repressie met de baanbrekende adoptie van neoliberale markthervormingen, wat de economie en de herinnering van het land diepgaand markeerde."
+  },
+  {
+    "id": "uniao-sovietica-urss",
+    "name": "Sovjet-Unie (USSR)",
+    "category": "Eénpartij gepland socialisme",
+    "description": "De eerste socialistische staat ter wereld, de USSR was een éénpartijfederatie met een geplande economie en gecentraliseerde macht, en werd een wereldmacht en de pool van het communisme tijdens de Koude Oorlog."
+  },
+  {
+    "id": "china-maoista",
+    "name": "Maoïstisch China",
+    "category": "Eénpartij collectivistisch communisme",
+    "description": "Onder Mao was het revolutionaire China een communistische éénpartijstaat, met een gecollectiviseerde economie en permanente massamobilisatie, gekenmerkt door campagnes zoals de Grote Sprong Voorwaarts en de Culturele Revolutie."
+  },
+  {
+    "id": "camboja-do-khmer-vermelho-pol-pot",
+    "name": "Cambodja van de Rode Khmer (Pol Pot)",
+    "category": "Agrarisch-collectivistisch totalitarisme",
+    "description": "Een radicaal regime onder leiding van Pol Pot, de Rode Khmer legde extreem agrarisch communisme op, ontvolkte de steden en schafte geld en eigendom af, wat een van de grootste genocides van de 20e eeuw in Cambodja veroorzaakte."
+  },
+  {
+    "id": "aragao-e-catalunha-anarquistas-revolucao-espanhola",
+    "name": "Anarchistisch Aragón en Catalonië",
+    "category": "Collectivistisch-zelfbeheerd anarchisme",
+    "description": "Tijdens de Spaanse Revolutie beleefden regio's van Aragón en Catalonië een anarchistisch experiment van collectiviseren van land en fabrieken, met arbeiderszelfbestuur en sociale organisatie zonder centrale staat."
+  },
+  {
+    "id": "argentina-peronista",
+    "name": "Peronistisch Argentinië",
+    "category": "Corporatistisch-arbeiders populistisch",
+    "description": "Onder Perón kende Argentinië een populistische, nationalistische regime dat sterke steun van de arbeidersklasse, corporatisme, industrialisatie en de uitbreiding van sociale rechten verenigde, en een blijvende stempel drukte op de politiek van het land."
+  },
+  {
+    "id": "egito-de-nasser",
+    "name": "Egypte onder Nasser",
+    "category": "Nationalistisch-statistische republiek",
+    "description": "Onder Nasser was Egypte een nationalistische, ontwikkelingsgerichte republiek die strategische sectoren nationaliseerde, het pan-Arabisme leidde, en Arabisch socialisme, agrarische hervormingen en sterk leiderschap in het Midden-Oosten verenigde."
+  },
+  {
+    "id": "africa-do-sul-do-apartheid",
+    "name": "Apartheid Zuid-Afrika",
+    "category": "Raciale-segregationistische staat",
+    "description": "Een regime van institutionele rassensegregatie, apartheid Zuid-Afrika ontzegde rechten aan de zwarte meerderheid en concentreerde de macht bij de witte minderheid, met scheidingswetten die sterke interne weerstand en sancties uitlokten."
+  },
+  {
+    "id": "hong-kong",
+    "name": "Hongkong (China)",
+    "category": "Technocratisch-financieel gebied",
+    "description": "Een wereldwijd financieel centrum, Hongkong is een autonome regio met sterk vrijemarktkapitalisme en technocratisch bestuur, waarvan de brede autonomie steeds meer is beperkt door de politieke controle van het vasteland van China."
+  },
+  {
+    "id": "argentina",
+    "name": "Argentinië",
+    "category": "Federale republiek met markthervormingen",
+    "description": "Als presidentiële federale republiek streeft Argentinië onder Javier Milei sinds 2023 naar fiscale terughoudendheid, deregulering en privatisering, terwijl het publieke diensten behoudt en zich aansluit bij de Verenigde Staten en Israël, en breekt met het Peronisme."
+  },
+  {
+    "id": "liechtenstein",
+    "name": "Liechtenstein",
+    "category": "Liberaal-rentenierende monarchie",
+    "description": "Een klein Europees vorstendom, Liechtenstein is een welvarende constitutionele monarchie, met sterke lokale autonomie, een liberale economie gebaseerd op financiën en industrie, en een van de hoogste inkomens per hoofd van de bevolking ter wereld."
+  },
+  {
+    "id": "rojava",
+    "name": "Rojava (Noord- en Oost-Syrië)",
+    "category": "Democratisch-egalitair confederalisme",
+    "description": "Een autonome regio in Noord-Syrië, Rojava organiseert zichzelf door middel van democratisch confederalisme, met lokaal zelfbestuur, gendergelijkheid, etnisch pluralisme en ecologie, geïnspireerd door de libertaire ideeën van Abdullah Öcalan."
+  },
+  {
+    "id": "iugoslavia-socialista",
+    "name": "Socialistisch Joegoslavië",
+    "category": "Zelfbesturend federaal socialisme",
+    "description": "Een socialistische federatie onder leiding van Tito, Joegoslavië adopteerde zelfbestuur door werknemers en een onafhankelijke koers ten opzichte van Moskou, en verenigde diverse volkeren onder één partij totdat het in de jaren negentig fragmenteerde in oorlogen."
+  },
+  {
+    "id": "espanha-franquista",
+    "name": "Francoïstisch Spanje",
+    "category": "Nationaal-katholieke dictatuur",
+    "description": "Een dictatuur geboren uit de Burgeroorlog, het Spanje van Franco was een autoritair, katholiek, corporatistisch regime dat nationalisme en politieke onderdrukking verenigde en duurde tot de democratische transitie na de dood van de dictator."
+  },
+  {
+    "id": "islandia-medieval",
+    "name": "Middeleeuws IJsland (Gemenebest)",
+    "category": "Polycentrische gewoonterechtelijke orde",
+    "description": "Een zeldzame samenleving zonder centrale staat, middeleeuws IJsland werd georganiseerd door lokale stamhoofden en een vergadering, de Althing, die geschillen beslechtte via wetten en privéovereenkomsten in een gedecentraliseerd systeem dicht bij anarchie."
+  },
+  {
+    "id": "emirados-arabes-unidos",
+    "name": "Verenigde Arabische Emiraten",
+    "category": "Rentenierende-gediversifieerde federatie",
+    "description": "Een federatie van Golfmonarchieën, de Verenigde Arabische Emiraten combineert macht geconcentreerd in de koninklijke families, een liberale economie gediversifieerd buiten olie, en sterke investeringen in technologie, toerisme en mondiale financiën."
+  },
+  {
+    "id": "portugal-estado-novo",
+    "name": "Portugal (Estado Novo)",
+    "category": "Corporatistisch-katholieke dictatuur",
+    "description": "Onder Salazar was de Portugese Estado Novo een conservatieve, corporatistische dictatuur die katholiek nationalisme, orde en politieke controle verenigde zonder massale mobilisatie, en decennialang het land en zijn koloniën vasthield."
+  },
+  {
+    "id": "prussia",
+    "name": "Koninkrijk Pruisen",
+    "category": "Bureaucratisch-militaire monarchie",
+    "description": "Een Duits koninkrijk met een sterke militaire en administratieve traditie, Pruisen verenigde monarchie, een gedisciplineerde bureaucratie en een machtig leger, leidde de Duitse eenwording en belichaamde de cameralistische staat en het verlicht absolutisme."
+  },
+  {
+    "id": "polonia",
+    "name": "Polen",
+    "category": "Nationaal-katholieke republiek",
+    "description": "Een parlementaire republiek in Oost-Europa, Polen combineert democratie, een sterke katholieke en nationalistische identiteit, en een groeiende markteconomie, met politiek gekenmerkt door spanningen tussen conservatisme en liberalisme."
+  },
+  {
+    "id": "ucrania-territorio-livre",
+    "name": "Vrij Territorium (Machnovsjtsjina)",
+    "category": "Boeren-militie anarchisme",
+    "description": "Tijdens de Russische Revolutie was het Vrije Territorium van Machno een anarchistisch experiment in Oekraïne, met zelfbesturende boerengemeenschappen en volksmilities die zowel de Witte staat als de bolsjewistische macht afwezen."
+  },
+  {
+    "id": "brasil-era-vargas",
+    "name": "Brazilië (Vargas-tijdperk)",
+    "category": "Nationaal-arbeidistische staat",
+    "description": "Onder Vargas kende Brazilië een nationalistisch, ontwikkelingsgericht regime dat staatsgestuurde industrialisatie, arbeidswetgeving en de centralisatie van de macht bevorderde, waarmee de basis werd gelegd voor het Braziliaanse arbeidersisme."
+  },
+  {
+    "id": "tchequia",
+    "name": "Tsjechië",
+    "category": "Liberaal-seculiere republiek",
+    "description": "Tsjechië, een parlementaire republiek in Centraal-Europa, combineert een geconsolideerde liberale democratie, een sterke seculiere traditie, een geïndustrialiseerde markteconomie en integratie in de Europese Unie na het einde van het socialistische blok."
+  },
+  {
+    "id": "eua-california",
+    "name": "Californië (Verenigde Staten)",
+    "category": "Techno-progressieve regio",
+    "description": "De meest bevolkte Amerikaanse staat, Californië, is een wereldwijd centrum van technologie en cultuur, met sterk progressieve, milieuvriendelijke en technocratische politiek en een gigantische, innovatieve markteconomie."
+  },
+  {
+    "id": "eua-texas",
+    "name": "Texas (Verenigde Staten)",
+    "category": "Liberaal-energieregio",
+    "description": "De op één na grootste Amerikaanse staat, Texas, valt op door zijn conservatisme, zijn cultuur van sterke individuele vrijheid, lage belastingen en een dynamische markteconomie die verbonden is met energie en industrie."
+  },
+  {
+    "id": "eua-nova-york",
+    "name": "New York (Verenigde Staten)",
+    "category": "Financieel-kosmopolitische regio",
+    "description": "Het financiële en culturele centrum van de Verenigde Staten, New York, combineert een liberale, progressieve politiek, enorme immigrantendiversiteit, een geglobaliseerde diensteneconomie en een sterk symbolisch gewicht in de wereld."
+  },
+  {
+    "id": "eua-new-hampshire",
+    "name": "New Hampshire (Verenigde Staten)",
+    "category": "Libertarisch-fiscale regio",
+    "description": "Een kleine staat in het noordoosten van de Verenigde Staten, New Hampshire, staat bekend om zijn sterke libertarische cultuur, lage belastingen, afwezigheid van een staatsinkomstenbelasting en een motto dat vrijheid boven alles verheft."
+  },
+  {
+    "id": "eua-washington-dc",
+    "name": "Washington, D.C. (Verenigde Staten)",
+    "category": "Federale-institutionele district",
+    "description": "De hoofdstad van de Verenigde Staten, Washington, concentreert de federale macht en overheidsinstellingen, met het zware gewicht van het publieke apparaat, een globalistische oriëntatie en een centrale rol in de diplomatie en militaire macht van het land."
+  },
+  {
+    "id": "eua-massachusetts",
+    "name": "Massachusetts (Verenigde Staten)",
+    "category": "Academisch-progressieve regio",
+    "description": "Een noordoostelijke Amerikaanse staat, Massachusetts, is een progressief bolwerk en een centrum van onderwijs en wetenschap, met prestigieuze universiteiten, een sterke liberale traditie en politiek gericht op sociale rechten en innovatie."
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "category": "Multicultureel-welvaartsmonarchie",
+    "description": "Een federale parlementaire monarchie, Canada, combineert stabiele democratie, multiculturalisme, een brede verzorgingsstaat en een markteconomie rijk aan natuurlijke hulpbronnen, met een sterke toewijding aan rechten en diversiteit."
+  },
+  {
+    "id": "paises-baixos",
+    "name": "Nederland",
+    "category": "Liberaal-mercantile monarchie",
+    "description": "Een parlementaire monarchie, Nederland, staat bekend om zijn liberale traditie, sociale tolerantie en vrije handel, met een open, geglobaliseerde economie en progressief beleid op het gebied van douane en individuele rechten."
+  },
+  {
+    "id": "italia",
+    "name": "Italië",
+    "category": "Gefragmenteerde-industriële republiek",
+    "description": "Een Mediterrane parlementaire republiek, Italië, verenigt een lang cultureel erfgoed, een gediversifieerde markteconomie en instabiele, gefragmenteerde politiek, met de recente opkomst van conservatieve en nationalistische krachten."
+  },
+  {
+    "id": "espanha",
+    "name": "Spanje",
+    "category": "Gedecentraliseerde-sociale monarchie",
+    "description": "Een parlementaire monarchie, Spanje, combineert een geconsolideerde democratie, sterke decentralisatie in autonome gemeenschappen, een markteconomie en sociaal, progressief beleid, met regionale spanningen zoals de Catalaanse kwestie."
+  },
+  {
+    "id": "noruega",
+    "name": "Noorwegen",
+    "category": "Sociaal-oliemonarchie",
+    "description": "Een Noordse parlementaire monarchie, Noorwegen, combineert een brede verzorgingsstaat, olierijkdom beheerd door een groot staatsfonds, en sterke sociale gelijkheid, dienend als maatstaf voor levenskwaliteit en sociale democratie."
+  },
+  {
+    "id": "dinamarca",
+    "name": "Denemarken",
+    "category": "Sociaal-competitieve monarchie",
+    "description": "Een Noordse parlementaire monarchie, Denemarken, combineert een genereuze verzorgingsstaat, hoge belastingen en een competitieve markteconomie, waarbij sterke sociale gelijkheid wordt gekoppeld aan een restrictiever migratiebeleid."
+  },
+  {
+    "id": "australia",
+    "name": "Australië",
+    "category": "Multicultureel-extractieve monarchie",
+    "description": "Een federale parlementaire monarchie, Australië, verenigt stabiele democratie, multiculturalisme en een markteconomie rijk aan natuurlijke hulpbronnen, met een sterke afstemming op het Westen en een streng, selectief migratiebeleid."
+  },
+  {
+    "id": "nova-zelandia",
+    "name": "Nieuw-Zeeland",
+    "category": "Progressief-biculturele monarchie",
+    "description": "Nieuw-Zeeland, een parlementaire monarchie in de Stille Oceaan, staat bekend om zijn progressieve democratie, sociale voorzieningen en openmarkteconomie, met sterke erkenning van de Māori-cultuur en het biculturele partnerschap van het land."
+  },
+  {
+    "id": "irlanda",
+    "name": "Ierland",
+    "category": "Liberaal-multinationale republiek",
+    "description": "Ierland, een Europese parlementaire republiek, combineert liberale democratie, een openmarkteconomie die aantrekkelijk is voor multinationals, een traditie van neutraliteit en een snelle sociale transformatie naar progressieve beleidslijnen."
+  },
+  {
+    "id": "ucrania",
+    "name": "Oekraïne",
+    "category": "Weerbare-verwesterende republiek",
+    "description": "Oekraïne, een semipresidentiële republiek in Oost-Europa, consolideert democratie, nationale identiteit en nauwere banden met het Westen terwijl het zich verzet tegen de Russische invasie, een strijd die de politiek, economie en samenleving domineert."
+  },
+  {
+    "id": "bielorrussia",
+    "name": "Wit-Rusland",
+    "category": "Staats-personalistische autocratie",
+    "description": "Wit-Rusland, een post-Sovjet presidentiële republiek, wordt geregeerd door een autoritair, personalistisch regime, met sterke staatscontrole over de economie, onderdrukking van de oppositie en een nauwe politieke alliantie met Rusland."
+  },
+  {
+    "id": "catar",
+    "name": "Qatar",
+    "category": "Rentier-projectieve monarchie",
+    "description": "Qatar, een kleine absolute Golfmonarchie, concentreert de macht in de koninklijke familie en baseert zijn rijkdom op aardgas, waarbij religieus conservatisme wordt gecombineerd met intense internationale projectie via investeringen, media en diplomatie."
+  },
+  {
+    "id": "libano",
+    "name": "Libanon",
+    "category": "Confessioneel-gefragmenteerde republiek",
+    "description": "Libanon, een parlementaire republiek in het Midden-Oosten, verdeelt de macht over religieuze gemeenschappen in een confessioneel systeem, met pluralisme, een sterke dienstensector en chronische politieke en economische instabiliteit."
+  },
+  {
+    "id": "siria",
+    "name": "Syrië",
+    "category": "Post-Assad overgangsrepubliek",
+    "description": "Onder president Ahmed al-Sharaa bevindt Syrië zich in een overgang die begon na de val van Assad, met een voorlopige grondwet van 2025, wederopbouw en uitdagingen op het gebied van eenheid, veiligheid en minderheidsrechten."
+  },
+  {
+    "id": "filipinas",
+    "name": "Filipijnen",
+    "category": "Dynastiek-katholieke democratie",
+    "description": "De Filipijnen, een presidentiële republiek bestaande uit eilanden, combineert een democratie die wordt gedomineerd door politieke dynastieën, een sterke katholieke identiteit en een markteconomie, met veiligheids- en anticriminaliteitsagenda's in de schijnwerpers."
+  },
+  {
+    "id": "tailandia",
+    "name": "Thailand",
+    "category": "Militair-religieuze monarchie",
+    "description": "Thailand, een constitutionele monarchie in Zuidoost-Azië, wisselt burgerregeringen en sterke militaire invloed af, met een vereerde monarchie, overwegend boeddhisme en een markteconomie gericht op toerisme en export."
+  },
+  {
+    "id": "malasia",
+    "name": "Maleisië",
+    "category": "Multi-etnische-islamitische monarchie",
+    "description": "Maleisië, een federale keurmonarchie in Zuidoost-Azië, combineert democratie, een multi-etnische samenleving, de islam als officiële religie en een door de staat gestuurde markteconomie, met voorkeursbeleid voor Maleiers."
+  },
+  {
+    "id": "taiwan",
+    "name": "Taiwan",
+    "category": "Democratisch-technologische republiek",
+    "description": "Taiwan, een presidentiële eilandrepubliek, is een levendige democratie en wereldwijde technologiehub, met name voor halfgeleiders, leeft onder constante militaire dreiging van China en is de pionier in Azië op het gebied van progressieve zaken zoals het huwelijk tussen personen van hetzelfde geslacht."
+  },
+  {
+    "id": "el-salvador",
+    "name": "El Salvador",
+    "category": "Veiligheids-digitale republiek",
+    "description": "El Salvador, een presidentiële republiek in Midden-Amerika, verwierf bekendheid door zijn strenge veiligheidsbeleid tegen bendes en de adoptie van bitcoin, waarbij sterke publieke steun en de concentratie van macht bij de uitvoerende macht werden verenigd."
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "category": "Katholiek-pacificerende republiek",
+    "description": "Colombia, een Zuid-Amerikaanse presidentiële republiek, combineert democratie, een sterke katholieke traditie en een markteconomie, en probeert de vrede te consolideren na decennia van gewapend conflict onder een ongekende linkse regering."
+  },
+  {
+    "id": "uruguai",
+    "name": "Uruguay",
+    "category": "Seculier-progressieve republiek",
+    "description": "Uruguay, een Zuid-Amerikaanse presidentiële republiek, wordt erkend om zijn solide democratie, sterke secularisme, brede sociale rechten en progressieve beleid, waarbij institutionele stabiliteit wordt gecombineerd met een markteconomie."
+  },
+  {
+    "id": "japao-meiji",
+    "name": "Meiji Japan",
+    "category": "Moderniserende-industriële monarchie",
+    "description": "Tijdens de Meiji-periode onderging Japan een snelle modernisering onder leiding van de keizer, die het feodalisme afschafte, het land industrialiseerde en moderne instituties creëerde, waarbij traditie, nationalisme en militaire opkomst werden verenigd."
+  },
+  {
+    "id": "republica-holandesa",
+    "name": "Nederlandse Republiek (Verenigde Provinciën)",
+    "category": "Tolerante mercantile confederatie",
+    "description": "Een baanbrekende moderne handelsrepubliek, de Verenigde Provinciën waren een confederatie geregeerd door een commerciële oligarchie, gekenmerkt door religieuze tolerantie, vrije handel en immense marine- en financiële macht op hun hoogtepunt."
+  },
+  {
+    "id": "republica-de-weimar",
+    "name": "Weimarrepubliek",
+    "category": "Instabiele parlementaire republiek",
+    "description": "Duitslands eerste democratie, de Weimarrepubliek verenigde parlementarisme, evenredige vertegenwoordiging en een intens cultureel leven, maar werd ondermijnd door economische crises en politieke instabiliteit die de weg baanden voor het nazisme."
+  },
+  {
+    "id": "gra-colombia",
+    "name": "Groot-Colombia",
+    "category": "Centralistisch-gemilitariseerde republiek",
+    "description": "Een kortstondige republiek, gesticht door Simón Bolívar, Groot-Colombia verenigde uitgestrekte gebieden van het noorden van Zuid-Amerika in een centralistische, gemilitariseerde staat, die binnen enkele jaren uiteenviel als gevolg van regionale en politieke rivaliteiten."
+  },
+  {
+    "id": "vaticano",
+    "name": "Vaticaanstad",
+    "category": "Klerikale theocratische monarchie",
+    "description": "Een stadstaat geregeerd door de Heilige Stoel, het Vaticaan combineert religieuze soevereiniteit, een absolute electieve monarchie en een klerikale administratie, functionerend als het institutionele centrum van de Katholieke Kerk en een wereldwijde diplomatieke speler."
+  },
+  {
+    "id": "monaco",
+    "name": "Monaco",
+    "category": "Renteniere-toeristische monarchie",
+    "description": "Een klein mediterraan prinsdom, Monaco combineert constitutionele monarchie, lage belastingen, sterke afhankelijkheid van financiële diensten en luxetoerisme, met behoud van een conservatieve sociale orde en grote economische openheid."
+  },
+  {
+    "id": "estonia",
+    "name": "Estland",
+    "category": "Digitaal-Atlantische republiek",
+    "description": "Een Baltische parlementaire republiek, Estland verenigt liberale democratie, een open economie, een geavanceerde digitale staat en een sterke Euro-Atlantische oriëntatie, waakzaam blijvend over de nationale soevereiniteit in het licht van Russische druk."
+  },
+  {
+    "id": "luxemburgo",
+    "name": "Luxemburg",
+    "category": "Financieel-geïntegreerde monarchie",
+    "description": "Een Europees groothertogdom en wereldwijd financieel centrum, Luxemburg combineert parlementaire monarchie, een open economie, diepe Europese integratie en een multiculturele samenleving die wordt ondersteund door diensten, technologie en financiën."
+  },
+  {
+    "id": "eua-florida",
+    "name": "Florida (Verenigde Staten)",
+    "category": "Conservatief-toeristische regio",
+    "description": "Een Amerikaanse staat met een conservatief, pro-marktprofiel, Florida combineert lage belastingen, toerisme, intense immigratie, strijdbare culturele politiek en een actieve staatsregering op het gebied van veiligheid en onderwijs."
+  },
+  {
+    "id": "imperio-do-japao",
+    "name": "Japanse Keizerrijk",
+    "category": "Militaristisch-expansionistische monarchie",
+    "description": "Het Japanse keizerlijke regime van het begin van de 20e eeuw combineerde heilige monarchie, militarisme, versnelde industrialisatie, expansionistisch nationalisme en sterke sociale discipline tot de nederlaag in de Tweede Wereldoorlog."
+  },
+  {
+    "id": "imperio-austro-hungaro",
+    "name": "Oostenrijks-Hongaarse Rijk",
+    "category": "Dubbele aristocratische monarchie",
+    "description": "Een dubbelmonarchie in Centraal-Europa, het Oostenrijks-Hongaarse Rijk verenigde meerdere nationaliteiten onder de Habsburgse dynastie, en combineerde aristocratie, imperiale bureaucratie, politiek katholicisme en groeiende nationalistische spanningen."
+  },
+  {
+    "id": "butao",
+    "name": "Bhutan",
+    "category": "Boeddhistisch-conservatieve monarchie",
+    "description": "Een klein Himalayakoninkrijk, Bhutan combineert een boeddhistische constitutionele monarchie, sterke bescherming van traditionele cultuur en natuur, en Bruto Nationaal Geluk als kompas van de regering, met voorzichtige openheid naar de buitenwereld."
+  },
+  {
+    "id": "imperio-persa-aquemenida",
+    "name": "Perzische Rijk (Achaemenidisch)",
+    "category": "Tolerant satraaprijk",
+    "description": "Het eerste grote universele rijk in de geschiedenis, Achaemenidisch Perzië bestuurde tientallen volkeren via autonome satrapieën, wegen en tribuut, met tolerantie voor lokale talen, wetten en religies onder het absolute gezag van de Koning der Koningen."
+  },
+  {
+    "id": "comuna-de-paris",
+    "name": "Commune van Parijs",
+    "category": "Zelfbeheerd gemeentelijk socialisme",
+    "description": "De revolutionaire regering die Parijs 72 dagen in 1871 in handen had, de Commune vestigde directe democratie met herroepbare mandaten, zelfbeheer van werkplaatsen door arbeiders, scheiding van kerk en staat, en gelijke beloning, en werd een symbool van gemeentelijk socialisme."
+  },
+  {
+    "id": "catalunha",
+    "name": "Catalonië (Spanje)",
+    "category": "Independentistisch-industriële regio",
+    "description": "Een autonome regio in het noordoosten van Spanje, Catalonië combineert een eigen nationale identiteit en taal, een industriële, kosmopolitische economie, progressieve sociale politiek en een sterke onafhankelijkheidsbeweging die culmineerde in het referendum van 2017."
+  },
+  {
+    "id": "florenca-renascentista",
+    "name": "Renaissancistisch Florence",
+    "category": "Mercantiel-mecenatische republiek",
+    "description": "Een stadstaat uit de Italiaanse Renaissance, Florence verenigde bank- en commercieel kapitalisme, factiestrijd tussen gilden en families zoals de Medici, en een mecenaat dat de kunsten, letteren en politieke gedachte revolutioneerde."
+  },
+  {
+    "id": "roma-republicana",
+    "name": "Romeinse Republiek",
+    "category": "Senatoriaal-expansionistische republiek",
+    "description": "Een aristocratische republiek uit de oudheid. Rome bracht consuls, Senaat en volkstribunen in evenwicht in een gemengd systeem van gekozen magistraten, en breidde zich uit over de Middellandse Zee door middel van burgermilities en een sterke cultus van burgerlijke deugdzaamheid."
+  },
+  {
+    "id": "hungria-de-kadar",
+    "name": "Kádár's Hongarije",
+    "category": "Eénpartij-consumentistisch socialisme",
+    "description": "Opgericht na het neerslaan van de revolutie van 1956, combineerde het regime van Kádár éénpartijheerschappij, Sovjet-uitlijning, geleidelijke economische liberalisering, een kleine private sector en consumentenwelvaart."
+  },
+  {
+    "id": "chile-de-allende",
+    "name": "Allende's Chili",
+    "category": "Democratisch-nationaliserend socialisme",
+    "description": "Onder Allende's Unidad Popular probeerde Chili democratisch socialisme te bewerkstelligen door nationalisatie van koper en banken, landhervormingen en economische planning, tot de militaire coup in 1973."
+  },
+  {
+    "id": "burkina-faso-de-sankara",
+    "name": "Sankara's Burkina Faso",
+    "category": "Revolutionair anti-koloniaal socialisme",
+    "description": "Onder Thomas Sankara combineerde Burkina Faso zelfvoorziening op voedselgebied, massale vaccinatie- en alfabetiseringscampagnes, vrouwenemancipatie, afwijzing van buitenlandse schuld, en een frontale breuk met Frans neokolonialisme."
+  },
+  {
+    "id": "eua-confederados",
+    "name": "Geconfedereerde Staten van Amerika",
+    "category": "Agrarisch-slavenhoudende confederatie",
+    "description": "Gevormd door de afscheiding van elf Zuidelijke staten om de slavernij te behouden, combineerden de Geconfedereerde Staten radicaal statenconfederalisme, een traditionalistische en religieuze agrarische samenleving, en vrijhandel, voordat ze werden verslagen in de Burgeroorlog."
+  },
+  {
+    "id": "macau",
+    "name": "Macau (China)",
+    "category": "Hyper-open recreatieve regio",
+    "description": "Een Chinese speciale administratieve regio en 's werelds grootste gokcentrum, Macau verenigt zeer lage belastingen, een hyper-open economie van casino's en toerisme, een Portugees-katholiek erfgoed, en een politiek systeem dat gecontroleerd wordt door Beijing, zonder volledige democratie."
+  },
+  {
+    "id": "estados-papais",
+    "name": "Pauselijke Staten",
+    "category": "Territoriale klerikale theocratie",
+    "description": "Tijdelijke staat van het pausdom, de Pauselijke Staten verenigden geestelijke en politieke autoriteit onder de paus, waarbij het canoniek recht en klerikaal bestuur eeuwenlang werden toegepast over Centraal-Italië."
+  },
+  {
+    "id": "imperio-bizantino",
+    "name": "Byzantijnse Rijk",
+    "category": "Orthodoxe caesaropapistische autocratie",
+    "description": "Erfgenaam van het Romeinse Rijk in het Oosten, Byzantium duurde duizend jaar door Orthodox Christendom, keizerlijke autocratie en Justiniaans recht te verenigen, met de keizer als hoofd van de Kerk en Constantinopel als christelijke hoofdstad die Europa verdedigde."
+  },
+  {
+    "id": "espanha-habsburgos",
+    "name": "Habsburgs Spanje",
+    "category": "Contra-Reformatorische Katholieke monarchie",
+    "description": "Habsburgs Spanje, vooral onder Filips II, was een katholieke contra-reformatorische staat, gekenmerkt door de Inquisitie, wetten van bloedzuiverheid, religieuze verdrijvingen, en oorlogen ter verdediging van het geloof."
+  },
+  {
+    "id": "imperio-russo-czarista",
+    "name": "Tsaristisch Russisch Keizerrijk",
+    "category": "Dynastiek-orthodoxe autocratie",
+    "description": "Het Russische Keizerrijk onder de Romanovs combineerde Orthodox Christendom, dynastieke autocratie, territoriale expansie en keizerlijke bureaucratie, met de tsaar als politiek leider en verdediger van het officiële geloof."
+  },
+  {
+    "id": "genebra-calvinista",
+    "name": "Calvinistisch Genève",
+    "category": "Disciplinaire gereformeerde theocratie",
+    "description": "De stad Genève onder Calvijn (1541–1564) organiseerde zichzelf als een stedelijke gereformeerde theocratie, waarbij het Consistorie de openbare moraal disciplineerde en de Ordonnances Ecclésiastiques alle religieuze en burgerlijke leven regelden en het puritanisme exporteerden."
+  },
+  {
+    "id": "imperio-portugues",
+    "name": "Portugese Rijk",
+    "category": "Katholieke thalassocratische monarchie",
+    "description": "Het eerste en langst bestaande van de Europese koloniale rijken (1415–1822), het verenigde absolute monarchie, militant katholicisme en mondiale thalassocratie, en verspreidde het christelijk geloof, de taal en de Portugese administratie van Amerika tot Afrika, India en Azië."
+  },
+  {
+    "id": "austria",
+    "name": "Oostenrijk",
+    "category": "Sociaal-neutralistische republiek",
+    "description": "Een parlementaire federale republiek in Centraal-Europa, Oostenrijk combineert militaire neutraliteit, een robuuste welvaartsstaat, een sociale markteconomie, een gematigde katholiek-seculiere cultuur, en diepe integratie in de Europese Unie."
+  },
+  {
+    "id": "imperio-alemao",
+    "name": "Duitse Keizerrijk (Tweede Rijk)",
+    "category": "Constitutioneel-militaristische monarchie",
+    "description": "De Duitse keizerlijke staat van 1871 tot 1918 verenigde Pruisisch geleid federalisme, beperkte constitutionele monarchie, mannelijk kiesrecht voor de Rijksdag, sterke keizerlijke en kanseliersautoriteit, snelle industrialisatie, militarisme en het buitenlands beleid van een opkomende macht."
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "category": "Sociaal-Atlantische republiek",
+    "description": "Een Europese semi-presidentiële republiek, Portugal combineert geconsolideerde democratie, een markteconomie geïntegreerd in de Europese Unie, een gematigde welvaartsstaat, lage institutionele conflicten, geseculariseerd katholiek erfgoed, en sterke Atlantische openheid."
+  },
+  {
+    "id": "alemanha-oriental",
+    "name": "Oost-Duitsland",
+    "category": "Eenpartijstaat met surveillance-socialisme",
+    "description": "De Duitse Democratische Republiek was een socialistische staat, verbonden met de Sovjet-Unie, met een eenpartijstelsel, een uitgebreide politieke politie, een planeconomie, strikte sociale controle, staatssecularisatie en militaire integratie in het Oostblok."
+  },
+  {
+    "id": "islandia",
+    "name": "IJsland",
+    "category": "Sociaal-pacifistische republiek",
+    "description": "Een Noordse parlementaire republiek. IJsland combineert een stabiele democratie, een welvaartsstaat, een open markteconomie, een zeer seculiere en progressieve samenleving, sterk institutioneel vertrouwen en een vreedzaam buitenlands beleid zonder permanente strijdkrachten."
+  },
+  {
+    "id": "finlandia",
+    "name": "Finland",
+    "category": "Sociaal-defensieve republiek",
+    "description": "Een Noordse parlementaire republiek. Finland combineert een welvaartsstaat, een sociale markteconomie, hoge prestaties op het gebied van onderwijs en technologie, progressieve waarden en een strategische cultuur gevormd door territoriale verdediging en de grens met Rusland."
+  },
+  {
+    "id": "imperio-mongol",
+    "name": "Mongoolse Rijk",
+    "category": "Militair-tribale confederatie",
+    "description": "Opgericht door Dzjengis Khan, verenigde het Mongoolse Rijk steppestammen, breidde het zich uit via verwoestende militaire campagnes, en regeerde het over diverse volkeren via vazalstaten, tribuut en pragmatische religieuze tolerantie."
+  },
+  {
+    "id": "brasil-regime-militar",
+    "name": "Brazilië onder militair bewind",
+    "category": "Ontwikkelingsgezinde-conservatieve dictatuur",
+    "description": "Dictatuur geïnstalleerd in 1964, die politieke repressie, censuur en veiligheidsdiensten combineerde met staatsgeleid ontwikkelingsdenken, grote infrastructuurprojecten, marktbescherming en conservatief moralisme tijdens de Koude Oorlog."
+  },
+  {
+    "id": "mexico-de-cardenas",
+    "name": "Mexico onder Cárdenas",
+    "category": "Nationalistisch-agrarisch populisme",
+    "description": "Regering van het Cardenistische hoogtepunt, die de geïnstitutionaliseerde Mexicaanse Revolutie markeerde door de nationalisatie van olie, de ejido-landhervorming, de incorporatie van arbeiders en boeren, populair secularisme en sterk presidentieel leiderschap."
+  },
+  {
+    "id": "confederacao-helvetica",
+    "name": "Oude Zwitserse Confederatie",
+    "category": "Gebruikelijk kantonale confederatie",
+    "description": "Middeleeuwse alliantie van autonome kantons, gevormd na het Verdrag van 1291. De Oude Zwitserse Confederatie opereerde zonder sterke centrale macht, en combineerde directe democratie in lokale vergaderingen (Landsgemeinde), onafhankelijke boerenmilities en zwakke gezamenlijke militaire/diplomatieke coördinatie tussen de kantons."
+  },
+  {
+    "id": "imperio-napoleonico",
+    "name": "Napoleontische Rijk",
+    "category": "Autoritair-militaristische monarchie",
+    "description": "Onder Napoleon Bonaparte concentreerde het Eerste Franse Keizerrijk de absolute macht bij de keizer, legde het de Code Civil en een gecentraliseerde administratie op in het veroverde Europa, en handhaafde het zijn territoriale expansie door voortdurende oorlogvoering en een massa-dienstplichtleger."
+  },
+  {
+    "id": "armenia",
+    "name": "Armenië",
+    "category": "Nationale-diasporische republiek",
+    "description": "Een semi-presidentiële republiek in de Kaukasus. Armenië combineert een christelijke nationale identiteit en historische rivaliteit met Azerbeidzjan en Turkije, en zoekt een evenwicht tussen Rusland, het Westen en Iran."
+  },
+  {
+    "id": "georgia",
+    "name": "Georgië",
+    "category": "Westerse-grensrepubliek",
+    "description": "Een semi-presidentiële republiek in de Kaukasus. Georgië streeft integratie met de Europese Unie en de NAVO na, onderhoudt een open markteconomie en wordt sinds 2008 geconfronteerd met Russische bezetting van Abchazië en Zuid-Ossetië."
+  },
+  {
+    "id": "belgica",
+    "name": "België",
+    "category": "Federale parlementaire monarchie",
+    "description": "Federale parlementaire monarchie, bestaande uit drie gewesten en drie taalgemeenschappen, met competitieve verkiezingen, brede sociale bescherming en een open economie geïntegreerd in de Europese Unie. De nationale politiek combineert meerpartijencoalities, regionale autonomie en garanties van godsdienstvrijheid."
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "category": "Presidentiële republiek en diensteneconomie",
+    "description": "Een unitaire presidentiële republiek die haar staande strijdkrachten heeft afgeschaft en een gedollariseerde economie handhaaft, gericht op het Kanaal, financiële diensten, de Colón Vrije Handelszone en internationale handelsintegratie."
+  },
+  {
+    "id": "peru",
+    "name": "Peru",
+    "category": "Andes-presidentiële republiek",
+    "description": "Een unitaire presidentiële republiek, gekenmerkt door ernstige politieke instabiliteit en opeenvolgende presidentiële afzettingen, met een open economie gebaseerd op mijnbouw, wijdverbreide informele arbeid en diepe ongelijkheid tussen de kust en de Andes- en Amazonegebieden."
+  },
+  {
+    "id": "paraguai",
+    "name": "Paraguay",
+    "category": "Presidentiële republiek",
+    "description": "Een unitaire presidentiële republiek die decennialang geregeerd is door de Colorado Partij, met lage belastingen, een op soja- en rundvleesexport gerichte economie, grote hydro-elektrische productie bij Itaipú, en een conservatieve, overwegend katholieke samenleving die tweetalig is in het Guaraní."
+  },
+  {
+    "id": "eslovenia",
+    "name": "Slovenië",
+    "category": "Parlementaire republiek",
+    "description": "Een parlementaire republiek die zich in 1991 vreedzaam van Joegoslavië afscheidde en zich aansloot bij de Europese Unie, de NAVO en de euro, en die een markteconomie combineert met sterke sociale bescherming, invloedrijke vakbonden en een overwegend seculiere samenleving."
+  },
+  {
+    "id": "eslovaquia",
+    "name": "Slowakije",
+    "category": "Parlementaire republiek",
+    "description": "Een parlementaire republiek, ontstaan uit de vreedzame opsplitsing van Tsjechoslowakije in 1993, geïntegreerd in de Europese Unie, de NAVO en de euro, met een industriële economie gericht op autoassemblage en een politiek gekenmerkt door nationalisme, katholiek traditionalisme en scepticisme ten aanzien van buitenlandse militaire hulp."
+  },
+  {
+    "id": "rodesia",
+    "name": "Rhodesië",
+    "category": "Staat met een blanke minderheid",
+    "description": "Na de eenzijdige onafhankelijkheidsverklaring van het Verenigd Koninkrijk in 1965, behield Rhodesië de macht in handen van een blanke minderheid door middel van een stemrecht op basis van bezit, handhaafde het een landbouw- en mijnbouweconomie onder internationale sancties, en voerde het een lange burgeroorlog totdat de overgang naar Zimbabwe plaatsvond."
+  },
+  {
+    "id": "suica-zug",
+    "name": "Zug (Zwitserland)",
+    "category": "Crypto-fiscale regio",
+    "description": "Het kleinste kanton van Zwitserland en een van de laagst belaste jurisdicties ter wereld, Zug trekt holdings en stichtingen aan door lage belastingen, herbergt de Crypto Valley rond Ethereum en accepteert belastingbetalingen in bitcoin, onder kantonale directe democratie."
+  },
+  {
+    "id": "chiapas",
+    "name": "Zapatistisch Chiapas (Mexico)",
+    "category": "Inheemse-communaal autonomie",
+    "description": "Zapatistische gebieden in Zuid-Mexico, sinds 1994 zelfbestuurd door voornamelijk Mayagemeenschappen via caracoles en Raden voor Goed Bestuur, die politieke partijen en de staat afwijzen, met een coöperatieve agrarische economie en sterk vrouwelijk leiderschap."
+  },
+  {
+    "id": "baviera",
+    "name": "Beieren (Duitsland)",
+    "category": "Conservatief-industriële regio",
+    "description": "De grootste deelstaat van Duitsland, Beieren combineert een sterke regionale identiteit en katholicisme, een historische dominantie door de CSU, toonaangevende industrie (BMW, Siemens) en een actieve verdediging van zijn fiscale en culturele autonomie tegenover Berlijn."
+  },
+  {
+    "id": "porto-rico",
+    "name": "Puerto Rico (Verenigde Staten)",
+    "category": "Koloniaal ongeïncorporeerd territorium",
+    "description": "Een ongeïncorporeerd territorium van de Verenigde Staten in het Caribisch gebied, Puerto Rico bezit het Amerikaanse staatsburgerschap zonder volledige stemvertegenwoordiging in het Congres, staat voor een aanhoudend debat tussen staatschap, onafhankelijkheid en de huidige status, en worstelt met een schuldencrisis en een grote afhankelijkheid van federale belastingvoordelen."
+  },
+  {
+    "id": "eua-wyoming",
+    "name": "Wyoming (Verenigde Staten)",
+    "category": "Libertair-extractieve regio",
+    "description": "De minst bevolkte Amerikaanse staat, Wyoming heft geen staatsinkomsten- of vennootschapsbelasting, baseert zijn economie op olie, gas en mijnbouw, en combineert een sterke wapencultuur met diep wantrouwen jegens de federale overheid."
+  },
+  {
+    "id": "peru-fujimorista",
+    "name": "Peru onder Fujimori",
+    "category": "Neoliberaal-populistische dictatuur",
+    "description": "Onder Alberto Fujimori combineerde Peru een zelfcoup en de sluiting van het Congres met neoliberale shockhervormingen, privatiseringen en handelsliberalisering, naast een 'vuile oorlog' tegen het Lichtend Pad gekenmerkt door bloedbaden en gedwongen sterilisaties."
+  },
+  {
+    "id": "palestina",
+    "name": "Palestina",
+    "category": "Gefragmenteerd gezag onder bezetting",
+    "description": "Erkend door de VN als waarnemersstaat, wordt Palestina bestuurd door de door Fatah geleide Palestijnse Autoriteit, met grondgebied verdeeld tussen de bezette Westelijke Jordaanoever en een door oorlog verwoeste Gazastrook, een van hulp afhankelijke economie, en verkiezingen die al twee decennia zijn opgeschort."
+  },
+  {
+    "id": "escocia",
+    "name": "Schotland (Verenigd Koninkrijk)",
+    "category": "Independentistische sociaaldemocratische natie",
+    "description": "Een constituent land van het Verenigd Koninkrijk, Schotland heeft zijn eigen parlement, een duidelijke nationale identiteit en taal, een sterke onafhankelijkheidsbeweging (referendum 2014) en een sociaaldemocratische politiek die linkser is dan die van Engeland."
+  },
+  {
+    "id": "sao-paulo",
+    "name": "São Paulo (Brazilië)",
+    "category": "Industrieel-financiële regio",
+    "description": "De meest bevolkte en rijkste staat van Brazilië, São Paulo is de industriële en financiële motor van het land, gekenmerkt door sterk economisch liberalisme, een kosmopolitische cultuur en een doorslaggevend gewicht in de nationale politiek."
+  },
+  {
+    "id": "rio-de-janeiro",
+    "name": "Rio de Janeiro (Brazilië)",
+    "category": "Toeristisch-beveiligingsregio",
+    "description": "Een staat die symbool staat voor het Braziliaanse toerisme en de cultuur, Rio de Janeiro kampt met stadsgeweld en territoriale geschillen tussen milities en drugsbendes, waarbij de politiek wordt gedomineerd door openbare veiligheid en populisme."
+  },
+  {
+    "id": "santa-catarina",
+    "name": "Santa Catarina (Brazilië)",
+    "category": "Industrieel-conservatieve regio",
+    "description": "Een zuidelijke staat bevolkt door Azoren en andere Europese immigranten, Santa Catarina heeft een hoge menselijke ontwikkelingsindex, een gediversifieerde economie van kleine en middelgrote bedrijven, en een overwegend conservatief electoraat."
+  },
+  {
+    "id": "parana",
+    "name": "Paraná (Brazilië)",
+    "category": "Agro-industriële conservatieve regio",
+    "description": "Een zuidelijke staat met sterke agribusiness en Europese immigrantenvestiging, Paraná combineert een bloeiende agrarische en industriële economie met een overwegend conservatief, economisch liberaal electoraat."
+  },
+  {
+    "id": "rio-grande-do-sul",
+    "name": "Rio Grande do Sul (Brazilië)",
+    "category": "Veeteelt-agribusiness regio",
+    "description": "De meest zuidelijke staat van Brazilië, Rio Grande do Sul heeft een sterke regionale identiteit en een traditie van gepolariseerde politieke geschillen, met een economie gebaseerd op agribusiness, veeteelt en industrie."
+  },
+  {
+    "id": "minas-gerais",
+    "name": "Minas Gerais (Brazilië)",
+    "category": "Historische, gematigde regio",
+    "description": "Als historische mijnstaat en geboorteplaats van een mislukte 18e-eeuwse onafhankelijkheidscomplot tegen de koloniale overheersing, heeft Minas Gerais een economie die gebaseerd is op mijnbouw en landbouw, met traditioneel gematigde, verzoenende politiek."
+  },
+  {
+    "id": "reino-de-jerusalem",
+    "name": "Koninkrijk Jeruzalem",
+    "category": "Feodale kruisvaardersmonarchie",
+    "description": "Het Koninkrijk Jeruzalem, een kruisvaardersstaat gesticht na de Eerste Kruistocht, was een Latijns-katholieke feodale monarchie, gesteund door de militaire ordes van de Tempeliers en Hospitaalridders, met machtige baronnen, constante heilige oorlog en een Frankische elite over een inheemse meerderheid."
+  },
+  {
+    "id": "siria-de-assad",
+    "name": "Assads Syrië",
+    "category": "Autoritaire Ba'athistische republiek",
+    "description": "Onder Bashar al-Assad (2000-2024) was Syrië een gecentraliseerd Ba'athistisch regime, in stand gehouden door veiligheidstroepen, een cliëntelistische staatseconomie en allianties met Rusland en Iran tijdens de burgeroorlog."
+  },
+  {
+    "id": "ira-pahlavi",
+    "name": "Iran onder de Sjah",
+    "category": "Moderniserende autoritaire monarchie",
+    "description": "Onder Mohammad Reza Pahlavi na 1953 combineerde Iran autoritaire monarchie en politieke repressie met industrialisatie, landhervorming en vrouwenrechten in de Witte Revolutie. Als bondgenoot van de VS financierde het ontwikkeling met olie tot 1979."
+  },
+  {
+    "id": "libia-de-gaddafi",
+    "name": "Gaddafi's Libië",
+    "category": "Autoritair socialistische Jamahiriya",
+    "description": "Onder Muammar Gaddafi (1969-2011) nationaliseerde Libië de olie en proclameerde het de directe democratie van de Jamahiriya. De macht bleef geconcentreerd bij Gaddafi, gesteund door revolutionaire comités en repressie van de oppositie."
+  },
+  {
+    "id": "iraque-baathista",
+    "name": "Ba'athistisch Irak",
+    "category": "Autoritaire Ba'athistische republiek",
+    "description": "Irak, geregeerd door de Ba'ath-partij van 1968 tot 2003, combineerde Arabisch nationalisme, staatsolie en eenpartijheerschappij. Onder Saddam Hoessein intensiveerde het regime de repressie, voerde het oorlogen tegen Iran en Koeweit en kreeg het te maken met internationale sancties."
+  },
+  {
+    "id": "reino-da-franca",
+    "name": "Koninkrijk Frankrijk",
+    "category": "Langbestaande christelijke monarchie",
+    "description": "Van West-Francië tot de afschaffing van de monarchie in 1792, evolueerde het koninkrijk van feodale heerschappij naar gecentraliseerd absolutisme. De Katholieke Kerk, de landedel en militaire expansie vormden een groot deel van haar geschiedenis."
+  },
+  {
+    "id": "reino-de-castela",
+    "name": "Koninkrijk Castilië",
+    "category": "Iberische christelijke monarchie",
+    "description": "Verenigd met León in 1230, breidde Castilië zich uit over Iberië en later de Amerika's. De Kroon, adel en Katholieke Kerk vormden haar politiek; instituties veranderden gedurende de bijna vijf eeuwen die hier behandeld worden."
+  },
+  {
+    "id": "coroa-de-aragao",
+    "name": "Kroon van Aragón",
+    "category": "Christelijke samengestelde monarchie",
+    "description": "Een dynastieke unie van Aragón, Catalonië en andere mediterrane landen waarvan de samenstellende rijken hun eigen wetten en vergaderingen behielden. De Kroon expandeerde door handel en verovering; haar instituties werden geleidelijk afgeschaft na de Spaanse Successieoorlog."
+  },
+  {
+    "id": "reino-da-hungria",
+    "name": "Koninkrijk Hongarije",
+    "category": "Midden-Europese christelijke monarchie",
+    "description": "Gesticht onder Stefanus I, doorliep het koninkrijk inheemse dynastieën, gedeeltelijke Ottomaanse heerschappij en Habsburgs bestuur. Adel, katholicisme en Hongaarse autonomie speelden veranderende rollen gedurende bijna een millennium."
+  },
+  {
+    "id": "antigo-egito",
+    "name": "Oude Egypte",
+    "category": "Faraonische monarchie",
+    "description": "Een beschaving in de Nijlvallei, geregeerd door faraonische dynastieën door perioden van eenheid en fragmentatie. Heilig koningschap, tempels en landbouwadministratie structureerden de samenleving; praktijken en instituties varieerden gedurende drie millennia."
+  },
+  {
+    "id": "paquistao",
+    "name": "Pakistan",
+    "category": "Islamitische republiek onder militaire voogdij",
+    "description": "Een parlementaire islamitische republiek en nucleaire macht, Pakistan wisselt burgerregeringen af met sterke militaire voogdij, met op sharia geïnspireerde wetten, een gemengde economie afhankelijk van buitenlandse hulp, en een permanente rivaliteit met India."
+  },
+  {
+    "id": "egito-atual",
+    "name": "Egypte",
+    "category": "Militair-statistisch regime",
+    "description": "Een Arabische presidentiële republiek, Egypte wordt geregeerd door een autoritair regime met zwaar militair gewicht, dat veiligheid en stabiliteit prioriteert, de oppositie controleert en een groot deel van de economie via de staat aanstuurt."
+  },
+  {
+    "id": "afeganistao",
+    "name": "Afghanistan",
+    "category": "Theocratisch emiraat",
+    "description": "Een islamitisch emiraat geregeerd door de Taliban sinds 2021, Afghanistan wordt bestuurd door een geestelijke opperste leider die een strikte interpretatie van de sharia oplegt, vrouwen uitsluit van onderwijs en werk, en kampt met een economische crisis en isolement."
+  },
+  {
+    "id": "marrocos",
+    "name": "Marokko",
+    "category": "Parlementaire islamitische monarchie",
+    "description": "Een constitutionele monarchie in Noord-Afrika, Marokko heeft een gekozen parlement, maar de koning, Commandant der Gelovigen, bezit de werkelijke macht, met officiële islam, een markteconomie open voor handel, en een claim op de Westelijke Sahara."
+  },
+  {
+    "id": "bahrein",
+    "name": "Bahrein",
+    "category": "Soennitische Golfmonarchie",
+    "description": "Een Perzische Golfmonarchie geregeerd door de soennitische Al Khalifa-dynastie over een sjiitische meerderheid. Bahrein combineert een geliberaliseerd financieel centrum, een parlement met beperkte bevoegdheden, onderdrukking van de oppositie sinds 2011, en aansluiting bij Saoedi-Arabië en de VS."
+  },
+  {
+    "id": "albania",
+    "name": "Albanië",
+    "category": "Seculiere parlementaire republiek",
+    "description": "Een parlementaire republiek met een moslimmeerderheid in de Balkan, Albanië is een seculiere staat met sterke interreligieuze coëxistentie, een markteconomie na het einde van het communistische regime van Enver Hoxha, NAVO-lidmaatschap en kandidaat voor de Europese Unie."
+  },
+  {
+    "id": "califado-abassida",
+    "name": "Abbasidische Kalifaat",
+    "category": "Islamitisch kalifaat",
+    "description": "Een soennitisch kalifaat met als hoofdstad Bagdad. De Abbasiden regeerden van de Maghreb tot Centraal-Azië onder een kalief met religieuze en politieke autoriteit, met een Perzisch-achtige bureaucratie, langeafstandshandel en het Huis der Wijsheid in de Islamitische Gouden Eeuw."
+  },
+  {
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "category": "Boeddhistisch-nationale republiek",
+    "description": "Een presidentiële eilandrepubliek in Zuid-Azië, Sri Lanka geeft constitutionele voorrang aan het boeddhisme, won de oorlog tegen Tamil-separatisten in 2009, werd geconfronteerd met de schuldencrisis van 2022 en koos een links-georiënteerde coalitie in 2024."
+  },
+  {
+    "id": "mianmar",
+    "name": "Myanmar",
+    "category": "Boeddhistische militaire junta",
+    "description": "Een Zuidoost-Aziatisch land geregeerd door een militaire junta sinds de coup van 2021, Myanmar bevindt zich in een burgeroorlog tegen etnische en pro-democratische milities, met officieel boeddhistisch nationalisme en vervolging van de islamitische Rohingya-minderheid."
+  },
+  {
+    "id": "mongolia",
+    "name": "Mongolië",
+    "category": "Postcommunistische democratie",
+    "description": "Een democratische republiek tussen Rusland en China, Mongolië verliet het communistische bewind in 1990 en heeft competitieve verkiezingen, een mijnbouwafhankelijke markteconomie, een nomadische traditie en een heropleving van het Tibetaanse boeddhisme."
+  },
+  {
+    "id": "turquia-de-ataturk",
+    "name": "Atatürk's Turkije",
+    "category": "Eénpartij Kemalistisch republiek",
+    "description": "Een republiek gesticht door Mustafa Kemal Atatürk op de ruïnes van het Ottomaanse Rijk, Kemalistisch Turkije schafte het kalifaat af en legde laïcisme, het Latijnse alfabet, vrouwenrechten en economisch etatisme op onder de éénpartij CHP."
+  },
+  {
+    "id": "daguestao",
+    "name": "Dagestan (Rusland)",
+    "category": "Patroon moslimregio",
+    "description": "Een republiek van de Russische Federatie in de Noord-Kaukasus, Dagestan is multi-etnisch en heeft een soennitische moslimmeerderheid, met sterke soefi-religiositeit, lokale clans, afhankelijkheid van subsidies uit Moskou, onderdrukking van radicaal islamisme en weinig echte autonomie."
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid (Spanje)",
+    "category": "Liberaal-conservatieve regio",
+    "description": "De autonome gemeenschap rond de Spaanse hoofdstad, Madrid wordt sinds 1995 geregeerd door de Volkspartij en werd, onder Isabel Díaz Ayuso, een voorbeeld van lage belastingen, economische vrijheid, schoolkeuze en aantrekkingskracht voor kapitaal en Latijns-Amerikaanse immigranten."
+  },
+  {
+    "id": "japao-tokugawa",
+    "name": "Tokugawa Japan",
+    "category": "Isolationistisch feodaal shogunaat",
+    "description": "Het Tokugawa shogunaat pacificeerde Japan na het Sengoku-tijdperk met een feodaal systeem van domeinen (bakuhan), een rigide sociale hiërarchie met vier klassen, officieel neo-confucianisme, een verbod op het christendom en externe isolatie (sakoku)."
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "category": "Soevereinistische presidentiële republiek",
+    "description": "Een West-Afrikaanse republiek met een soefi-moslimmeerderheid, Senegal is een stabiele seculiere democratie die sinds 2024, onder Bassirou Diomaye Faye en Ousmane Sonko, een links-georiënteerd soevereinisme nastreeft: het verwijderde Franse troepen en bekritiseert de CFA-frank."
+  },
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "category": "Federale presidentiële republiek",
+    "description": "Nigeria, het meest bevolkte land van Afrika, is een federatie verdeeld tussen een islamitisch noorden, met sharia in twaalf staten, en een christelijk zuiden, afhankelijk van olie en geteisterd door Boko Haram, en onder Bola Tinubu werden brandstofsubsidies geschrapt."
+  },
+  {
+    "id": "argelia",
+    "name": "Algerije",
+    "category": "Door militairen gesteunde presidentiële republiek",
+    "description": "Ontstaan uit de onafhankelijkheidsoorlog tegen Frankrijk, is Algerije een door het leger gedomineerde republiek met de islam als staatsgodsdienst, een staatsgeleide economie afhankelijk van olie en gas, een ongebonden buitenlands beleid en onderdrukking van de Hirak-beweging."
+  },
+  {
+    "id": "china-qing",
+    "name": "Qing-dynastie China",
+    "category": "Confucianistisch dynastiek rijk",
+    "description": "De laatste keizerlijke dynastie van China, gesticht door de Mantsjoes, de Qing regeerden via een confucianistische examenbureaucratie, breidden het rijk uit naar Tibet en Xinjiang, beperkten buitenlandse handel tot Kanton en kwamen in verval met de Opiumoorlogen en de Taiping-opstand."
+  },
+  {
+    "id": "grecia",
+    "name": "Griekenland",
+    "category": "Parlementaire republiek",
+    "description": "Een Zuidoost-Europese parlementaire democratie met de Orthodoxe Kerk erkend in haar grondwet, Griekenland overwon de schuldencrisis onder door de EU opgelegde bezuinigingen, wordt geregeerd door de Nieuwe Democratie van Kyriakos Mitsotakis en legaliseerde het homohuwelijk in 2024."
+  },
+  {
+    "id": "servia",
+    "name": "Servië",
+    "category": "Nationaal-conservatieve parlementaire republiek",
+    "description": "Servië, een Balkanland met een orthodoxe meerderheid, wordt sinds 2012 gedomineerd door de partij van Aleksandar Vučić, is kandidaat-lid van de EU maar staat dicht bij Rusland en China, is militair neutraal, erkent Kosovo niet en stond in 2025 voor massale studentenprotesten."
+  },
+  {
+    "id": "equador",
+    "name": "Ecuador",
+    "category": "Presidentiële republiek",
+    "description": "Ecuador, een Andesrepubliek die sinds 2000 gedollariseerd is, wordt geregeerd door Daniel Noboa, die een intern gewapend conflict tegen georganiseerde misdaad heeft uitgeroepen en soldaten heeft ingezet in de straten en gevangenissen, maar zag buitenlandse militaire bases afgewezen worden in een referendum in 2025."
+  },
+  {
+    "id": "tibete",
+    "name": "Theocratisch Tibet",
+    "category": "Boeddhistische theocratie",
+    "description": "Een de facto onafhankelijke staat tussen de val van de Qing-dynastie en de Chinese invasie, Tibet was een boeddhistische theocratie geregeerd door de Dalai Lama, met kloosters en aristocratie die het land bezaten, boeren eraan gebonden en opzettelijke isolatie van de moderne wereld."
+  },
+  {
+    "id": "reino-de-israel",
+    "name": "Koninkrijk Israël",
+    "category": "Theocratische monarchie",
+    "description": "Een monarchie die de Hebreeuwse stammen verenigde onder Saul, David en Salomo, het Koninkrijk Israël concentreerde de macht in een koning gezalfd door een profeet, met Jeruzalem en de Tempel als religieus centrum, de wet van de Thora, stamheffingen en expansie over zijn buren."
+  },
+  {
+    "id": "inglaterra",
+    "name": "Engeland (Verenigd Koninkrijk)",
+    "category": "Liberaal-conservatief constitutief land",
+    "description": "Het grootste constitutieve land van het Verenigd Koninkrijk, Engeland wordt rechtstreeks bestuurd door Westminster zonder eigen parlement, met een gevestigde Anglicaanse Kerk, een openbare gezondheidsdienst (NHS), een financieel centrum in Londen, een Brexit-meerderheid en een groeiende populistische stem."
+  },
+  {
+    "id": "eua-vermont",
+    "name": "Vermont (Verenigde Staten)",
+    "category": "Progressief-communaal gebied",
+    "description": "Een kleine landelijke staat in New England, Vermont combineert directe-democratie stadsvergaderingen, de progressieve politiek van Bernie Sanders, coöperaties, melkveehouderij en milieubescherming, met een van de minst religieuze bevolkingen van het land en tolerante wapenwetten."
+  },
+  {
+    "id": "eua-utah",
+    "name": "Utah (Verenigde Staten)",
+    "category": "Conservatief-communaal gebied",
+    "description": "Een westelijke Amerikaanse staat met een mormoonse meerderheid, Utah combineert de invloed van de Kerk van Jezus Christus van de Heiligen der Laatste Dagen op familie en gebruiken, een vlakke inkomstenbelasting, sluitende begrotingen, een bloeiende technologiesector, een welwillende houding ten opzichte van vluchtelingen en strikte alcoholcontrole."
+  },
+  {
+    "id": "eua-alasca",
+    "name": "Alaska (Verenigde Staten)",
+    "category": "Renterende grensregio",
+    "description": "De grootste Amerikaanse staat en een van de dunst bevolkte, Alaska leeft van olie, betaalt elke inwoner een jaarlijks dividend uit zijn Permanent Fonds, heft geen staatsinkomstenbelasting, en heeft een sterke wapencultuur, Native corporations en wantrouwen jegens de federale overheid."
+  },
+  {
+    "id": "treze-colonias",
+    "name": "Dertien Britse Kolonies",
+    "category": "Zelfbesturende mercantile koloniën",
+    "description": "Britse koloniën aan de Noord-Amerikaanse Atlantische kust, met vergaderingen van blanke grondeigenaren, door de Kroon benoemde gouverneurs, gevestigde en afwijkende kerken, handel onder de Navigatiewetten, slavernij in het Zuiden en expansie naar inheemse gebieden."
+  },
+  {
+    "id": "eua-pensilvania",
+    "name": "Pennsylvania (Verenigde Staten)",
+    "category": "Verdeelde industriële regio",
+    "description": "Een industriële noordoostelijke staat en bakermat van de Grondwet, Pennsylvania is verdeeld tussen het Democratische Philadelphia en Pittsburgh en een conservatief binnenland, met schaliegas, een vakbondstraditie, jachtcultuur en een staatsmonopolie op wijn en sterke dranken."
+  },
+  {
+    "id": "eua-illinois",
+    "name": "Illinois (Verenigde Staten)",
+    "category": "Metropolitaan-vakbondsregio",
+    "description": "Een Midwest-staat gedomineerd door Chicago, Illinois combineert een Democratische politieke machine met een geschiedenis van corruptie, sterke vakbonden in de publieke sector, een enorme pensioenschuld, strikte wapenwetten, een geliberaliseerd sociaal beleid en een conservatief agrarisch binnenland."
+  },
+  {
+    "id": "vice-reino-da-nova-espanha",
+    "name": "Onderkoninkrijk Nieuw-Spanje",
+    "category": "Katholiek-bureaucratisch onderkoninkrijk",
+    "description": "Het Spaanse onderkoninkrijk dat Mexico, Centraal-Amerika, het huidige Amerikaanse Zuidwesten en de Filipijnen omvatte, bestuurd door een onderkoning en audiencias onder koninklijk patronage, met de Inquisitie, een kastenmaatschappij, haciënda's, zilverwinning en door de Kroon gemonopoliseerde handel."
+  },
+  {
+    "id": "groenlandia",
+    "name": "Groenland (Denemarken)",
+    "category": "Arctisch-sociaal autonoom territorium",
+    "description": "Een autonoom territorium van het Koninkrijk Denemarken, Groenland heeft een eigen regering en parlement, een Inuit-meerderheid, een visserij-economie ondersteund door Deense subsidies, openbare gezondheidszorg en onderwijs, een debat over onafhankelijkheid en een Arctische strijd om mineralen en militaire bases."
+  },
+  {
+    "id": "lituania",
+    "name": "Litouwen",
+    "category": "Atlanticistische semi-presidentiële republiek",
+    "description": "Een Baltische semi-presidentiële republiek, Litouwen verliet de USSR in 1990 en behoort tot de EU, de euro en de NAVO, met sterke vijandigheid jegens Rusland, hoge militaire uitgaven, steun voor Oekraïne, een open economie en een katholieke meerderheidsmaatschappij die seculariseert."
+  },
+  {
+    "id": "letonia",
+    "name": "Letland",
+    "category": "Nationaal-atlanticistische parlementaire republiek",
+    "description": "Een Baltische parlementaire republiek, Letland combineert de EU, de NAVO en een open economie met de verdediging van de Letse taal, staatsburgerschap dat wordt onthouden aan een deel van de Russischsprekende minderheid, wantrouwen jegens Rusland en een Lutherse, Katholieke en Orthodoxe samenleving die sterk geseculariseerd is."
+  },
+  {
+    "id": "romenia",
+    "name": "Roemenië",
+    "category": "Orthodox-Atlantische semi-presidentiële republiek",
+    "description": "Een semi-presidentiële republiek met een Orthodoxe meerderheid, Roemenië erft het regime van Ceaușescu en combineert de EU, de NAVO en Amerikaanse bases met een lage vlaktaks, een anticorruptiecampagne, toenemend nationalisme, een invloedrijke Kerk en de annulering van de presidentsverkiezingen van 2024."
+  },
+  {
+    "id": "bulgaria",
+    "name": "Bulgarije",
+    "category": "Oligarchisch-Orthodoxe parlementaire republiek",
+    "description": "Een parlementaire republiek met een Orthodoxe meerderheid, Bulgarije behoort tot de EU en de NAVO, met een lage vlaktaks, chronische politieke instabiliteit, oligarchen en corruptie, historische banden met Rusland, een kerncentrale, een Romaminderheid en conservatieve wetten inzake gender."
+  },
+  {
+    "id": "croacia",
+    "name": "Kroatië",
+    "category": "Katholiek-toeristische parlementaire republiek",
+    "description": "Een Katholieke parlementaire republiek, Kroatië behoort tot de EU, de euro, Schengen en de NAVO, met een dominante Adriatische toeristische sector, langdurige HDZ-regeringen, een betwiste herinnering aan de onafhankelijkheidsoorlog, een Servische minderheid en een invloedrijke Kerk inzake gezinskwesties."
+  },
+  {
+    "id": "chipre",
+    "name": "Cyprus",
+    "category": "Gedeelde presidentiële republiek",
+    "description": "Een presidentiële republiek van de EU, verdeeld sinds de Turkse invasie van 1974, met een bezet noorden dat alleen door Turkije wordt erkend, een invloedrijke Orthodoxe Kerk, een economie gebaseerd op diensten en financiën, soevereine Britse bases, een sterke communistische partij en een vredesplan dat in 2004 werd afgewezen."
+  },
+  {
+    "id": "imperio-sueco",
+    "name": "Zweedse Rijk",
+    "category": "Lutherse fiscaal-militaire monarchie",
+    "description": "Een Lutherse Baltische macht tijdens de Dertigjarige Oorlog en de oorlogen van Karel X en Karel XII, het Zweedse Rijk berustte op een fiscaal-militaire staat, een monarchie met vier standen en de Lutherse Kerk, tot Poltava en Nystad."
+  },
+  {
+    "id": "suecia-finlandia",
+    "name": "Zweden-Finland",
+    "category": "Op standen gebaseerde verlichte monarchie",
+    "description": "Het koninkrijk Zweden-Finland na het verlies van het rijk: de Vrijheidstijd met een Riksdag van vier standen, baanbrekende persvrijheid (1766), de absolutistische staatsgreep van Gustav III in 1772 en het verlies van Finland aan Rusland in 1809."
+  },
+  {
+    "id": "shenzhen",
+    "name": "Shenzhen (China)",
+    "category": "Technologische export speciale economische zone",
+    "description": "China's eerste Speciale Economische Zone, opgericht door Deng Xiaoping in 1980, Shenzhen groeide van vissersdorp uit tot een wereldwijde technologie- en productiehub (Huawei, Tencent, DJI), met een dynamische markt onder toezicht van de Communistische Partij."
+  },
+  {
+    "id": "chongqing",
+    "name": "Chongqing (China)",
+    "category": "Industriële dirigistische gemeente",
+    "description": "China's grootste direct bestuurde gemeente, Chongqing combineert zware industrie, een autobouwfebvre en goederentreinen naar Europa met Bo Xilai's \"Chongqing-model\" (sociale woningbouw, misdaadbestrijdingscampagne, \"rode liederen\"), dat in 2012 eindigde."
+  },
+  {
+    "id": "imperio-austriaco",
+    "name": "Oostenrijkse Keizerrijk (Habsburgers)",
+    "category": "Gecentraliseerde multinationale monarchie",
+    "description": "Opgericht door de Habsburgers in 1804, was het Oostenrijkse Keizerrijk een multinationale Centraal-Europese monarchie tot het Compromis van 1867. Onder Frans I en Metternich combineerde het gecentraliseerde administratie, Katholieke suprematie en liberale repressie."
+  },
+  {
+    "id": "quebec",
+    "name": "Quebec (Canada)",
+    "category": "Franstalige federale provincie",
+    "description": "Een overwegend Franstalige Canadese provincie, Quebec beschermt Frans als haar gemeenschappelijke officiële taal en oefent uitgebreide bevoegdheden uit binnen de federatie. Quebecs nationalisme en staatssecularisme vormen haar regionale politiek."
+  },
+  {
+    "id": "pais-basco",
+    "name": "Baskenland (Spanje)",
+    "category": "Forale autonome gemeenschap",
+    "description": "Een autonome Spaanse gemeenschap bestaande uit Araba, Bizkaia en Gipuzkoa, met een eigen parlement, co-officiële Baskische taal en onderscheidende fiscale autonomie. Baskisch nationalisme en historische provinciale instellingen vormen de regionale politiek."
+  },
+  {
+    "id": "reino-da-irlanda",
+    "name": "Koninkrijk Ierland",
+    "category": "Afhankelijke parlementaire monarchie",
+    "description": "Opgericht in 1542, werd het koninkrijk bestuurd in personele unie door de Engelse en later Britse Kroon, met een administratie in Dublin. De Katholieke meerderheid kreeg te maken met strafwetten en politieke uitsluiting; de wetgevende unie met Groot-Brittannië beëindigde het koninkrijk in 1800."
+  },
+  {
+    "id": "rus-de-kiev",
+    "name": "Kievse Roes",
+    "category": "Gedecentraliseerde dynastieke monarchie",
+    "description": "Een dynastieke federatie van Oost-Slavische vorstendommen, met Kyiv als politiek en commercieel knooppunt op routes tussen de Oostzee en Constantinopel. Het hof nam het Byzantijnse Christendom aan in 988; opvolgingsconflicten en Mongoolse invasies verbraken de eenheid."
+  },
+  {
+    "id": "reino-da-escocia",
+    "name": "Koninkrijk Schotland",
+    "category": "Feodaal-parlementaire monarchie",
+    "description": "Een soeverein koninkrijk, traditioneel gedateerd tot 843, met een eigen Kroon, Parlement en wetgeving tot de unie met Engeland in 1707. De dynastieke unie van de kronen in 1603 en de Presbyteriaanse Reformatie vormden haar geschiedenis."
+  }
+]

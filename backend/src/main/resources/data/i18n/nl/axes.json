@@ -1,0 +1,74 @@
+[
+  {
+    "id": "estrutura",
+    "label": "Structuur",
+    "leftPole": "Federaal",
+    "rightPole": "Unitair"
+  },
+  {
+    "id": "representacao",
+    "label": "Vertegenwoordiging",
+    "leftPole": "Democratie",
+    "rightPole": "Autocratie"
+  },
+  {
+    "id": "poder",
+    "label": "Macht",
+    "leftPole": "Veiligheid",
+    "rightPole": "Vrijheid"
+  },
+  {
+    "id": "imigracao",
+    "label": "Immigratie",
+    "leftPole": "Assimilatie",
+    "rightPole": "Multiculturalisme"
+  },
+  {
+    "id": "diplomacia",
+    "label": "Diplomatie",
+    "leftPole": "Militaristisch",
+    "rightPole": "Pacifistisch"
+  },
+  {
+    "id": "intervencao",
+    "label": "Interventie",
+    "leftPole": "Niet-interventionistisch",
+    "rightPole": "Nationalistisch"
+  },
+  {
+    "id": "economia",
+    "label": "Economie",
+    "leftPole": "Publiek",
+    "rightPole": "Privaat"
+  },
+  {
+    "id": "controle",
+    "label": "Controle",
+    "leftPole": "Planning",
+    "rightPole": "Vrije markt"
+  },
+  {
+    "id": "comercio",
+    "label": "Handel",
+    "leftPole": "Protectionisme",
+    "rightPole": "Globalisme"
+  },
+  {
+    "id": "religiao",
+    "label": "Religie",
+    "leftPole": "Ongodsdienstig",
+    "rightPole": "Religieus"
+  },
+  {
+    "id": "moral",
+    "label": "Moraal",
+    "leftPole": "Progressief",
+    "rightPole": "Traditionalistisch"
+  },
+  {
+    "id": "tecnologia",
+    "label": "Technologie",
+    "leftPole": "Technologie",
+    "rightPole": "Biologie"
+  }
+]
